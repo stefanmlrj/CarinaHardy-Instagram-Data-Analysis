@@ -1,0 +1,46 @@
+{
+  "participants": [
+    {
+      "name": "Wodd Bangkok"
+    },
+    {
+      "name": "CARINA HARDY"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Wodd Bangkok",
+      "timestamp_ms": 1709375993738,
+      "content": "Your jews are really nice with feminine concept",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Wodd Bangkok",
+      "timestamp_ms": 1709375968351,
+      "content": "Hello Carina!\nNice to meet you and thank you so much\u00f0\u009f\u00a4\u008d",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1709372571685,
+      "content": "So great to meet you - we just love what you do!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1709372561755,
+      "content": "It's Carina and Tavish from the bangkok gem show!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Wodd Bangkok",
+  "is_still_participant": true,
+  "thread_path": "inbox/woddbangkok_1377388663659529",
+  "magic_words": [
+    
+  ]
+}

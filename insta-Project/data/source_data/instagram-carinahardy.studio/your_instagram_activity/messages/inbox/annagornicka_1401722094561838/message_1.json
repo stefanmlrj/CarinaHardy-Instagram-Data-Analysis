@@ -1,0 +1,114 @@
+{
+  "participants": [
+    {
+      "name": "anna gornicka"
+    },
+    {
+      "name": "CARINA HARDY"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "anna gornicka",
+      "timestamp_ms": 1714379707262,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "anna gornicka",
+      "timestamp_ms": 1711347577164,
+      "content": "Thank you on it now",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1711347522483,
+      "content": "Cindy \n+62 819 2201345",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "anna gornicka",
+      "timestamp_ms": 1711347518996,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1711347509587,
+      "content": "Yes & yes !",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "anna gornicka",
+          "timestamp": 1711347518
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "anna gornicka",
+      "timestamp_ms": 1711347500049,
+      "content": "I will ask for the price cuz probably I will have to transfer so more",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "anna gornicka",
+      "timestamp_ms": 1711347484990,
+      "content": "Omg amazing thank you so much! \nMuch appreciated \n\nNot sure when I will be in ubud so Gojek would be great, can I get number to your assistant so I could organise it with her \u00f0\u009f\u0098\u008d\u00f0\u009f\u0098\u008d\u00f0\u009f\u0098\u008d\u00f0\u009f\u0098\u008d",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1711347200261,
+      "content": "Hey dear! Yes we can do :) send them back to me by gojek or come to the stu to swap",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "anna gornicka",
+      "timestamp_ms": 1711345370244,
+      "content": "Ciao! \nCarina so sorry it\u00e2\u0080\u0099s probably a weird thing but I have bought this earrings from you which I loved but actually they don\u00e2\u0080\u0099t fit me that much as I though hahah and I was wondering if there is any any option to swap it for a ring which you had there the SNAKE which I also loved and wanted but had to pick up one thing \n\nNot sure if it\u00e2\u0080\u0099s possible but wanted to check with you \u00e2\u0080\u00a6.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "anna gornicka",
+      "timestamp_ms": 1711264722390,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1711194469690,
+      "content": "Same to you Anna!!!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "anna gornicka",
+      "timestamp_ms": 1711170668793,
+      "content": "Was pleasure to meet you today Carina! \n\nCan\u00e2\u0080\u0099t wait to wear these earrings \u00f0\u009f\u0098\u008d\u00f0\u009f\u0098\u008d\u00f0\u009f\u0098\u008d\u00f0\u009f\u0098\u008d",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "CARINA HARDY",
+          "timestamp": 1711194463
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "anna gornicka",
+  "is_still_participant": true,
+  "thread_path": "inbox/annagornicka_1401722094561838",
+  "magic_words": [
+    
+  ]
+}

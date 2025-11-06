@@ -1,0 +1,32 @@
+{
+  "participants": [
+    {
+      "name": "Rumah Hujan, Ubud Villa, Bali"
+    },
+    {
+      "name": "CARINA HARDY"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1708939852498,
+      "content": "Thank you dear !!!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Rumah Hujan, Ubud Villa, Bali",
+      "timestamp_ms": 1708925593014,
+      "content": "Beautiful pieces. Celebrating the strength of a woman, mothers and sisterhoods. \u00f0\u009f\u0099\u008f\u00f0\u009f\u0099\u008c\u00f0\u009f\u008f\u00bb\u00f0\u009f\u008c\u00b8\u00f0\u009f\u008c\u00b8\u00f0\u009f\u008c\u00b8",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Rumah Hujan, Ubud Villa, Bali",
+  "is_still_participant": true,
+  "thread_path": "inbox/rumahhujanubudvillabali_1374034450661617",
+  "magic_words": [
+    
+  ]
+}

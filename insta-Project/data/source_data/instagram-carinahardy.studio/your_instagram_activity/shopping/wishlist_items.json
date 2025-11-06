@@ -1,0 +1,44 @@
+{
+  "checkout_saved_products": [
+    {
+      "string_map_data": {
+        "Product Name": {
+          "value": "Marcello Earrings in Gold"
+        },
+        "Merchant Name": {
+          "value": "reliquiajewellery"
+        }
+      }
+    },
+    {
+      "string_map_data": {
+        "Product Name": {
+          "value": "Helios Necklace"
+        },
+        "Merchant Name": {
+          "value": "izajewelry"
+        }
+      }
+    },
+    {
+      "string_map_data": {
+        "Product Name": {
+          "value": "Yvonne Ring"
+        },
+        "Merchant Name": {
+          "value": "mahnal"
+        }
+      }
+    },
+    {
+      "string_map_data": {
+        "Product Name": {
+          "value": "Vuelo Earrings"
+        },
+        "Merchant Name": {
+          "value": "mahnal"
+        }
+      }
+    }
+  ]
+}

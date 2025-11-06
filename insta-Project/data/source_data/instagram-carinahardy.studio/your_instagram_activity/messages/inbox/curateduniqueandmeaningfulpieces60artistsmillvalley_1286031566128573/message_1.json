@@ -1,0 +1,40 @@
+{
+  "participants": [
+    {
+      "name": "Curated Unique and Meaningful Pieces | 60+ Artists | Mill Valley"
+    },
+    {
+      "name": "CARINA HARDY"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Curated Unique and Meaningful Pieces | 60+ Artists | Mill Valley",
+      "timestamp_ms": 1733931328896,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Curated Unique and Meaningful Pieces | 60+ Artists | Mill Valley",
+      "timestamp_ms": 1733931164712,
+      "content": "Congrats!! So fun!",
+      "share": {
+        "link": "https://instagram.com/stories/carinahardy.studio/3520749638087447570"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Curated Unique and Meaningful Pieces | 60+ Artists | Mill Valley",
+      "timestamp_ms": 1714839543748,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Curated Unique and Meaningful Pieces | 60+ Artists | Mill Valley",
+  "is_still_participant": true,
+  "thread_path": "inbox/curateduniqueandmeaningfulpieces60artistsmillvalley_1286031566128573",
+  "magic_words": [
+    
+  ]
+}

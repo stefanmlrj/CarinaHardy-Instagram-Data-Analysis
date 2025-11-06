@@ -1,0 +1,35 @@
+{
+  "participants": [
+    {
+      "name": "Caro"
+    },
+    {
+      "name": "CARINA HARDY"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Caro",
+      "timestamp_ms": 1730123624880,
+      "content": "\u00f0\u009f\u0091\u008f",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "CARINA HARDY",
+          "timestamp": 1730256743
+        }
+      ],
+      "share": {
+        "link": "https://instagram.com/stories/carinahardy.studio/3488702126845736167"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Caro",
+  "is_still_participant": true,
+  "thread_path": "inbox/caro_547127016685702",
+  "magic_words": [
+    
+  ]
+}

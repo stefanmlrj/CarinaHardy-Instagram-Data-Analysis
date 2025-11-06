@@ -1,0 +1,63 @@
+{
+  "participants": [
+    {
+      "name": "Sofia Baldi Pighi"
+    },
+    {
+      "name": "CARINA HARDY"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Sofia Baldi Pighi",
+      "timestamp_ms": 1710933451080,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Sofia Baldi Pighi",
+      "timestamp_ms": 1710933447489,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1710839694333,
+      "content": "\u00f0\u009f\u0094\u00a5",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Sofia Baldi Pighi",
+          "timestamp": 1710933451
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1710839682208,
+      "content": "incredible",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Sofia Baldi Pighi",
+          "timestamp": 1710933447
+        }
+      ],
+      "share": {
+        "link": "https://instagram.com/stories/sofiabaldipighi/3326498644263298905"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Sofia Baldi Pighi",
+  "is_still_participant": true,
+  "thread_path": "inbox/sofiabaldipighi_1387683019296760",
+  "magic_words": [
+    
+  ]
+}

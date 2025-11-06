@@ -1,0 +1,53 @@
+{
+  "participants": [
+    {
+      "name": "Jb Jones"
+    },
+    {
+      "name": "CARINA HARDY"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Jb Jones",
+      "timestamp_ms": 1707254677579,
+      "content": "Ah hello! Oh I will hope to be in Bali soon! Thanks so much for reaching out. Loved coming across your work. Keep in touch! Xo JB",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jb Jones",
+      "timestamp_ms": 1707254613682,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1707195029117,
+      "content": "j_b_j_o_n_e_s wasn't notified about this message because they're in quiet mode.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1707195028878,
+      "content": "Hey Jb! I want to say hi from across the internet & ocean and thank you for following our project. I hope we can cross paths soon, please reach out if you'll be in Bali soon and we'd love to have you over to the studio. & that calder necklace is one of the very best things ever! Sending love to you, xCarina",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Jb Jones",
+          "timestamp": 1707254613
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Jb Jones",
+  "is_still_participant": true,
+  "thread_path": "inbox/jbjones_1361280501937012",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "timestamp": 1731324112,
+  "media": [
+    
+  ],
+  "label_values": [
+    {
+      "label": "Description",
+      "value": "someone has tagged me on their story, but it doesn\u00e2\u0080\u0099t appear on my direct message as a notification. why is this happening? "
+    },
+    {
+      "label": "Submission time",
+      "timestamp_value": 1731324111
+    },
+    {
+      "label": "Consented to uploading device logs",
+      "value": "False"
+    }
+  ],
+  "fbid": "976253177716888"
+}

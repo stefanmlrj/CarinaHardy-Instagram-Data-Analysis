@@ -1,0 +1,60 @@
+{
+  "participants": [
+    {
+      "name": "Elena Oxenstierna"
+    },
+    {
+      "name": "CARINA HARDY"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Elena Oxenstierna",
+      "timestamp_ms": 1711842095581,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1711790214412,
+      "content": "Let us know if there\u00e2\u0080\u0099s anything we can do to help x",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Elena Oxenstierna",
+          "timestamp": 1711842095
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1711790210409,
+      "content": "We welcome any questions you have or  impressions you wish to share.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1711790208131,
+      "content": "Thank you for your support of Carina Hardy. I really love your enthusiasm with the Balinese culture.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1711790154993,
+      "content": "Elena, hi",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Elena Oxenstierna",
+  "is_still_participant": true,
+  "thread_path": "inbox/elenaoxenstierna_1394869678578094",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "participants": [
+    {
+      "name": "Anisha Gandhi"
+    },
+    {
+      "name": "CARINA HARDY"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1713259987570,
+      "content": "Great - thank you.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Anisha Gandhi",
+      "timestamp_ms": 1713259201948,
+      "content": "Haha ok done I\u00e2\u0080\u0099m sending everything over email to him right away",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1713259184819,
+      "content": "The more information you provide, the fewer questions he will ask haha!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1713259132576,
+      "content": "tavish@carinahardy.com",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1713259122848,
+      "content": "Would you kindly send any and all information to my partner Tavish",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1713259101462,
+      "content": "Anisha, great to hear from you, delighted that you're interested in working with us.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Anisha Gandhi",
+      "timestamp_ms": 1713249222671,
+      "content": "I\u00e2\u0080\u0099m anisha gandhi a celebrity stylist I\u00e2\u0080\u0099ve recently opened a new multidesigner store in Mumbai I wanted to check if you\u00e2\u0080\u0099d be keen on stocking with us. We\u00e2\u0080\u0099re doing an extremely exclusive range",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Anisha Gandhi",
+      "timestamp_ms": 1713245476188,
+      "content": "Hello! How are you",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Anisha Gandhi",
+  "is_still_participant": true,
+  "thread_path": "inbox/anishagandhi_1405861060812289",
+  "magic_words": [
+    
+  ]
+}

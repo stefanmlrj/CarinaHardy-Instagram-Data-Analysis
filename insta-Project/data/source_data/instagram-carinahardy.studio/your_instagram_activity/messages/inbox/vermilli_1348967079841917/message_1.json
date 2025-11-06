@@ -1,0 +1,88 @@
+{
+  "participants": [
+    {
+      "name": "VERMILLI"
+    },
+    {
+      "name": "CARINA HARDY"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "VERMILLI",
+      "timestamp_ms": 1728295626225,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1728295542861,
+      "content": "No worries! Ordering online is great - we provide free gojek delivery. Let me know if we can help in anyway.",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "VERMILLI",
+          "timestamp": 1728295626
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "VERMILLI",
+      "timestamp_ms": 1728295482439,
+      "content": "Ok thank you!! Unfortunately, I\u00e2\u0080\u0099m stuck in Canggu for the night so I\u00e2\u0080\u0099ll shop online.  Thank you!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1728294757332,
+      "content": "It's there's anyhting you're looking for in particular let me know how we can help",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1728294740903,
+      "content": "We have a number of stockists in Seminyak too.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1728294729474,
+      "content": "To se our full collection please come by our Ubud studio located at Bambu Indah",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1728294716467,
+      "content": "We have a selection of pieces @myrahpenaloza.bali in pererenan.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1728294295931,
+      "content": "Hi there! Thank you for reaching out.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "VERMILLI",
+      "timestamp_ms": 1728293979549,
+      "content": "Hi!  Do you sell anywhere in Canggu?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "VERMILLI",
+  "is_still_participant": true,
+  "thread_path": "inbox/vermilli_1348967079841917",
+  "magic_words": [
+    
+  ]
+}

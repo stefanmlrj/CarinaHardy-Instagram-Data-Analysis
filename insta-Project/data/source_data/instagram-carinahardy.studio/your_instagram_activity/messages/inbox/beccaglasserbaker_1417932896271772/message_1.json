@@ -1,0 +1,60 @@
+{
+  "participants": [
+    {
+      "name": "Becca Glasser-Baker"
+    },
+    {
+      "name": "CARINA HARDY"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Becca Glasser-Baker",
+      "timestamp_ms": 1715080488083,
+      "content": "Rglasserbaker@gmail.com",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1715079303776,
+      "content": "Becca, hi! That sounds great. What's your email address so I can keep Yael in the loop of our plans to meet. Week of the 20th is excellent. Looking forward xCarina",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Becca Glasser-Baker",
+      "timestamp_ms": 1714829629984,
+      "content": "Carina, \nThanks for reaching out, I would love to grab coffee or something. I\u00e2\u0080\u0099m about to leave for France, once I arrive back maybe we can schedule something, preferably the week of the 20th.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1714820774933,
+      "content": "I\u00e2\u0080\u0099d love to meet you - I\u00e2\u0080\u0099ll be arriving in New York City May 11th and staying until the 27th - do you have a few hours during that time? xx",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1714820766960,
+      "content": "Yael let me know that you attended a press event she hosted recently - I was delighted to learn this",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1714820573637,
+      "content": "Becca - it\u00e2\u0080\u0099s Carina. I\u00e2\u0080\u0099ve admired your work for a while now.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Becca Glasser-Baker",
+  "is_still_participant": true,
+  "thread_path": "inbox/beccaglasserbaker_1417932896271772",
+  "magic_words": [
+    
+  ]
+}

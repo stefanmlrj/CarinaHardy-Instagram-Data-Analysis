@@ -1,0 +1,39 @@
+{
+  "participants": [
+    {
+      "name": "Planting Seeds"
+    },
+    {
+      "name": "CARINA HARDY"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1727739411119,
+      "content": "Wooo have a blast \u00f0\u009f\u0092\u00a5",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Planting Seeds",
+      "timestamp_ms": 1727721928451,
+      "content": "Ny !!!!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1727696586166,
+      "content": "Where are you off to babe?!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Planting Seeds",
+  "is_still_participant": true,
+  "thread_path": "inbox/plantingseeds_593751495356587",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "participants": [
+    {
+      "name": "Kasey Miller"
+    },
+    {
+      "name": "CARINA HARDY"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Kasey Miller",
+      "timestamp_ms": 1722250673411,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1722239731746,
+      "content": "Excellent, hope to see you Friday!",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Kasey Miller",
+          "timestamp": 1722250673
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Kasey Miller",
+      "timestamp_ms": 1722232329046,
+      "content": "Oh great thank you I may be able to come Friday :)",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1722230607034,
+      "content": "We\u00e2\u0080\u0099re open by appointment on the weekends",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Kasey Miller",
+      "timestamp_ms": 1722230582309,
+      "content": "You're not open on the weekend?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1722219150383,
+      "content": "Let me know what time you want to come by \u00e2\u009c\u00a8\u00f0\u009f\u0092\u009b",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1722219140926,
+      "content": "Yes we are \nhttps://maps.app.goo.gl/qCYPnsLiLAK2uvsa8?g_st=ic",
+      "share": {
+        "link": "https://maps.app.goo.gl/qCYPnsLiLAK2uvsa8?g_st=ic",
+        "share_text": "Yes we are \nhttps://maps.app.goo.gl/qCYPnsLiLAK2uvsa8?g_st=ic"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1722219133582,
+      "content": "Hi there !",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Kasey Miller",
+      "timestamp_ms": 1722059361599,
+      "content": "Hello, is the ubud shop open today?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Kasey Miller",
+  "is_still_participant": true,
+  "thread_path": "inbox/kaseymiller_1450399473028219",
+  "magic_words": [
+    
+  ]
+}

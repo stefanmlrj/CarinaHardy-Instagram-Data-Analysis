@@ -1,0 +1,109 @@
+{
+  "participants": [
+    {
+      "name": "\u00f0\u009f\u0093\u00b7 Photographer/videographer"
+    },
+    {
+      "name": "CARINA HARDY"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "\u00f0\u009f\u0093\u00b7 Photographer/videographer",
+      "timestamp_ms": 1730119530818,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009f\u0093\u00b7 Photographer/videographer",
+      "timestamp_ms": 1730119527990,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009f\u0093\u00b7 Photographer/videographer",
+      "timestamp_ms": 1730119525714,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009f\u0093\u00b7 Photographer/videographer",
+      "timestamp_ms": 1730119497330,
+      "content": "Thank you so much for your reply and for connecting me with Tavish! I\u00e2\u0080\u0099ve sent him email as you suggested. I\u00e2\u0080\u0099m looking forward to seeing how we can bring some creative energy to the upcoming collections! :)",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1730106544937,
+      "content": "Let me know once you've reached out to I can make sure he receives your message.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1730106509903,
+      "content": "We've got a few collections coming out so maybe this timing is perfect.",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "\u00f0\u009f\u0093\u00b7 Photographer/videographer",
+          "timestamp": 1730119530
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1730106493078,
+      "content": "Please reach out to Tavish (tavish@carinahardy.com) and let me know about your kind offer.",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "\u00f0\u009f\u0093\u00b7 Photographer/videographer",
+          "timestamp": 1730119527
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1730106472446,
+      "content": "You've got a good look going on as well.",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "\u00f0\u009f\u0093\u00b7 Photographer/videographer",
+          "timestamp": 1730119525
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1730106464668,
+      "content": "Ana, thank you.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009f\u0093\u00b7 Photographer/videographer",
+      "timestamp_ms": 1729827490319,
+      "content": "Hello! \nMy name is Ana. I\u00e2\u0080\u0099m a photographer. I\u00e2\u0080\u0099m reaching out to you because I really love your brand, style and vibe. I would love to work with you. I have unusual look and interesting ideas for shootings. I can do test shooting for you for example and if you will love it we can discuss further work. Let me know if it sounds good for you! \nCheers!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "\u00f0\u009f\u0093\u00b7 Photographer/videographer",
+  "is_still_participant": true,
+  "thread_path": "inbox/photographervideographer_1548875813179238",
+  "magic_words": [
+    
+  ]
+}

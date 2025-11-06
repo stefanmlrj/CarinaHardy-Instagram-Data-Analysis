@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "MBS COLLECTIVE"
+    },
+    {
+      "name": "CARINA HARDY"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "MBS COLLECTIVE",
+      "timestamp_ms": 1704420939168,
+      "content": "MBS sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/p/C1s5LVzLAxW/?carousel_share_child_media_id=3273242497163988054_37494712452",
+        "share_text": "bali retreat, september 2023, on film captured by @naima.noguera \u00f0\u009f\u008c\u0080\u00f0\u009f\u008c\u008e\n\u00f0\u009f\u0087\u00b9\u00f0\u009f\u0087\u00ad thailand next!\nSTAY TUNED for upcoming retreat announcements\u00e2\u0080\u00a6 2024 will be so special! we are cooking \u00f0\u009f\u00a5\u0098",
+        "original_content_owner": "mbs.collective"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "MBS COLLECTIVE",
+  "is_still_participant": true,
+  "thread_path": "inbox/mbscollective_250475960197848",
+  "magic_words": [
+    
+  ]
+}

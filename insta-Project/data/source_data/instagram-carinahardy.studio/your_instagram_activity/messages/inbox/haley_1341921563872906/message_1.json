@@ -1,0 +1,39 @@
+{
+  "participants": [
+    {
+      "name": "haley"
+    },
+    {
+      "name": "CARINA HARDY"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "haley",
+      "timestamp_ms": 1705066225396,
+      "content": "Reacted \u00f0\u009f\u0099\u008f\u00f0\u009f\u008f\u00bc to your message ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1704668061955,
+      "content": "Haley, please feel free to send an email to Tavish tavish@elppin.com. Very open to hearing what you propose. Please make sure to include all relevant info regarding your ask as well.",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0099\u008f\u00f0\u009f\u008f\u00bc",
+          "actor": "haley",
+          "timestamp": 1705066225
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "haley",
+  "is_still_participant": true,
+  "thread_path": "inbox/haley_1341921563872906",
+  "magic_words": [
+    
+  ]
+}

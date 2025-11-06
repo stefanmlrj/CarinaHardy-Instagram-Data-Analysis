@@ -1,0 +1,60 @@
+{
+  "participants": [
+    {
+      "name": "HINDHILAL"
+    },
+    {
+      "name": "CARINA HARDY"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "HINDHILAL",
+      "timestamp_ms": 1712548577264,
+      "content": "Thank you",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "HINDHILAL",
+      "timestamp_ms": 1712548574607,
+      "content": "Of course",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "HINDHILAL",
+      "timestamp_ms": 1712548570649,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1712544387211,
+      "content": "Could you kindly email this message to:\n\ntavish@carinahardy.com",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "HINDHILAL",
+          "timestamp": 1712548570
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "HINDHILAL",
+      "timestamp_ms": 1712469789833,
+      "content": "Hello Carina Hardy Team,\n\n\n\nI hope you are doing very well.\n\nI'm Hind, the founder and designer of HINDHILAL, a contemporary brand based in Palestine. Our designs, founded in 2019 by Palestinian designer and architect Hind Hilal, aim to subtly convey messages of empowerment, blending traditional craftsmanship with a contemporary aesthetic.\n\n\nAs we prepare for our SS24 collection photoshoot in May, we're excited about the potential synergy between our powerful feminine silhouettes and your exquisite handcrafted pieces. We're particularly drawn to your \"Elppin Shield Earring\" and envision it as the perfect complement to our collection; feminine, earthy, and timeless.\n\nCould you please advise on your collaboration process and whether you offer a brand discount? \nWe're eager to hear your thoughts, And look forward to your reply.\n\nWarm regards,\nHind",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "HINDHILAL",
+  "is_still_participant": true,
+  "thread_path": "inbox/hindhilal_1400041318060930",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "participants": [
+    {
+      "name": "Julie Attallah | Photographer"
+    },
+    {
+      "name": "CARINA HARDY"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1707438211825,
+      "content": "https://maps.app.goo.gl/qCYPnsLiLAK2uvsa8?g_st=ic",
+      "share": {
+        "link": "https://maps.app.goo.gl/qCYPnsLiLAK2uvsa8?g_st=ic",
+        "share_text": "https://maps.app.goo.gl/qCYPnsLiLAK2uvsa8?g_st=ic"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1707438206865,
+      "content": "Our studio in Nyuh Kuning is open by appointment, let me know if you\u00e2\u0080\u0099d like to stop by!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1707438180667,
+      "content": "Hi! Thank you for reaching out.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Julie Attallah | Photographer",
+      "timestamp_ms": 1707407609252,
+      "content": "Hi! I absolutely love your jewelry and what it\u00e2\u0080\u0099s all about as well \u00e2\u009d\u00a4\u00ef\u00b8\u008f I was wondering if you had a shop in Bali that I could come visit?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Julie Attallah | Photographer",
+  "is_still_participant": true,
+  "thread_path": "inbox/julieattallahphotographer_1362919898439739",
+  "magic_words": [
+    
+  ]
+}

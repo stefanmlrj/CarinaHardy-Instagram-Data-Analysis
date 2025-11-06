@@ -1,0 +1,74 @@
+{
+  "participants": [
+    {
+      "name": "swibisana"
+    },
+    {
+      "name": "CARINA HARDY"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1716749446839,
+      "content": "We are happy to help you find the right piece - what do you have in mind?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "swibisana",
+      "timestamp_ms": 1716651104139,
+      "content": "Do you allow exchange or refund?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "swibisana",
+      "timestamp_ms": 1716651071453,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1716648372157,
+      "content": "Let me know if there\u00e2\u0080\u0099s anything we can do to help!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1716648362893,
+      "content": "We also provide free shipping to Jakarta",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1716648353713,
+      "content": "Hi! A few of our pieces are stocked in Sonderlab",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "swibisana",
+          "timestamp": 1716651071
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "swibisana",
+      "timestamp_ms": 1716627077446,
+      "content": "Hi do you have a stockist in Jakarta?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "swibisana",
+  "is_still_participant": true,
+  "thread_path": "inbox/swibisana_1344522740279455",
+  "magic_words": [
+    
+  ]
+}

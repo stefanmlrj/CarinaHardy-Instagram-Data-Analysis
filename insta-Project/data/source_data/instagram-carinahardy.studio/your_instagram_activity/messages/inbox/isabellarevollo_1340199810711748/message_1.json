@@ -1,0 +1,60 @@
+{
+  "participants": [
+    {
+      "name": "Isabella Revollo"
+    },
+    {
+      "name": "CARINA HARDY"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Isabella Revollo",
+      "timestamp_ms": 1704395017537,
+      "content": "Love your pieces and the brand's creative direction",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Isabella Revollo",
+      "timestamp_ms": 1704394974035,
+      "content": "Hi! Thank you \u00e2\u009c\u00a8\u00ef\u00b8\u008f",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1704389252876,
+      "content": "Let us know if there\u00e2\u0080\u0099s anything we can do to help xx",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1704389249319,
+      "content": "We welcome any questions you have or  impressions you wish to share.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1704389245834,
+      "content": "Thank you for your support of Elppin! I really love your feed and work \u00f0\u009f\u0096\u00a4",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1704389229577,
+      "content": "Isabella, hi!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Isabella Revollo",
+  "is_still_participant": true,
+  "thread_path": "inbox/isabellarevollo_1340199810711748",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Namustore"
+    },
+    {
+      "name": "CARINA HARDY"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Namustore",
+      "timestamp_ms": 1734346292178,
+      "content": "Namustore sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/p/DDovQj2yc8O/?carousel_share_child_media_id=3524274554615222030_1526857241",
+        "share_text": "Something to treasure @carinahardy.studio jewelery \u00e2\u009c\u00a8  Explore all the festive favorites in person at our NAMU store in Bali\n\n\u00f0\u009f\u0093\u00a9 DM us for more details or whatsapp +62 819 99190810 for any inquiries \u00f0\u009f\u0098\u0089\n\n#Namustore #Handmade is #Luxury #Festiveseason #GiftIdeas #Jewelry #bracelets #earrings #madeinBali #LuxuryAccessories #SeasonOfGiving #Artisan #Craftsmanship",
+        "original_content_owner": "namustore"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Namustore",
+  "is_still_participant": true,
+  "thread_path": "inbox/namustore_1323154502416279",
+  "magic_words": [
+    
+  ]
+}

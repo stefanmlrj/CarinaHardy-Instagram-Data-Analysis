@@ -1,0 +1,27 @@
+{
+  "participants": [
+    {
+      "name": "Kate Hudson"
+    },
+    {
+      "name": "CARINA HARDY"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1716369144034,
+      "share": {
+        "link": "https://instagram.com/stories/carinahardy.studio/3373471187874535381"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Kate Hudson",
+  "is_still_participant": true,
+  "thread_path": "inbox/katehudson_1430491725015889",
+  "magic_words": [
+    
+  ]
+}

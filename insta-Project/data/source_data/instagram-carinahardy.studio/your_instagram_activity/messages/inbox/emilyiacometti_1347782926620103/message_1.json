@@ -1,0 +1,28 @@
+{
+  "participants": [
+    {
+      "name": "Emily Iacometti"
+    },
+    {
+      "name": "CARINA HARDY"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Emily Iacometti",
+      "timestamp_ms": 1705425372804,
+      "content": "please\u00f0\u009f\u0092\u0096\u00e2\u009c\u00a8",
+      "share": {
+        "link": "https://instagram.com/stories/carinahardy.studio/3281448707719170987"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Emily Iacometti",
+  "is_still_participant": true,
+  "thread_path": "inbox/emilyiacometti_1347782926620103",
+  "magic_words": [
+    
+  ]
+}

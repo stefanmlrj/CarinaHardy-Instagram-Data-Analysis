@@ -1,0 +1,66 @@
+{
+  "participants": [
+    {
+      "name": "Johanan."
+    },
+    {
+      "name": "CARINA HARDY"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Johanan.",
+      "timestamp_ms": 1726209211383,
+      "content": "You\u00e2\u0080\u0099re welcome!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Johanan.",
+      "timestamp_ms": 1726209203688,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1726185553562,
+      "content": "Thank you!",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Johanan.",
+          "timestamp": 1726209203
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Johanan.",
+      "timestamp_ms": 1726161649652,
+      "content": "These are amazing!",
+      "share": {
+        "link": "https://instagram.com/stories/carinahardy.studio/3415506409063133305"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Johanan.",
+      "timestamp_ms": 1726161643869,
+      "content": "\u00f0\u009f\u0094\u00a5",
+      "share": {
+        "link": "https://instagram.com/stories/carinahardy.studio/3415506282361431380"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Johanan.",
+  "is_still_participant": true,
+  "thread_path": "inbox/johanan_1531860764878984",
+  "magic_words": [
+    
+  ]
+}

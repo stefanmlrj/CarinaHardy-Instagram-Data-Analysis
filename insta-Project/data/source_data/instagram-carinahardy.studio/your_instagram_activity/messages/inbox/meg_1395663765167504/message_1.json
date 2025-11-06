@@ -1,0 +1,53 @@
+{
+  "participants": [
+    {
+      "name": "Meg"
+    },
+    {
+      "name": "CARINA HARDY"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Meg",
+      "timestamp_ms": 1713285551138,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Meg",
+      "timestamp_ms": 1713285549777,
+      "content": "Check your spam, we have had some issues with our emails going there! \u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1713233299631,
+      "content": "Hey thank you for this nudge - I haven\u00e2\u0080\u0099t received an email from Amanda. Will reach out to her",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Meg",
+          "timestamp": 1713285551
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Meg",
+      "timestamp_ms": 1713204022533,
+      "content": "Hey Carina! Hope you\u00e2\u0080\u0099re well! Amanda is trying to get in contact with you regarding payment for our last order. We also would love to place an order for new pieces! Please email amanda@megshops.com when you get the chance. Thanks!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Meg",
+  "is_still_participant": true,
+  "thread_path": "inbox/meg_1395663765167504",
+  "magic_words": [
+    
+  ]
+}

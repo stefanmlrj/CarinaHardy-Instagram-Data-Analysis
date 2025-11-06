@@ -1,0 +1,25 @@
+{
+  "participants": [
+    {
+      "name": "Cheryn Cheam"
+    },
+    {
+      "name": "CARINA HARDY"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1705116512857,
+      "content": "Cheryn, hi! Wanted to let you know that we sent you a little gift via email on Dec 15th to express our appreciation for your support of Elppin. \u00f0\u009f\u0092\u0096",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Cheryn Cheam",
+  "is_still_participant": true,
+  "thread_path": "inbox/cheryncheam_1345454146852981",
+  "magic_words": [
+    
+  ]
+}

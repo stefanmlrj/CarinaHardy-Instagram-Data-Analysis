@@ -1,0 +1,80 @@
+{
+  "participants": [
+    {
+      "name": "Cate Versegi"
+    },
+    {
+      "name": "CARINA HARDY"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Cate Versegi",
+      "timestamp_ms": 1734679587730,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1734675728151,
+      "content": "Couldn\u00e2\u0080\u0099t be more RIGHT \u00f0\u009f\u0092\u008ca Christmas miracle !!",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Cate Versegi",
+          "timestamp": 1734679587
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Cate Versegi",
+      "timestamp_ms": 1734675535826,
+      "content": "ICONIC!!! MerryXmas sweetie ! X",
+      "share": {
+        "link": "https://instagram.com/stories/carinahardy.studio/3527020909276305955"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Cate Versegi",
+      "timestamp_ms": 1733822049769,
+      "content": "\u00f0\u009f\u0091\u008f",
+      "share": {
+        "link": "https://instagram.com/stories/carinahardy.studio/3519871872525784701"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Cate Versegi",
+      "timestamp_ms": 1705141432272,
+      "content": "Oh thank you ! I\u00e2\u0080\u0099ll check !\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "CARINA HARDY",
+          "timestamp": 1705141755
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1705141229797,
+      "content": "Cate, hi! Wanted to let you know that we sent you a little gift via email on Dec 15th to express our appreciation for your support of Elppin. \u00f0\u009f\u0092\u0096",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Cate Versegi",
+  "is_still_participant": true,
+  "thread_path": "inbox/cateversegi_516503999748004",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,120 @@
+{
+  "participants": [
+    {
+      "name": "LC"
+    },
+    {
+      "name": "CARINA HARDY"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1728881917459,
+      "videos": [
+        {
+          "uri": "your_instagram_activity/messages/inbox/lc_1552594992805561/videos/869457751992195.mp4",
+          "creation_timestamp": 1728881906
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1728881898003,
+      "content": "This is a different style, but a very cool cuff we recently made, that hasn\u00e2\u0080\u0099t been launched yet. Here we have our founder Carina trying it on",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1728881869455,
+      "content": "But we are happy to help you find something that matches your needs",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1728881846302,
+      "content": "We don\u00e2\u0080\u0099t have anything like this",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "LC",
+      "timestamp_ms": 1728383484247,
+      "content": "I am looking for something like that",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "LC",
+      "timestamp_ms": 1728383479137,
+      "photos": [
+        {
+          "uri": "your_instagram_activity/messages/inbox/lc_1552594992805561/photos/1744481119638476.jpg",
+          "creation_timestamp": 1728383478
+        },
+        {
+          "uri": "your_instagram_activity/messages/inbox/lc_1552594992805561/photos/850703507148452.jpg",
+          "creation_timestamp": 1728383477
+        },
+        {
+          "uri": "your_instagram_activity/messages/inbox/lc_1552594992805561/photos/1266840380982046.jpg",
+          "creation_timestamp": 1728383477
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "LC",
+      "timestamp_ms": 1728383461737,
+      "content": "Thank you \u00f0\u009f\u0099\u008f\u00f0\u009f\u008f\u00bd",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1728381878452,
+      "content": "Please let us know if there is anything we can do to help.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1728381874391,
+      "content": "We welcome any questions or impressions you wish to share.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1728381867332,
+      "content": "Thank you for checking us out.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1728378320884,
+      "content": "As of now we do not have a men\u00e2\u0080\u0099s line, but men certainly wear our pieces, often.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "LC",
+      "timestamp_ms": 1728305547528,
+      "content": "Hello! Do you have any men\u00e2\u0080\u0099s jewellery? :)",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "LC",
+  "is_still_participant": true,
+  "thread_path": "inbox/lc_1552594992805561",
+  "magic_words": [
+    
+  ]
+}

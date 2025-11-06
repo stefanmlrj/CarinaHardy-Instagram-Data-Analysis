@@ -1,0 +1,55 @@
+{
+  "participants": [
+    {
+      "name": "Sarasvati Concept Store"
+    },
+    {
+      "name": "CARINA HARDY"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Sarasvati Concept Store",
+      "timestamp_ms": 1724723912728,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1724654420932,
+      "content": "\u00e2\u0099\u00a5\u00ef\u00b8\u008f\u00f0\u009f\u0099\u008f",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Sarasvati Concept Store",
+          "timestamp": 1724723912
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Sarasvati Concept Store",
+      "timestamp_ms": 1724647614800,
+      "share": {
+        "link": "https://instagram.com/stories/sarasvaticonceptstore/3442916158029177974"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1718592321648,
+      "content": "Hey there! I've followed your store for a while and wanted to reach out. Sarasvati is one of the only stores that really stands out as we are looking stock select fine jewelry pieces at luxury hotel boutiques in Bali.  I'm curious if you'd be interested in showcasing a few of our 18K solid gold pieces. Please let me know if you think this might be a fit for you. Looking forward to your response. Carina",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Sarasvati Concept Store",
+  "is_still_participant": true,
+  "thread_path": "inbox/sarasvaticonceptstore_1447495536648841",
+  "magic_words": [
+    
+  ]
+}

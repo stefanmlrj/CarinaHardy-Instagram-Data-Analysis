@@ -1,0 +1,63 @@
+{
+  "participants": [
+    {
+      "name": "Irina V.  Pantaeva"
+    },
+    {
+      "name": "CARINA HARDY"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Irina V.  Pantaeva",
+      "timestamp_ms": 1735557383324,
+      "content": "\u00e2\u009c\u0085",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Irina V.  Pantaeva",
+      "timestamp_ms": 1735557383116,
+      "content": "Irina sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/reel/DEKX7Z4vkxN/?id=3533742094939999309_5961122508",
+        "share_text": "",
+        "original_content_owner": "tans18"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1735362831371,
+      "content": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Irina V.  Pantaeva",
+      "timestamp_ms": 1735062498671,
+      "content": "Oopsy\u00e2\u0080\u00a6 Still, enjoy Xmas \u00f0\u009f\u008e\u0084\u00e2\u0098\u0083\u00ef\u00b8\u008f\u00e2\u009d\u0084\u00ef\u00b8\u008f\u00f0\u009f\u00a4\u0097\u00f0\u009f\u008e\u0085\u00f0\u009f\u0095\u008a\u00ef\u00b8\u008f\u00f0\u009f\u0092\u008b\u00e2\u009d\u00a4\u00ef\u00b8\u008f\u00f0\u009f\u0092\u009d\u00f0\u009f\u0092\u0099",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Irina V.  Pantaeva",
+      "timestamp_ms": 1735062498425,
+      "content": "Irina sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/reel/DD9FAMXqhsB/?id=3529999686442818305_53390537470",
+        "share_text": "Christmas without paws is like a morning without gifts. A tree without decorations is like a morning without joyful faces. Christmas with paws colors life, makes people smile, brings happiness to the heart. Merry Christmas to all of the Christian world. I hope your Christmas is filled with beautiful memories!",
+        "original_content_owner": "cat_lover_naturwelt.m.p3"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Irina V.  Pantaeva",
+  "is_still_participant": true,
+  "thread_path": "inbox/irinavpantaeva_521715182341239",
+  "magic_words": [
+    
+  ]
+}

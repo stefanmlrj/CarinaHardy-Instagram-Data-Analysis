@@ -1,0 +1,46 @@
+{
+  "participants": [
+    {
+      "name": "Good Stock Oakland"
+    },
+    {
+      "name": "CARINA HARDY"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1707705713605,
+      "content": "Have there been any Elppin sales at good stock December & January please ?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1707705698366,
+      "content": "Hey Dana, I hope all is well. I\u00e2\u0080\u0099m sorry to hear the years been off to a hard start.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Good Stock Oakland",
+      "timestamp_ms": 1706298078162,
+      "content": "Hi\u00e2\u0080\u0094 yes I apologize for the delay- a family member has fallen ill and I have had a rough start to the year\u00e2\u0080\u0094 i will be in touch",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1706062813776,
+      "content": "Hey Dana! Following up on my email regarding a sales report for December - can you please let me know at your earliest convenience so we can close out 2023?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Good Stock Oakland",
+  "is_still_participant": true,
+  "thread_path": "inbox/goodstockoakland_1304181770979928",
+  "magic_words": [
+    
+  ]
+}

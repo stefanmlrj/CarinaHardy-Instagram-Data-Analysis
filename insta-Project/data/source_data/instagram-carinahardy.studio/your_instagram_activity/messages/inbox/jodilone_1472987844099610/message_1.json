@@ -1,0 +1,58 @@
+{
+  "participants": [
+    {
+      "name": "Jo Dilone"
+    },
+    {
+      "name": "CARINA HARDY"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Jo Dilone",
+      "timestamp_ms": 1720280274577,
+      "content": "Lips",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jo Dilone",
+      "timestamp_ms": 1720280271326,
+      "content": "So up your alley",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1720228539799,
+      "content": "Lips so tender",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1720228531421,
+      "content": "Fantastic !!!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jo Dilone",
+      "timestamp_ms": 1720012963985,
+      "content": "Jo sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/reel/C89igFaIXTR/?id=3404028631773705425_544241404",
+        "share_text": "I\u00e2\u0080\u0099m blown away by @didierltd contemporary gallery. Didier and Martine Haspeslagh opened a unique space specializing in jewelry made and designed by painters, sculptors, and architects from the second half of the 20th century, including artists like Claude Lalanne, AFRO Basaldella, Franco Cannilla, Giuseppe Uncini, Arnaldo Pomodoro, and many more.\n\nToday, let\u00e2\u0080\u0099s enjoy their Claude Lalanne collection.",
+        "original_content_owner": "jewellery_masterpiece"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Jo Dilone",
+  "is_still_participant": true,
+  "thread_path": "inbox/jodilone_1472987844099610",
+  "magic_words": [
+    
+  ]
+}

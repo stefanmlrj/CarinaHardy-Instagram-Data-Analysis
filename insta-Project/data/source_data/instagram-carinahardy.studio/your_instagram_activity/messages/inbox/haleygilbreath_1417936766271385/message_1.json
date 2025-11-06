@@ -1,0 +1,60 @@
+{
+  "participants": [
+    {
+      "name": "haley gilbreath"
+    },
+    {
+      "name": "CARINA HARDY"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "haley gilbreath",
+      "timestamp_ms": 1715091183699,
+      "content": "haley_gilbreath@condenast.com",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1715079773691,
+      "content": "That sounds great. What's your email address so I can keep Yael in the loop of our plans to meet. Thursday 24th morning sounds excellent. Looking forward xCarina",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "haley gilbreath",
+      "timestamp_ms": 1714827661683,
+      "content": "Hi! Thank you so much. That would be great, I will have an hour the week of the 20th maybe Weds or Thurs in the morning?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1714821084489,
+      "content": "I\u00e2\u0080\u0099d love to meet you - I\u00e2\u0080\u0099ll be arriving in New York City May 11th and staying until the 27th - do you have a few hours during that time? xx",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1714821078589,
+      "content": "Yael let me know that you attended a press event she hosted recently - I was delighted to learn this.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1714821070522,
+      "content": "haley - it\u00e2\u0080\u0099s Carina. I\u00e2\u0080\u0099ve admired your work for a while now.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "haley gilbreath",
+  "is_still_participant": true,
+  "thread_path": "inbox/haleygilbreath_1417936766271385",
+  "magic_words": [
+    
+  ]
+}

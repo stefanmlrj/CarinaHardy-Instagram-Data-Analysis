@@ -1,0 +1,27 @@
+{
+  "participants": [
+    {
+      "name": "Jim Thompson House"
+    },
+    {
+      "name": "CARINA HARDY"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1705236276123,
+      "share": {
+        "link": "https://instagram.com/stories/carinahardy.studio/3280082038287640383"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Jim Thompson House",
+  "is_still_participant": true,
+  "thread_path": "inbox/jimthompsonhouse_1360733115323945",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "participants": [
+    {
+      "name": "Bali 100% Natural Water Filter"
+    },
+    {
+      "name": "CARINA HARDY"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Bali 100% Natural Water Filter",
+      "timestamp_ms": 1718155834163,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Bali 100% Natural Water Filter",
+  "is_still_participant": true,
+  "thread_path": "inbox/bali100naturalwaterfilter_1444206796977715",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "participants": [
+    {
+      "name": "Cynthia Hardy"
+    },
+    {
+      "name": "CARINA HARDY"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Cynthia Hardy",
+      "timestamp_ms": 1709969336448,
+      "content": "I love",
+      "share": {
+        "link": "https://instagram.com/stories/carinahardy.studio/3319153471256902995"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Cynthia Hardy",
+  "is_still_participant": true,
+  "thread_path": "inbox/cynthiahardy_552943099441460",
+  "magic_words": [
+    
+  ]
+}

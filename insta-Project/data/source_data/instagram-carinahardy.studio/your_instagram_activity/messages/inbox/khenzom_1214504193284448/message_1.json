@@ -1,0 +1,59 @@
+{
+  "participants": [
+    {
+      "name": "khenzom"
+    },
+    {
+      "name": "CARINA HARDY"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1735362849794,
+      "content": "Oh my dear, visit Bali - Chiara is here now for the next bit of time!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "khenzom",
+      "timestamp_ms": 1735048084350,
+      "content": "\u00f0\u009f\u0094\u00a5",
+      "share": {
+        "link": "https://instagram.com/stories/carinahardy.studio/3530008315613100278"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "khenzom",
+      "timestamp_ms": 1715656629785,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1715609274193,
+      "content": "very cool",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "khenzom",
+          "timestamp": 1715656629
+        }
+      ],
+      "share": {
+        "link": "https://instagram.com/stories/khenzom/3367082134990569361"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "khenzom",
+  "is_still_participant": true,
+  "thread_path": "inbox/khenzom_1214504193284448",
+  "magic_words": [
+    
+  ]
+}

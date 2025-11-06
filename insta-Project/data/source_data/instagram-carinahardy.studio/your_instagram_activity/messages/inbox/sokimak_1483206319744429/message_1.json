@@ -1,0 +1,32 @@
+{
+  "participants": [
+    {
+      "name": "Soki Mak"
+    },
+    {
+      "name": "CARINA HARDY"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1721613942543,
+      "content": "What a dress",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1720927112259,
+      "content": "Amen",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Soki Mak",
+  "is_still_participant": true,
+  "thread_path": "inbox/sokimak_1483206319744429",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "participants": [
+    {
+      "name": "nai"
+    },
+    {
+      "name": "CARINA HARDY"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1713407108684,
+      "content": "We haven't yet determined what to do, there is so much going on the fun stuff always falls by the wayside!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "nai",
+      "timestamp_ms": 1712585102822,
+      "content": "hey carina! i hope you are well! \n\nwe received camis pics and they are so gorgeous! i am wondering if mias photos and the drone footage will be in circulation as well or if its gonna be dropped?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "nai",
+      "timestamp_ms": 1704762649767,
+      "content": "yes taken by jat as you know!",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "CARINA HARDY"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1704760989055,
+      "content": "Seeing them !! So beautiful Naima thank you!!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "nai",
+      "timestamp_ms": 1704723683668,
+      "content": "ok added!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1704675181803,
+      "content": "carina@elppin.com",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1704675177124,
+      "content": "Not yet!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "nai",
+      "timestamp_ms": 1704644138437,
+      "content": "?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "nai",
+      "timestamp_ms": 1704644136375,
+      "content": "hey carina! just making sure you received photos",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "nai",
+  "is_still_participant": true,
+  "thread_path": "inbox/nai_1283282773070119",
+  "magic_words": [
+    
+  ]
+}

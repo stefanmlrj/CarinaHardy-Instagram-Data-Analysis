@@ -1,0 +1,45 @@
+{
+  "participants": [
+    {
+      "name": "The Saha House"
+    },
+    {
+      "name": "CARINA HARDY"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "The Saha House",
+      "timestamp_ms": 1721723824710,
+      "content": "\u00f0\u009f\u0098\u008d",
+      "share": {
+        "link": "https://instagram.com/stories/carinahardy.studio/3418381547815438789"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Saha House",
+      "timestamp_ms": 1721382155267,
+      "content": "\u00f0\u009f\u0098\u008d",
+      "share": {
+        "link": "https://instagram.com/stories/carinahardy.studio/3415506409063133305"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Saha House",
+      "timestamp_ms": 1711113454539,
+      "content": "Hi beautiful, how are you? \n\nDo you have time next week if I can come by your studio and meet you to talk about borrowing one of your pieces for a photoshoot? \n\nI\u00e2\u0080\u0099m opening my little shop in 3 weeks in Pererenan. Would you be interested to have a small display on the main table? Your jewelry and my clothing would make a divine combination \u00e2\u009c\u00a8\u00f0\u009f\u00aa\u00b7\u00f0\u009f\u008c\u009a\n\nBig hugs, Jenny",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "The Saha House",
+  "is_still_participant": true,
+  "thread_path": "inbox/thesahahouse_1053816546024522",
+  "magic_words": [
+    
+  ]
+}

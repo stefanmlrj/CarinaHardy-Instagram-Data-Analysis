@@ -1,0 +1,52 @@
+{
+  "participants": [
+    {
+      "name": "Spencer Hansen"
+    },
+    {
+      "name": "CARINA HARDY"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Spencer Hansen",
+      "timestamp_ms": 1716698855706,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Spencer Hansen",
+      "timestamp_ms": 1716698829277,
+      "content": "Oh thank you \u00f0\u009f\u0099\u008f\u00f0\u009f\u008f\u00bc so cool you took the time to go.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1716667949908,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1716667935738,
+      "content": "Your show in New York looks dope! Congratulations",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Spencer Hansen",
+          "timestamp": 1716698855
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Spencer Hansen",
+  "is_still_participant": true,
+  "thread_path": "inbox/spencerhansen_1151357942929528",
+  "magic_words": [
+    
+  ]
+}

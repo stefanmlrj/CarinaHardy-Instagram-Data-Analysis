@@ -1,0 +1,50 @@
+{
+  "participants": [
+    {
+      "name": "Johannah Masters"
+    },
+    {
+      "name": "CARINA HARDY"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Johannah Masters",
+      "timestamp_ms": 1713616801983,
+      "content": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1713593780603,
+      "content": "Thank you Johannah! I'm so happy you found us through Yael xx",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Johannah Masters",
+      "timestamp_ms": 1713448638745,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Johannah Masters",
+      "timestamp_ms": 1713448566121,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Johannah Masters",
+      "timestamp_ms": 1713448533771,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Johannah Masters",
+  "is_still_participant": true,
+  "thread_path": "inbox/johannahmasters_1407346930663702",
+  "magic_words": [
+    
+  ]
+}

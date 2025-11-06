@@ -1,0 +1,32 @@
+{
+  "participants": [
+    {
+      "name": "JUSNOME"
+    },
+    {
+      "name": "CARINA HARDY"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1734572194902,
+      "content": "Rihanna recently started wearing our jewelry, so it\u00e2\u0080\u0099s incredible you captured that moment between two icons",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1734572161418,
+      "content": "Thank you for capturing the Mariah and RiRi moment",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "JUSNOME",
+  "is_still_participant": true,
+  "thread_path": "inbox/jusnome_1610162223715504",
+  "magic_words": [
+    
+  ]
+}

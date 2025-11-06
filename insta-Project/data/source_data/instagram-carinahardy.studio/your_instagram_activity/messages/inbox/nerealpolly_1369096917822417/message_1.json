@@ -1,0 +1,92 @@
+{
+  "participants": [
+    {
+      "name": "nereal.polly"
+    },
+    {
+      "name": "CARINA HARDY"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1711963804718,
+      "content": "Please let me know if I can help with any questions",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1711963799240,
+      "content": "https://carinahardy.com/products/roman-three-graces",
+      "share": {
+        "link": "https://carinahardy.com/products/roman-three-graces",
+        "share_text": "https://carinahardy.com/products/roman-three-graces"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1711963772146,
+      "content": "And this one is our Roman three graces ring $12,950 solid 18k gold",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1711963761212,
+      "content": "You sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/p/C4QQ5ASxDn_/",
+        "share_text": "Bite test. Tastes recycled.",
+        "original_content_owner": "carinahardy.studio"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1711963645119,
+      "content": "This is our woman of willendorf pendant in solid 18k yellow gold  $8,175 \nhttps://carinahardy.com/products/woman-of-willendorf-1",
+      "share": {
+        "link": "https://carinahardy.com/products/woman-of-willendorf-1",
+        "share_text": "This is our woman of willendorf pendant in solid 18k yellow gold  $8,175 \nhttps://carinahardy.com/products/woman-of-willendorf-1"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1711963605538,
+      "content": "You sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/p/C4QRQLpxsU3/",
+        "share_text": "Venus front and back.",
+        "original_content_owner": "carinahardy.studio"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1711963594700,
+      "content": "Following up from your IG comment",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1711963589274,
+      "content": "Hi dear",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "nereal.polly",
+  "is_still_participant": true,
+  "thread_path": "inbox/nerealpolly_1369096917822417",
+  "magic_words": [
+    
+  ]
+}

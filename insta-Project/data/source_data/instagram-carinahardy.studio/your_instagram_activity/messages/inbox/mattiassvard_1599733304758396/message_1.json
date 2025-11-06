@@ -1,0 +1,25 @@
+{
+  "participants": [
+    {
+      "name": "Mattias Sv\u00c3\u00a4rd"
+    },
+    {
+      "name": "CARINA HARDY"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Mattias Sv\u00c3\u00a4rd",
+      "timestamp_ms": 1733335768139,
+      "content": "Hi there",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Mattias Sv\u00c3\u00a4rd",
+  "is_still_participant": true,
+  "thread_path": "inbox/mattiassvard_1599733304758396",
+  "magic_words": [
+    
+  ]
+}

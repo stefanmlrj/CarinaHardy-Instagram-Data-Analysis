@@ -1,0 +1,38 @@
+{
+  "participants": [
+    {
+      "name": "Stephanie Zubiri | Soulful Living"
+    },
+    {
+      "name": "CARINA HARDY"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Stephanie Zubiri | Soulful Living",
+      "timestamp_ms": 1732181567478,
+      "content": "Aww thank you hun! Right back at you!! Loving these pieces so much",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1732181392644,
+      "content": "You are beautiful, just beautiful",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Stephanie Zubiri | Soulful Living",
+      "timestamp_ms": 1732178944504,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Stephanie Zubiri | Soulful Living",
+  "is_still_participant": true,
+  "thread_path": "inbox/stephaniezubirisoulfulliving_1589780759086984",
+  "magic_words": [
+    
+  ]
+}

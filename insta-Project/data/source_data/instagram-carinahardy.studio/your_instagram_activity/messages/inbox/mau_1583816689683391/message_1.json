@@ -1,0 +1,72 @@
+{
+  "participants": [
+    {
+      "name": "mau"
+    },
+    {
+      "name": "CARINA HARDY"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "mau",
+      "timestamp_ms": 1731487893098,
+      "content": "Okay thank you \u00f0\u009f\u0098\u008a",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1731487748649,
+      "content": "thank you for your patience",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1731487741120,
+      "content": "we will have everything back tomorrow",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1731487730666,
+      "content": "we\u00e2\u0080\u0099re currently having a lot of moving inventory with the trunk show",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1731487696567,
+      "content": "Hello, please allow us to confirm the availability with you tomorrow",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "mau",
+      "timestamp_ms": 1731479598376,
+      "photos": [
+        {
+          "uri": "your_instagram_activity/messages/inbox/mau_1583816689683391/photos/585677103899879.jpg",
+          "creation_timestamp": 1731479597
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "mau",
+      "timestamp_ms": 1731479588567,
+      "content": "Hi. Still available? Thanks",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "mau",
+  "is_still_participant": true,
+  "thread_path": "inbox/mau_1583816689683391",
+  "magic_words": [
+    
+  ]
+}

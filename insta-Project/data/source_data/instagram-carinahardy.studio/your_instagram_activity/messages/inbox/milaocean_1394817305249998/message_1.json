@@ -1,0 +1,27 @@
+{
+  "participants": [
+    {
+      "name": "Mila OceaN"
+    },
+    {
+      "name": "CARINA HARDY"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Mila OceaN",
+      "timestamp_ms": 1711782691865,
+      "share": {
+        "link": "https://instagram.com/stories/ocean_mila/3334997292061855259"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Mila OceaN",
+  "is_still_participant": true,
+  "thread_path": "inbox/milaocean_1394817305249998",
+  "magic_words": [
+    
+  ]
+}

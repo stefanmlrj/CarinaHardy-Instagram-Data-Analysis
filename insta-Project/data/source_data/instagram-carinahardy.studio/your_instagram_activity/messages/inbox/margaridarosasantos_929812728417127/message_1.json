@@ -1,0 +1,42 @@
+{
+  "participants": [
+    {
+      "name": "Margarida Rosa Santos"
+    },
+    {
+      "name": "CARINA HARDY"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Margarida Rosa Santos",
+      "timestamp_ms": 1716046609961,
+      "content": "Margarida sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/reel/C6RVyh8uKtz/?id=3355559028770515827_64723563193",
+        "share_text": "Consejos para madres y padres.\n\n#crianzafeliz #hijos #crianza #educacioninfantil",
+        "original_content_owner": "crianza_respetuosa_2025"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Margarida Rosa Santos",
+      "timestamp_ms": 1715681065366,
+      "content": "Margarida sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/p/C66ZfqCqocz/?carousel_share_child_media_id=3367115772016612632_6292682608",
+        "share_text": "",
+        "original_content_owner": "opusdiversidades"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Margarida Rosa Santos",
+  "is_still_participant": true,
+  "thread_path": "inbox/margaridarosasantos_929812728417127",
+  "magic_words": [
+    
+  ]
+}

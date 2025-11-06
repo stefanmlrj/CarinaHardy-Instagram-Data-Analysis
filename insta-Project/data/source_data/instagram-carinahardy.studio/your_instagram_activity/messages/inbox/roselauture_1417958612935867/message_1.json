@@ -1,0 +1,60 @@
+{
+  "participants": [
+    {
+      "name": "Rose Lauture"
+    },
+    {
+      "name": "CARINA HARDY"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Rose Lauture",
+      "timestamp_ms": 1715164026902,
+      "content": "Sounds great! It\u00e2\u0080\u0099s rose.lauture@hearst.com\n\nLooking forward as well! xx",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1715079032289,
+      "content": "Of course week of the 19th is excellent. What's your email address so I can keep Yael in the loop of our plans to meet. Looking forward xCarina",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Rose Lauture",
+      "timestamp_ms": 1714832599298,
+      "content": "Hi Carina! It is so great to hear from you! Thank you so much. Would love to meet you too! I will be traveling next week for the shoot and have another shoot the following week. Would the week of the 19th work? xx",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1714823725590,
+      "content": "I\u00e2\u0080\u0099d love to meet you - I\u00e2\u0080\u0099ll be arriving in New York City May 11th and staying until the 27th - do you have a few hours during that time? xx",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1714823716441,
+      "content": "Yael let me know that you attended a press event she hosted recently - I was delighted to learn this.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1714823707428,
+      "content": "Rose - it\u00e2\u0080\u0099s Carina. I\u00e2\u0080\u0099ve admired your work for a while now.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Rose Lauture",
+  "is_still_participant": true,
+  "thread_path": "inbox/roselauture_1417958612935867",
+  "magic_words": [
+    
+  ]
+}

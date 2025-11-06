@@ -1,0 +1,28 @@
+{
+  "participants": [
+    {
+      "name": "Photographer"
+    },
+    {
+      "name": "CARINA HARDY"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Photographer",
+      "timestamp_ms": 1708941290848,
+      "content": "\u00f0\u009f\u0098\u008d",
+      "share": {
+        "link": "https://instagram.com/stories/carinahardy.studio/3310446616481562314"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Photographer",
+  "is_still_participant": true,
+  "thread_path": "inbox/photographer_1289864499078613",
+  "magic_words": [
+    
+  ]
+}

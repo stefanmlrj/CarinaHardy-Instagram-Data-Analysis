@@ -1,0 +1,38 @@
+{
+  "participants": [
+    {
+      "name": "floreana___"
+    },
+    {
+      "name": "CARINA HARDY"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "floreana___",
+      "timestamp_ms": 1734577400042,
+      "content": "\u00f0\u009f\u0094\u00a5",
+      "share": {
+        "link": "https://instagram.com/stories/carinahardy.studio/3526160814820636226"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "floreana___",
+      "timestamp_ms": 1705056800508,
+      "content": "\u00f0\u009f\u0098\u008d",
+      "share": {
+        "link": "https://instagram.com/stories/carinahardy.studio/3278518681139023975"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "floreana___",
+  "is_still_participant": true,
+  "thread_path": "inbox/floreana____1300138831384513",
+  "magic_words": [
+    
+  ]
+}

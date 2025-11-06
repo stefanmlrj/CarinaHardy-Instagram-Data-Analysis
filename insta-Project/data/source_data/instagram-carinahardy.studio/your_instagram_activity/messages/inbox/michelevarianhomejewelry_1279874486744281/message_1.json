@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "Michele Varian Home + Jewelry"
+    },
+    {
+      "name": "CARINA HARDY"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1728983051278,
+      "share": {
+        "link": "https://instagram.com/stories/carinahardy.studio/3479284427711329742"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1728983036526,
+      "share": {
+        "link": "https://instagram.com/stories/carinahardy.studio/3479284301404072333"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Michele Varian Home + Jewelry",
+  "is_still_participant": true,
+  "thread_path": "inbox/michelevarianhomejewelry_1279874486744281",
+  "magic_words": [
+    
+  ]
+}

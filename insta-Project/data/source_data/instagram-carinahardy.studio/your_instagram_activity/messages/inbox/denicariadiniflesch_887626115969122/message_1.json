@@ -1,0 +1,70 @@
+{
+  "participants": [
+    {
+      "name": "Denica Riadini-Flesch"
+    },
+    {
+      "name": "CARINA HARDY"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Denica Riadini-Flesch",
+      "timestamp_ms": 1725022207634,
+      "content": "We need a collaboration pronto, my love",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Denica Riadini-Flesch",
+      "timestamp_ms": 1725022200277,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1725021378666,
+      "content": "Same !!! Softness is strength when we can incorporate it",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Denica Riadini-Flesch",
+          "timestamp": 1725022200
+        }
+      ],
+      "share": {
+        "link": "https://instagram.com/stories/denicaflesch/3446050825624511888"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Denica Riadini-Flesch",
+      "timestamp_ms": 1710730106950,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1710728811537,
+      "content": "Huge moves!",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Denica Riadini-Flesch",
+          "timestamp": 1710730106
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Denica Riadini-Flesch",
+  "is_still_participant": true,
+  "thread_path": "inbox/denicariadiniflesch_887626115969122",
+  "magic_words": [
+    
+  ]
+}

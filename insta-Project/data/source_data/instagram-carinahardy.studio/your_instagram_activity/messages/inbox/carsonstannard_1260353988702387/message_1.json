@@ -1,0 +1,88 @@
+{
+  "participants": [
+    {
+      "name": "Carson Stannard"
+    },
+    {
+      "name": "CARINA HARDY"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Carson Stannard",
+      "timestamp_ms": 1715377790805,
+      "content": "Hi Carina! Pleasure to meet you! I did attend the press event and saw your beautiful pieces! I would love to meet you as well, what are some good dates to meet??",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Carson Stannard",
+      "timestamp_ms": 1715377788494,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Carson Stannard",
+      "timestamp_ms": 1715377787725,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Carson Stannard",
+      "timestamp_ms": 1715377786845,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1714822460223,
+      "content": "I\u00e2\u0080\u0099d love to meet you - I\u00e2\u0080\u0099ll be arriving in New York City May 11th and staying until the 27th - do you have a few hours during that time? xx",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Carson Stannard",
+          "timestamp": 1715377788
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1714822454242,
+      "content": "Yael let me know that you attended a press event she hosted recently - I was delighted to learn this.",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Carson Stannard",
+          "timestamp": 1715377786
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1714822449181,
+      "content": "Carson- it\u00e2\u0080\u0099s Carina. I\u00e2\u0080\u0099ve admired your work for a while now.",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Carson Stannard",
+          "timestamp": 1715377787
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Carson Stannard",
+  "is_still_participant": true,
+  "thread_path": "inbox/carsonstannard_1260353988702387",
+  "magic_words": [
+    
+  ]
+}

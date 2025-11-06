@@ -1,0 +1,25 @@
+{
+  "participants": [
+    {
+      "name": "Nikhil_211"
+    },
+    {
+      "name": "CARINA HARDY"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Nikhil_211",
+      "timestamp_ms": 1709617110763,
+      "content": "Nikhil_211 sent an attachment.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Nikhil_211",
+  "is_still_participant": true,
+  "thread_path": "inbox/nikhil_211_1184678299597234",
+  "magic_words": [
+    
+  ]
+}

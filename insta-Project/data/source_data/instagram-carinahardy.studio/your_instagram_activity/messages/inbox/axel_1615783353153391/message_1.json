@@ -1,0 +1,28 @@
+{
+  "participants": [
+    {
+      "name": "Axel"
+    },
+    {
+      "name": "CARINA HARDY"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Axel",
+      "timestamp_ms": 1735216719518,
+      "content": "\u00f0\u009f\u0094\u00a5",
+      "share": {
+        "link": "https://instagram.com/stories/carinahardy.studio/3531255143501686421"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Axel",
+  "is_still_participant": true,
+  "thread_path": "inbox/axel_1615783353153391",
+  "magic_words": [
+    
+  ]
+}

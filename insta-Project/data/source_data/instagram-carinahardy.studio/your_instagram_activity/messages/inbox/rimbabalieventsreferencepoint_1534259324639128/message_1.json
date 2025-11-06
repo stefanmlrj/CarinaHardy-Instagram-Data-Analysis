@@ -1,0 +1,64 @@
+{
+  "participants": [
+    {
+      "name": "Rimba | Bali Events Reference Point"
+    },
+    {
+      "name": "CARINA HARDY"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Rimba | Bali Events Reference Point",
+      "timestamp_ms": 1726633597122,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Rimba | Bali Events Reference Point",
+      "timestamp_ms": 1726633594645,
+      "content": "thank you \u00f0\u009f\u0099\u008f\u00f0\u009f\u008f\u00bd",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1726628162116,
+      "content": "You are very kind - we will work on this when time allows.",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Rimba | Bali Events Reference Point",
+          "timestamp": 1726633597
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1726628129443,
+      "content": "Thank you",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Rimba | Bali Events Reference Point",
+      "timestamp_ms": 1726413309853,
+      "content": "Hi team!\n\nHow are you? this is Andi from Rimba Events. We\u00e2\u0080\u0099d love to feature you on our event platform: https://rimba.events/\n\nIf you\u00e2\u0080\u0099re keen, sign up for free and have full control over posting and promoting your events (website and Rimba social handles), whether it\u00e2\u0080\u0099s one-time, weekly, or monthly. It\u00e2\u0080\u0099s a great way for you to reach a wider audience!\n\nEASY PROCESS\n\u00f0\u009f\u0091\u0089 Register here: https://rimba.events/login\n\nAlso, if you have more than 1 event you wish to put on our website, please send the scheduled events through email, along with the poster & descriptions. You can send them over through hello@rimba.events & andi@rimba.events\n\nIf you have any questions, feel free to email me at andi@rimba.events.\n\nCheers!\nAndi",
+      "share": {
+        "link": "https://rimba.events/",
+        "share_text": "Explore the vibrant tapestry of Bali's events landscape. Find the latest happenings, from cultural festivals to nightlife extravaganzas. Plan your Bali experience!"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Rimba | Bali Events Reference Point",
+  "is_still_participant": true,
+  "thread_path": "inbox/rimbabalieventsreferencepoint_1534259324639128",
+  "magic_words": [
+    
+  ]
+}

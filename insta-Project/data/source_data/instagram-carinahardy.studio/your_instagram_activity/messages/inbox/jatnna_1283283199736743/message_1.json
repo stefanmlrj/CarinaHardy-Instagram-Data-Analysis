@@ -1,0 +1,80 @@
+{
+  "participants": [
+    {
+      "name": "Jatnna"
+    },
+    {
+      "name": "CARINA HARDY"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Jatnna",
+      "timestamp_ms": 1713989298514,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jatnna",
+      "timestamp_ms": 1704813331437,
+      "content": "Aw I\u00e2\u0080\u0099m glad you liked them and thank you for letting me play with y\u00e2\u0080\u0099all. Had so much fun and learned a lot! \u00f0\u009f\u0092\u00ab\u00f0\u009f\u0092\u0095",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "CARINA HARDY",
+          "timestamp": 1704845979
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1704764837334,
+      "content": "Jatnna! The pics are gorgeous - thank you so much for seeing as you do",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1704344692575,
+      "content": "carina@elppin.com",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1704344687687,
+      "content": "My USA iMessage doesn\u00e2\u0080\u0099t work out of country ;(",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1704344678936,
+      "content": "Didn\u00e2\u0080\u0099t receive text! Yes please so excited to see",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jatnna",
+      "timestamp_ms": 1704338079060,
+      "content": "happy new year! sending love \u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jatnna",
+      "timestamp_ms": 1704338066792,
+      "content": "hey! not sure if you received my text but would love your email to share photos.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Jatnna",
+  "is_still_participant": true,
+  "thread_path": "inbox/jatnna_1283283199736743",
+  "magic_words": [
+    
+  ]
+}

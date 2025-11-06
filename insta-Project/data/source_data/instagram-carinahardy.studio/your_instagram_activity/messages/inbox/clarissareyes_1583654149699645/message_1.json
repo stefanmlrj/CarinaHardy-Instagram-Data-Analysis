@@ -1,0 +1,24 @@
+{
+  "participants": [
+    {
+      "name": "Clarissa Reyes"
+    },
+    {
+      "name": "CARINA HARDY"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Clarissa Reyes",
+      "timestamp_ms": 1731459316063,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Clarissa Reyes",
+  "is_still_participant": true,
+  "thread_path": "inbox/clarissareyes_1583654149699645",
+  "magic_words": [
+    
+  ]
+}

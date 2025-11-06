@@ -1,0 +1,28 @@
+{
+  "participants": [
+    {
+      "name": "Alexis Abramoff"
+    },
+    {
+      "name": "CARINA HARDY"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Alexis Abramoff",
+      "timestamp_ms": 1733848248198,
+      "content": "\u00f0\u009f\u0091\u008f",
+      "share": {
+        "link": "https://instagram.com/stories/carinahardy.studio/3519956409947612254"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Alexis Abramoff",
+  "is_still_participant": true,
+  "thread_path": "inbox/alexisabramoff_1604090054322721",
+  "magic_words": [
+    
+  ]
+}

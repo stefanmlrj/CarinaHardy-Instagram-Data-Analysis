@@ -1,0 +1,81 @@
+{
+  "participants": [
+    {
+      "name": "Sofia Calatrava"
+    },
+    {
+      "name": "CARINA HARDY"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1705314889382,
+      "content": "\u00f0\u009f\u0092\u0093\u00f0\u009f\u0092\u0093\u00f0\u009f\u0092\u0093",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Sofia Calatrava",
+      "timestamp_ms": 1705314486167,
+      "content": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f\u00e2\u009d\u00a4\u00ef\u00b8\u008f\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Sofia Calatrava",
+      "timestamp_ms": 1705314481625,
+      "content": "Just got it! Thank you so much!!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1705311762035,
+      "content": "Hi! We just resent the email, please let us know if you've got it!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Sofia Calatrava",
+      "timestamp_ms": 1705175087376,
+      "content": "Do you remember the subject of the email? I\u00e2\u0080\u0099m not finding it",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Sofia Calatrava",
+      "timestamp_ms": 1705175051762,
+      "content": "Aww! Thank you so much!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Sofia Calatrava",
+      "timestamp_ms": 1705175041428,
+      "content": "Reacted \u00e2\u009d\u00a4\u00ef\u00b8\u008f to your message ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1705141383538,
+      "content": "Sofia, hi! Wanted to let you know that we sent you a little gift via email on Dec 15th to express our appreciation for your support of Elppin. \u00f0\u009f\u0092\u0096",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Sofia Calatrava",
+          "timestamp": 1705175041
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Sofia Calatrava",
+  "is_still_participant": true,
+  "thread_path": "inbox/sofiacalatrava_825703818828019",
+  "magic_words": [
+    
+  ]
+}

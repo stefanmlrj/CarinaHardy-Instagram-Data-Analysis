@@ -1,0 +1,50 @@
+{
+  "participants": [
+    {
+      "name": "Lucie <3"
+    },
+    {
+      "name": "CARINA HARDY"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Lucie <3",
+      "timestamp_ms": 1711162804059,
+      "content": "Yes I\u00e2\u0080\u0099d love to. Thanks for having us. Very wonderful showcase.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1711150665540,
+      "content": "Make sure to stop by again so we can talk! Thank you for joining us last night.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Lucie <3",
+      "timestamp_ms": 1711117203297,
+      "share": {
+        "link": "https://instagram.com/stories/lucieariagreen/3329414844733437299"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Lucie <3",
+      "timestamp_ms": 1711117080980,
+      "share": {
+        "link": "https://instagram.com/stories/lucieariagreen/3329413801660329205"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Lucie <3",
+  "is_still_participant": true,
+  "thread_path": "inbox/lucie3_1389684652429930",
+  "magic_words": [
+    
+  ]
+}

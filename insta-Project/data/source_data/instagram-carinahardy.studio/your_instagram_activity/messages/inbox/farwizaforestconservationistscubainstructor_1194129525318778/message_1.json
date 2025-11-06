@@ -1,0 +1,32 @@
+{
+  "participants": [
+    {
+      "name": "Farwiza | Forest Conservationist & Scuba Instructor"
+    },
+    {
+      "name": "CARINA HARDY"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1720759296178,
+      "content": "Thank you wizzaaa!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Farwiza | Forest Conservationist & Scuba Instructor",
+      "timestamp_ms": 1720615346198,
+      "content": "Farwiza sent an attachment.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Farwiza | Forest Conservationist & Scuba Instructor",
+  "is_still_participant": true,
+  "thread_path": "inbox/farwizaforestconservationistscubainstructor_1194129525318778",
+  "magic_words": [
+    
+  ]
+}

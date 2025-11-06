@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "National Jeweler"
+    },
+    {
+      "name": "CARINA HARDY"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1715589747147,
+      "share": {
+        "link": "https://instagram.com/stories/carinahardy.studio/3366933253566401126"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1715589664098,
+      "share": {
+        "link": "https://instagram.com/stories/carinahardy.studio/3366932537565138319"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "National Jeweler",
+  "is_still_participant": true,
+  "thread_path": "inbox/nationaljeweler_1423983705666691",
+  "magic_words": [
+    
+  ]
+}

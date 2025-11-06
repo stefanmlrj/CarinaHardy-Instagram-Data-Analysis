@@ -1,0 +1,39 @@
+{
+  "participants": [
+    {
+      "name": "The Jewellery Showroom"
+    },
+    {
+      "name": "CARINA HARDY"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1734675971572,
+      "content": "Could we please set up a time to speak at least briefly?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1734675959245,
+      "content": "Wanting to follow up on this",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1716536562555,
+      "content": "We exchanged a few emails about a year or two ago. At that time we were informed that you weren't taking on anyone else.\n\nWe are very much looking for a Showroom to rep us as we expand internationally, we believe we have grown into a brand that fits well with you guys.\n\nCould we please set up a time to continue the conversation? We love the work you guys do.\n\nRegards,\n\nCarina Hardy",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "The Jewellery Showroom",
+  "is_still_participant": true,
+  "thread_path": "inbox/thejewelleryshowroom_1431780888220306",
+  "magic_words": [
+    
+  ]
+}

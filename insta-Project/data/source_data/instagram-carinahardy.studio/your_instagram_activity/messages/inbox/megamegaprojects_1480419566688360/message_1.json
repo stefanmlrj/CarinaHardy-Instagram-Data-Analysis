@@ -1,0 +1,39 @@
+{
+  "participants": [
+    {
+      "name": "Mega Mega Projects"
+    },
+    {
+      "name": "CARINA HARDY"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Mega Mega Projects",
+      "timestamp_ms": 1734441642329,
+      "content": "Will do! Xo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1734406024048,
+      "content": "Hi thank you for reaching out. Best to reach out to Tavish tavish@carinahardy.com to take this forward. Keen to discuss the possibilities. \u00f0\u009f\u0092\u008c",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Mega Mega Projects",
+      "timestamp_ms": 1734368209486,
+      "content": "Hi! Should we connect about working together next year? Xo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Mega Mega Projects",
+  "is_still_participant": true,
+  "thread_path": "inbox/megamegaprojects_1480419566688360",
+  "magic_words": [
+    
+  ]
+}

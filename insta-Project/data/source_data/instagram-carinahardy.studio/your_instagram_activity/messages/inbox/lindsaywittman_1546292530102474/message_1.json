@@ -1,0 +1,46 @@
+{
+  "participants": [
+    {
+      "name": "Lindsay Wittman"
+    },
+    {
+      "name": "CARINA HARDY"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1727681433550,
+      "content": "Let us know if there\u00e2\u0080\u0099s anything we can do to help x",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1727681429783,
+      "content": "We welcome any questions you have or  impressions you wish to share.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1727681426940,
+      "content": "Thank you for your support of Carina Hardy. I really love looking through your sweet life through your IG posts \u00f0\u009f\u00a4\u008d",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1727681395643,
+      "content": "Lindsay, hi!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Lindsay Wittman",
+  "is_still_participant": true,
+  "thread_path": "inbox/lindsaywittman_1546292530102474",
+  "magic_words": [
+    
+  ]
+}

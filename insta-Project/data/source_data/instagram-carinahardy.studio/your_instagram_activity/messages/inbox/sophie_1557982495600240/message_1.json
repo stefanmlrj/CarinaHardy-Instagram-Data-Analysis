@@ -1,0 +1,79 @@
+{
+  "participants": [
+    {
+      "name": "Sophie"
+    },
+    {
+      "name": "CARINA HARDY"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1735362662012,
+      "content": "such a sweetheart",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1735362657721,
+      "content": "You you you",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Sophie",
+      "timestamp_ms": 1735100237889,
+      "content": "Merry Christmas you two! The year seems to have ended with a huge burst of energy for you both and I hope this positivity continues throughout 2025!!",
+      "share": {
+        "link": "https://instagram.com/stories/carinahardy.studio/3530560616257301561"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Sophie",
+      "timestamp_ms": 1735100193466,
+      "content": "Adorable!",
+      "share": {
+        "link": "https://instagram.com/stories/carinahardy.studio/3530585073265517420"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Sophie",
+      "timestamp_ms": 1735100191204,
+      "content": "\u00f0\u009f\u0098\u008d",
+      "share": {
+        "link": "https://instagram.com/stories/carinahardy.studio/3530585073265517420"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Sophie",
+      "timestamp_ms": 1734572912707,
+      "content": "\u00f0\u009f\u0091\u008f",
+      "share": {
+        "link": "https://instagram.com/stories/carinahardy.studio/3526160814820636226"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1727506492384,
+      "content": "This looks so fun",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Sophie",
+  "is_still_participant": true,
+  "thread_path": "inbox/sophie_1557982495600240",
+  "magic_words": [
+    
+  ]
+}

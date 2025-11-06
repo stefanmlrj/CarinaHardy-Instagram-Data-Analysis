@@ -1,0 +1,32 @@
+{
+  "participants": [
+    {
+      "name": "Instagram User"
+    },
+    {
+      "name": "CARINA HARDY"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1706492908746,
+      "content": "Hi Maria! Thanks for reaching out. Yes we ship worldwide including the UK. Please let me know if there\u00e2\u0080\u0099s anything we can do to help xx",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1706486712933,
+      "content": "Hello there, I like your jewellery very much, do you ship to UK? \n\nThank you, \nMaria x",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Instagram User",
+  "is_still_participant": true,
+  "thread_path": "inbox/instagramuser_1355906702474392",
+  "magic_words": [
+    
+  ]
+}

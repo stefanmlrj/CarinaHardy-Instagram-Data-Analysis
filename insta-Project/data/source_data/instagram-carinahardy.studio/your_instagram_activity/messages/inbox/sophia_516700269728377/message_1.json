@@ -1,0 +1,72 @@
+{
+  "participants": [
+    {
+      "name": "sophia"
+    },
+    {
+      "name": "CARINA HARDY"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1735363465670,
+      "content": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "sophia",
+      "timestamp_ms": 1734574133217,
+      "content": "\u00f0\u009f\u0098\u00ae",
+      "share": {
+        "link": "https://instagram.com/stories/carinahardy.studio/3526160814820636226"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "sophia",
+      "timestamp_ms": 1730113821294,
+      "content": "\u00f0\u009f\u0094\u00a5",
+      "share": {
+        "link": "https://instagram.com/stories/carinahardy.studio/3488702126845736167"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1725555922681,
+      "content": "Thank you honey!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "sophia",
+      "timestamp_ms": 1725531995072,
+      "content": "Soo beautiful always",
+      "share": {
+        "link": "https://instagram.com/stories/carinahardy.studio/3450295102189699687"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "sophia",
+      "timestamp_ms": 1721726102776,
+      "content": "Wow",
+      "share": {
+        "link": "https://instagram.com/stories/carinahardy.studio/3418398741970351819"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "sophia",
+  "is_still_participant": true,
+  "thread_path": "inbox/sophia_516700269728377",
+  "magic_words": [
+    
+  ]
+}

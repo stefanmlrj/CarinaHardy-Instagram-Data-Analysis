@@ -1,0 +1,38 @@
+{
+  "participants": [
+    {
+      "name": "Anastasia Vassili"
+    },
+    {
+      "name": "CARINA HARDY"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Anastasia Vassili",
+      "timestamp_ms": 1705146258044,
+      "content": "Oh thanks that\u00e2\u0080\u0099s so kind. \u00f0\u009f\u00a5\u00b0",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "CARINA HARDY"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1705117162306,
+      "content": "Ana, hi! Wanted to let you know that we sent you a little gift via email on Dec 15th to express our appreciation for your support of Elppin. \u00f0\u009f\u0092\u0096",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Anastasia Vassili",
+  "is_still_participant": true,
+  "thread_path": "inbox/anastasiavassili_1345459140185815",
+  "magic_words": [
+    
+  ]
+}

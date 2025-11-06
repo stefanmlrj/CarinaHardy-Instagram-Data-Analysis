@@ -1,0 +1,97 @@
+{
+  "participants": [
+    {
+      "name": "Rare-Gems-Jewelry"
+    },
+    {
+      "name": "CARINA HARDY"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Rare-Gems-Jewelry",
+      "timestamp_ms": 1730036595942,
+      "videos": [
+        {
+          "uri": "your_instagram_activity/messages/inbox/raregemsjewelry_1569407404457653/videos/3797509067134149.mp4",
+          "creation_timestamp": 1730036583
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Rare-Gems-Jewelry",
+      "timestamp_ms": 1729884284307,
+      "videos": [
+        {
+          "uri": "your_instagram_activity/messages/inbox/raregemsjewelry_1569407404457653/videos/1225607198544213.mp4",
+          "creation_timestamp": 1729884275
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Rare-Gems-Jewelry",
+      "timestamp_ms": 1729884264074,
+      "videos": [
+        {
+          "uri": "your_instagram_activity/messages/inbox/raregemsjewelry_1569407404457653/videos/1317510472950273.mp4",
+          "creation_timestamp": 1729884254
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Rare-Gems-Jewelry",
+      "timestamp_ms": 1729884243715,
+      "videos": [
+        {
+          "uri": "your_instagram_activity/messages/inbox/raregemsjewelry_1569407404457653/videos/1322007505835088.mp4",
+          "creation_timestamp": 1729884235
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Rare-Gems-Jewelry",
+      "timestamp_ms": 1729884198441,
+      "videos": [
+        {
+          "uri": "your_instagram_activity/messages/inbox/raregemsjewelry_1569407404457653/videos/1214817599790408.mp4",
+          "creation_timestamp": 1729884189
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Rare-Gems-Jewelry",
+      "timestamp_ms": 1729884178813,
+      "videos": [
+        {
+          "uri": "your_instagram_activity/messages/inbox/raregemsjewelry_1569407404457653/videos/6792792370844438.mp4",
+          "creation_timestamp": 1729884168
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Rare-Gems-Jewelry",
+      "timestamp_ms": 1729884074758,
+      "content": "Hello there ! I am gemstone wholesalers from Pakistan I have beautiful cut gemstones available at very reasonable prices in any material like sapphire, rubby, tourmaline, aquamarine, spinel, emerald, topaz etc if ur interested plz let me know",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Rare-Gems-Jewelry",
+  "is_still_participant": true,
+  "thread_path": "inbox/raregemsjewelry_1569407404457653",
+  "magic_words": [
+    
+  ]
+}

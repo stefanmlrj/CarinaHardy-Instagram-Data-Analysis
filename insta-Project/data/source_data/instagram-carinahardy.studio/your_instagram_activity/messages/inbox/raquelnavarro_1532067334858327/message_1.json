@@ -1,0 +1,68 @@
+{
+  "participants": [
+    {
+      "name": "Raquel Navarro"
+    },
+    {
+      "name": "CARINA HARDY"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1735361046619,
+      "content": "oh Rocky my dear come and visit us again soon",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Raquel Navarro",
+      "timestamp_ms": 1735104837473,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Raquel Navarro",
+      "timestamp_ms": 1735098734675,
+      "content": "Happy holidays you beautiful humans",
+      "share": {
+        "link": "https://instagram.com/stories/carinahardy.studio/3530560616257301561"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1726188297624,
+      "content": "This platform spins tooo!!!",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Raquel Navarro",
+          "timestamp": 1735104837
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Raquel Navarro",
+      "timestamp_ms": 1726187470138,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Raquel Navarro",
+      "timestamp_ms": 1726187249178,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Raquel Navarro",
+  "is_still_participant": true,
+  "thread_path": "inbox/raquelnavarro_1532067334858327",
+  "magic_words": [
+    
+  ]
+}

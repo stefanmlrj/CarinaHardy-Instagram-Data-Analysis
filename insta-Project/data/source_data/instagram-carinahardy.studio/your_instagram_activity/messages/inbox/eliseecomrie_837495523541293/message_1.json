@@ -1,0 +1,28 @@
+{
+  "participants": [
+    {
+      "name": "Elise E. Comrie"
+    },
+    {
+      "name": "CARINA HARDY"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Elise E. Comrie",
+      "timestamp_ms": 1727096161187,
+      "content": "\u00f0\u009f\u0098\u008d",
+      "share": {
+        "link": "https://instagram.com/stories/carinahardy.studio/3463353839842454963"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Elise E. Comrie",
+  "is_still_participant": true,
+  "thread_path": "inbox/eliseecomrie_837495523541293",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "participants": [
+    {
+      "name": "A M B E R \u00e2\u0080\u00a2 R I Y A"
+    },
+    {
+      "name": "CARINA HARDY"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "A M B E R \u00e2\u0080\u00a2 R I Y A",
+      "timestamp_ms": 1707336301117,
+      "content": "A M sent an attachment.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "A M B E R \u00e2\u0080\u00a2 R I Y A",
+  "is_still_participant": true,
+  "thread_path": "inbox/amberriya_1344613446937051",
+  "magic_words": [
+    
+  ]
+}

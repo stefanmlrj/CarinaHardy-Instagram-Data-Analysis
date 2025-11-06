@@ -1,0 +1,125 @@
+{
+  "participants": [
+    {
+      "name": "\u00ce\u00a5 \u00ce\u009b \u00ce\u009d \u00ce\u009b"
+    },
+    {
+      "name": "CARINA HARDY"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "\u00ce\u00a5 \u00ce\u009b \u00ce\u009d \u00ce\u009b",
+      "timestamp_ms": 1712027312413,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1712022946856,
+      "content": "Excellent. Looking forward to welcoming you today",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "\u00ce\u00a5 \u00ce\u009b \u00ce\u009d \u00ce\u009b",
+          "timestamp": 1712027312
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00ce\u00a5 \u00ce\u009b \u00ce\u009d \u00ce\u009b",
+      "timestamp_ms": 1712022891579,
+      "content": "around 1-2pm",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1711968329996,
+      "content": "yes! tomorrow afternoon would be great. let me know around what time you'd like to come by <3",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00ce\u00a5 \u00ce\u009b \u00ce\u009d \u00ce\u009b",
+      "timestamp_ms": 1711967915882,
+      "content": "oh thank you very much\u00f0\u009f\u00a4\u008d\ncan I come tomorrow? what time will be comfortable?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1711540896824,
+      "content": "https://maps.app.goo.gl/VTV1Qk5pPvqj6nMJ7?g_st=ic",
+      "share": {
+        "link": "https://maps.app.goo.gl/VTV1Qk5pPvqj6nMJ7?g_st=ic",
+        "share_text": "https://maps.app.goo.gl/VTV1Qk5pPvqj6nMJ7?g_st=ic"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1711540884552,
+      "content": "Please let me know when you\u00e2\u0080\u0099d like to come by! We also offer free gojek delivery \u00f0\u009f\u008c\u009f",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1711540866668,
+      "content": "This brooch is available from our studio in Ubud",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1711540768198,
+      "content": "Hi dear! Thank you for your warmth \u00f0\u009f\u0092\u009b",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00ce\u00a5 \u00ce\u009b \u00ce\u009d \u00ce\u009b",
+      "timestamp_ms": 1711528111623,
+      "photos": [
+        {
+          "uri": "your_instagram_activity/messages/inbox/ylnl_1392831588781903/photos/3691422844451077.jpg",
+          "creation_timestamp": 1711528107
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00ce\u00a5 \u00ce\u009b \u00ce\u009d \u00ce\u009b",
+      "timestamp_ms": 1711528102568,
+      "content": "May I know where I can buy this brooch in Bali?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00ce\u00a5 \u00ce\u009b \u00ce\u009d \u00ce\u009b",
+      "timestamp_ms": 1711528025647,
+      "content": "I am in love with your brand, everything you do is wonderful\u00f0\u009f\u00a4\u008d\nI wish you more inspiration\u00f0\u009f\u00a4\u008d",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00ce\u00a5 \u00ce\u009b \u00ce\u009d \u00ce\u009b",
+      "timestamp_ms": 1711527991085,
+      "content": "Hi\u00f0\u009f\u00a4\u008d",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "\u00ce\u00a5 \u00ce\u009b \u00ce\u009d \u00ce\u009b",
+  "is_still_participant": true,
+  "thread_path": "inbox/ylnl_1392831588781903",
+  "magic_words": [
+    
+  ]
+}

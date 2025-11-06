@@ -1,0 +1,39 @@
+{
+  "participants": [
+    {
+      "name": "Lucette Romy"
+    },
+    {
+      "name": "CARINA HARDY"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Lucette Romy",
+      "timestamp_ms": 1705348125252,
+      "content": "Reacted \u00f0\u009f\u00a7\u00a1 to your message ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1705317685907,
+      "content": "Nippy shroomiessss",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u00a7\u00a1",
+          "actor": "Lucette Romy",
+          "timestamp": 1705348125
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Lucette Romy",
+  "is_still_participant": true,
+  "thread_path": "inbox/lucetteromy_1201396351258762",
+  "magic_words": [
+    
+  ]
+}

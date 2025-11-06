@@ -1,0 +1,53 @@
+{
+  "participants": [
+    {
+      "name": "Therese Snyder"
+    },
+    {
+      "name": "CARINA HARDY"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Therese Snyder",
+      "timestamp_ms": 1728295187512,
+      "content": "I would love to meet Carina but Sunday is my best day. Looking forward to visiting. Some of her pieces are at Soul Shine where I\u00e2\u0080\u0099m staying but I want to see the collection. Everything looks so beautiful!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1728293572366,
+      "content": "Carina will be out of studio on the 13th, if you'd like to meet her personally she's availaible on 11th or 14th, let me know how we can best set you up.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1728289495796,
+      "content": "Yes certainly - October 13th works great, our hours at 12-8p. We are located at Bambu Indah Resort",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1728289457930,
+      "content": "Hello Therese, thank you for reaching out!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Therese Snyder",
+      "timestamp_ms": 1728289300297,
+      "content": "Hi! Can I visit your shop on the 13th of this month? I am heading from Ubud to Canggu on that day and would love to come see. Please let me know.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Therese Snyder",
+  "is_still_participant": true,
+  "thread_path": "inbox/theresesnyder_1552367529494974",
+  "magic_words": [
+    
+  ]
+}

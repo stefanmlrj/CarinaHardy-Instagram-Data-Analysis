@@ -1,0 +1,35 @@
+{
+  "participants": [
+    {
+      "name": "Tanja Magdalena"
+    },
+    {
+      "name": "CARINA HARDY"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1712031935686,
+      "content": "Hi dear! we found a model for this slot, apologies for the delay in response. casting for a full bust typically take approx 2 hours, 45minutes of active casting time depending on bust",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Tanja Magdalena",
+      "timestamp_ms": 1711621056646,
+      "content": "How long does it take approximately?",
+      "share": {
+        "link": "https://instagram.com/stories/carinahardy.studio/3333536584078688213"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Tanja Magdalena",
+  "is_still_participant": true,
+  "thread_path": "inbox/tanjamagdalena_1393558838709178",
+  "magic_words": [
+    
+  ]
+}

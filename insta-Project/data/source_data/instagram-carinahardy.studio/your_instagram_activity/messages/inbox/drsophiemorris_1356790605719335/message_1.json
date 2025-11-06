@@ -1,0 +1,38 @@
+{
+  "participants": [
+    {
+      "name": "Dr Sophie Morris"
+    },
+    {
+      "name": "CARINA HARDY"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Dr Sophie Morris",
+      "timestamp_ms": 1706608951220,
+      "content": "That\u00e2\u0080\u0099s so kind, thanks Carina.",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "CARINA HARDY"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1706604390002,
+      "content": "My name is Carina and I really love your incredible curations. What a treat, every single post you make.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Dr Sophie Morris",
+  "is_still_participant": true,
+  "thread_path": "inbox/drsophiemorris_1356790605719335",
+  "magic_words": [
+    
+  ]
+}

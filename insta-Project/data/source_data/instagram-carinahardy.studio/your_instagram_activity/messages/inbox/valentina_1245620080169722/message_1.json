@@ -1,0 +1,49 @@
+{
+  "participants": [
+    {
+      "name": "Valentina"
+    },
+    {
+      "name": "CARINA HARDY"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Valentina",
+      "timestamp_ms": 1715694802505,
+      "content": "Hi!\n \nI am sorry, I have had no reply. I wanted to make sure you had received my email with the details of Artistar Jewels and wanted to ask you if you had any questions about it.\n\nI think it is a great opportunity to show your creations internationally and be in contact with several important galleries.\n\nI would like to remind you to fill in the application form in case you are interested in the 10th edition of Artistar Jewels:\n\n\u00e2\u0086\u0092 Application Link >> https://artistarjewels.com/application/\n\n\nThank you.",
+      "share": {
+        "link": "https://artistarjewels.com/application/"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Valentina",
+      "timestamp_ms": 1714739056071,
+      "content": "ok perfect, thank you! I sent the info there :) Look forward your kind feedback!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1714737980508,
+      "content": "Please send everything to Tavish@carinahardy.com",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Valentina",
+      "timestamp_ms": 1714727345029,
+      "content": "Hello Carina! this is Gloria from the Milano Jewelry Week, I am contacting you because we are selecting the designer for the next exhibition.\nI send you a general mail but I would like to give you more info. Can I send them via mail? or we can schedule a call :)",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Valentina",
+  "is_still_participant": true,
+  "thread_path": "inbox/valentina_1245620080169722",
+  "magic_words": [
+    
+  ]
+}

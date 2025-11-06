@@ -1,0 +1,25 @@
+{
+  "participants": [
+    {
+      "name": "Tala Alamuddin"
+    },
+    {
+      "name": "CARINA HARDY"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1728955471872,
+      "content": "You you you",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Tala Alamuddin",
+  "is_still_participant": true,
+  "thread_path": "inbox/talaalamuddin_1426860095383979",
+  "magic_words": [
+    
+  ]
+}

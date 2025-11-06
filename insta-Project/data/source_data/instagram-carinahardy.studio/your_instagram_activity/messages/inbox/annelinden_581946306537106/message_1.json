@@ -1,0 +1,59 @@
+{
+  "participants": [
+    {
+      "name": "Anne Linden"
+    },
+    {
+      "name": "CARINA HARDY"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Anne Linden",
+      "timestamp_ms": 1735361857587,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1735361131452,
+      "content": "And Happy Happy holidays",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Anne Linden",
+          "timestamp": 1735361857
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Anne Linden",
+      "timestamp_ms": 1735101000694,
+      "content": "Merry Christmas!",
+      "share": {
+        "link": "https://instagram.com/stories/carinahardy.studio/3530584946773625174"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Anne Linden",
+      "timestamp_ms": 1735100995141,
+      "content": "The outfit \u00e2\u009c\u00a8 the colors \u00f0\u009f\u0098\u00ad \u00f0\u009f\u0092\u009a",
+      "share": {
+        "link": "https://instagram.com/stories/carinahardy.studio/3530584946773625174"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Anne Linden",
+  "is_still_participant": true,
+  "thread_path": "inbox/annelinden_581946306537106",
+  "magic_words": [
+    
+  ]
+}

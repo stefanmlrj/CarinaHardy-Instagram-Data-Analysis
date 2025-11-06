@@ -1,0 +1,35 @@
+{
+  "participants": [
+    {
+      "name": "Balquisse Samoy"
+    },
+    {
+      "name": "CARINA HARDY"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1735363239207,
+      "content": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Balquisse Samoy",
+      "timestamp_ms": 1734611979243,
+      "content": "\u00f0\u009f\u00a5\u00b3\u00f0\u009f\u00a5\u00b3\u00f0\u009f\u0099\u008c\u00f0\u009f\u008f\u00bd\u00f0\u009f\u0099\u008c\u00f0\u009f\u008f\u00bd\u00f0\u009f\u00ab\u00b6\u00f0\u009f\u008f\u00bd\u00f0\u009f\u00ab\u00b6\u00f0\u009f\u008f\u00bd",
+      "share": {
+        "link": "https://instagram.com/stories/carinahardy.studio/3526160814820636226"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Balquisse Samoy",
+  "is_still_participant": true,
+  "thread_path": "inbox/balquissesamoy_1174783980587674",
+  "magic_words": [
+    
+  ]
+}

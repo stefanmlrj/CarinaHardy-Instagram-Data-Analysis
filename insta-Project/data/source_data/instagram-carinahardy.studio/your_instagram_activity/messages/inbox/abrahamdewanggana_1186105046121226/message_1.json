@@ -1,0 +1,38 @@
+{
+  "participants": [
+    {
+      "name": "Abraham Dewanggana"
+    },
+    {
+      "name": "CARINA HARDY"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Abraham Dewanggana",
+      "timestamp_ms": 1707188759080,
+      "content": "Big love!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1707187309274,
+      "content": "Awh love !!!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Abraham Dewanggana",
+      "timestamp_ms": 1707183920540,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Abraham Dewanggana",
+  "is_still_participant": true,
+  "thread_path": "inbox/abrahamdewanggana_1186105046121226",
+  "magic_words": [
+    
+  ]
+}

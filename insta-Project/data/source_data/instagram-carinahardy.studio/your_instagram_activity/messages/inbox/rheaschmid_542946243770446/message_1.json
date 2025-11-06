@@ -1,0 +1,59 @@
+{
+  "participants": [
+    {
+      "name": "rhea schmid"
+    },
+    {
+      "name": "CARINA HARDY"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1710231062063,
+      "content": "uh ohh!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "rhea schmid",
+      "timestamp_ms": 1709826867264,
+      "content": "Oh thnaaaaaap \u00f0\u009f\u00a5\u00b0",
+      "share": {
+        "link": "https://instagram.com/stories/carinahardy.studio/3318489964794588523"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "rhea schmid",
+      "timestamp_ms": 1705066507969,
+      "content": "Woooooah \u00e2\u009c\u00a8\u00e2\u009c\u00a8\u00e2\u009c\u00a8\u00e2\u009c\u00a8",
+      "share": {
+        "link": "https://instagram.com/stories/carinahardy.studio/3278518681139023975"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1704675190039,
+      "content": "Fabuuuuub",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "rhea schmid",
+      "timestamp_ms": 1704636425860,
+      "content": "rhea sent an attachment.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "rhea schmid",
+  "is_still_participant": true,
+  "thread_path": "inbox/rheaschmid_542946243770446",
+  "magic_words": [
+    
+  ]
+}

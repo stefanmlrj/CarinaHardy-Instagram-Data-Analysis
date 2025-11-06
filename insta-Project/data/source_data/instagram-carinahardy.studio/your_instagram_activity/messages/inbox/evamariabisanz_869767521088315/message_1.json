@@ -1,0 +1,81 @@
+{
+  "participants": [
+    {
+      "name": "Eva-Maria Bisanz"
+    },
+    {
+      "name": "CARINA HARDY"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Eva-Maria Bisanz",
+      "timestamp_ms": 1706324987899,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1706324785436,
+      "content": "Excellent, can\u00e2\u0080\u0099t wait to see you next next week!",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Eva-Maria Bisanz",
+          "timestamp": 1706324987
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Eva-Maria Bisanz",
+      "timestamp_ms": 1706324140110,
+      "content": "Thank you so much! \nWould love to see you! \nWe will move to Canggu next week and be back for one world ayaurveda in ubud on sun :) \nSo \u00e2\u0080\u009efunny\u00e2\u0080\u009c that clinic and Robin came up 3times this week! Not sure whats the univeral to do ;) \nI would love to have your art exposed at the festival also! Would be amazing if you can come in august! \nLets meet the week after! \u00e2\u009d\u00a4\u00ef\u00b8\u008f\u00e2\u0080\u008d\u00f0\u009f\u0094\u00a5",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1706258157735,
+      "content": "We have a little studio now in Nyuh Kuning, across from Bumi Sehat the natural birth clinic, will you come by next week for coffee/tea/lunch? Xxx Carina",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1706258112450,
+      "content": "I\u00e2\u0080\u0099d love to see you and catch up!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1706258106410,
+      "content": "So excited for you and your journey especially with the lil bub in your belly \u00f0\u009f\u0098\u008d\u00f0\u009f\u00ab\u00b6",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1706258089466,
+      "content": "Welcome home to bali",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1706258086045,
+      "content": "Hello my dear !",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Eva-Maria Bisanz",
+  "is_still_participant": true,
+  "thread_path": "inbox/evamariabisanz_869767521088315",
+  "magic_words": [
+    
+  ]
+}

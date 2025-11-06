@@ -1,0 +1,38 @@
+{
+  "participants": [
+    {
+      "name": "Sarita Pockell"
+    },
+    {
+      "name": "CARINA HARDY"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Sarita Pockell",
+      "timestamp_ms": 1733823930954,
+      "content": "Dope! Congrats",
+      "share": {
+        "link": "https://instagram.com/stories/carinahardy.studio/3519871872525784701"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Sarita Pockell",
+      "timestamp_ms": 1721403068498,
+      "content": "Such a cool video. Congrats",
+      "share": {
+        "link": "https://instagram.com/stories/carinahardy.studio/3415506282361431380"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Sarita Pockell",
+  "is_still_participant": true,
+  "thread_path": "inbox/saritapockell_1348292236569172",
+  "magic_words": [
+    
+  ]
+}

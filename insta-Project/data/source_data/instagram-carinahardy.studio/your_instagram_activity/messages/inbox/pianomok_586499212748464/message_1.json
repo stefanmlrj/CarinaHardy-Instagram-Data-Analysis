@@ -1,0 +1,59 @@
+{
+  "participants": [
+    {
+      "name": "Piano Mok"
+    },
+    {
+      "name": "CARINA HARDY"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Piano Mok",
+      "timestamp_ms": 1705120645355,
+      "content": "My friends and I still love the brooches I got!",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "CARINA HARDY"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Piano Mok",
+      "timestamp_ms": 1705120629709,
+      "content": "Reacted \u00e2\u009d\u00a4\u00ef\u00b8\u008f to your message ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Piano Mok",
+      "timestamp_ms": 1705120627306,
+      "content": "Dear Elppin, thank you so much! I will check my email \u00f0\u009f\u0092\u0095",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1705119147811,
+      "content": "Piano, hi! Wanted to let you know that we sent you a little gift via email on Dec 15th to express our appreciation for your support of Elppin. \u00f0\u009f\u0092\u0096",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Piano Mok",
+          "timestamp": 1705120629
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Piano Mok",
+  "is_still_participant": true,
+  "thread_path": "inbox/pianomok_586499212748464",
+  "magic_words": [
+    
+  ]
+}

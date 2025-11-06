@@ -1,0 +1,24 @@
+{
+  "participants": [
+    {
+      "name": "yourbaewlln"
+    },
+    {
+      "name": "CARINA HARDY"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "yourbaewlln",
+      "timestamp_ms": 1711012104500,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "yourbaewlln",
+  "is_still_participant": true,
+  "thread_path": "inbox/yourbaewlln_1388893172509078",
+  "magic_words": [
+    
+  ]
+}

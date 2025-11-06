@@ -1,0 +1,62 @@
+{
+  "participants": [
+    {
+      "name": "Berkshire County Wedding Photographer | Amy Whalan"
+    },
+    {
+      "name": "CARINA HARDY"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Berkshire County Wedding Photographer | Amy Whalan",
+      "timestamp_ms": 1734619362103,
+      "content": "So proud!!!!",
+      "share": {
+        "link": "https://instagram.com/stories/carinahardy.studio/3526160814820636226"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Berkshire County Wedding Photographer | Amy Whalan",
+      "timestamp_ms": 1710423846548,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Berkshire County Wedding Photographer | Amy Whalan",
+      "timestamp_ms": 1710229754824,
+      "content": "Hi carinahardy.studio, thanks for your message! We will get back to you as soon as we are available. In the meantime check out our website and submit your information if you have a session inquiry. http://www.avidalove.com/ \nThank you!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1710229750639,
+      "content": "Amy - you are the sweetest!",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Berkshire County Wedding Photographer | Amy Whalan",
+          "timestamp": 1710423846
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Berkshire County Wedding Photographer | Amy Whalan",
+      "timestamp_ms": 1709925021167,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Berkshire County Wedding Photographer | Amy Whalan",
+  "is_still_participant": true,
+  "thread_path": "inbox/berkshirecountyweddingphotographeramywhalan_1311177763608341",
+  "magic_words": [
+    
+  ]
+}

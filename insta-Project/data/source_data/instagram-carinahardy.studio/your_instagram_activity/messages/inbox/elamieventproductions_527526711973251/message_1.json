@@ -1,0 +1,32 @@
+{
+  "participants": [
+    {
+      "name": "Elami Event Productions"
+    },
+    {
+      "name": "CARINA HARDY"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1704344722281,
+      "content": "Oh yes",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Elami Event Productions",
+      "timestamp_ms": 1704343199892,
+      "content": "Elami sent an attachment.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Elami Event Productions",
+  "is_still_participant": true,
+  "thread_path": "inbox/elamieventproductions_527526711973251",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "participants": [
+    {
+      "name": "LUCIFER"
+    },
+    {
+      "name": "CARINA HARDY"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1719374357634,
+      "content": "Let us know if you have any questions.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1719374338655,
+      "content": "Thanks for your interest in our work.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "LUCIFER",
+      "timestamp_ms": 1719203764646,
+      "content": "Hello",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "LUCIFER",
+  "is_still_participant": true,
+  "thread_path": "inbox/lucifer_1317535656317441",
+  "magic_words": [
+    
+  ]
+}

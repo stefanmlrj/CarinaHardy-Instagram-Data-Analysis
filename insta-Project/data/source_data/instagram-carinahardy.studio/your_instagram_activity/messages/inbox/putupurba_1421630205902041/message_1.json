@@ -1,0 +1,35 @@
+{
+  "participants": [
+    {
+      "name": "Putu Purba"
+    },
+    {
+      "name": "CARINA HARDY"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1715374158792,
+      "content": "Thank you bu Putu !",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Putu Purba",
+      "timestamp_ms": 1715290032392,
+      "content": "Selamat ya carina",
+      "share": {
+        "link": "https://instagram.com/stories/carinahardy.studio/3364054566038861399"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Putu Purba",
+  "is_still_participant": true,
+  "thread_path": "inbox/putupurba_1421630205902041",
+  "magic_words": [
+    
+  ]
+}

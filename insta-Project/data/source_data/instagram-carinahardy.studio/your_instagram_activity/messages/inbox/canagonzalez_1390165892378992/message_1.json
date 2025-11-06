@@ -1,0 +1,25 @@
+{
+  "participants": [
+    {
+      "name": "\u00c2\u00a9 Ana Gonzalez"
+    },
+    {
+      "name": "CARINA HARDY"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "\u00c2\u00a9 Ana Gonzalez",
+      "timestamp_ms": 1714201973565,
+      "content": "Beautiful work",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "\u00c2\u00a9 Ana Gonzalez",
+  "is_still_participant": true,
+  "thread_path": "inbox/canagonzalez_1390165892378992",
+  "magic_words": [
+    
+  ]
+}

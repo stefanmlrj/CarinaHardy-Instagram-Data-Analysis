@@ -1,0 +1,25 @@
+{
+  "participants": [
+    {
+      "name": "Daniel Irawan"
+    },
+    {
+      "name": "CARINA HARDY"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Daniel Irawan",
+      "timestamp_ms": 1726709769469,
+      "content": "HI Carina , how are you ? I'm Daniel , JH men designer.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Daniel Irawan",
+  "is_still_participant": true,
+  "thread_path": "inbox/danielirawan_1537078401023887",
+  "magic_words": [
+    
+  ]
+}

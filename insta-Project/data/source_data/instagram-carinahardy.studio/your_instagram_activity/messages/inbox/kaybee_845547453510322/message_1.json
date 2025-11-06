@@ -1,0 +1,49 @@
+{
+  "participants": [
+    {
+      "name": "Kay Bee"
+    },
+    {
+      "name": "CARINA HARDY"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1730171691177,
+      "content": "\u00f0\u009f\u0098\u0098\u00f0\u009f\u00a4\u00a9",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Kay Bee",
+      "timestamp_ms": 1730116866944,
+      "content": "Wooooooooooooo!!!!! \u00f0\u009f\u0098\u008d\u00f0\u009f\u0098\u008d\u00f0\u009f\u0098\u008d",
+      "share": {
+        "link": "https://instagram.com/stories/carinahardy.studio/3488702126845736167"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Kay Bee",
+      "timestamp_ms": 1705911342544,
+      "content": "That\u00e2\u0080\u0099s ma girl \u00f0\u009f\u00a4\u00a3",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1705907050344,
+      "content": "Chose black - obsessed !!!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Kay Bee",
+  "is_still_participant": true,
+  "thread_path": "inbox/kaybee_845547453510322",
+  "magic_words": [
+    
+  ]
+}

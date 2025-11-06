@@ -1,0 +1,51 @@
+{
+  "participants": [
+    {
+      "name": "Elena Gari"
+    },
+    {
+      "name": "CARINA HARDY"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Elena Gari",
+      "timestamp_ms": 1734665828163,
+      "content": "Happy holidays \u00e2\u0099\u00a5\u00ef\u00b8\u008f",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Elena Gari",
+      "timestamp_ms": 1734665799632,
+      "content": "Elena sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/reel/DDucMLbolQ7/?id=3525879540488492091_1582163837",
+        "share_text": "Todo es posible en Navidad, hasta que Mariah Carey le firme un aut\u00c3\u00b3grafo en el pecho a Rihanna en pleno concierto. Eso es lo que ocurri\u00c3\u00b3 en el Barclays Center de Brooklyn coincidiendo con el final del Christmas Time Tour de la cantante de \u00e2\u0080\u0098Obsessed\u00e2\u0080\u0099, quien no dud\u00c3\u00b3 en hacerle un regalo muy especial a su colega ante la at\u00c3\u00b3nita mirada de 20.000 \n\n\u00f0\u009f\u0098\u008e Lo normal es que dos divas de esta categor\u00c3\u00ada compartan canci\u00c3\u00b3n y besos. O que los aut\u00c3\u00b3grafos se sellen en un papel, una servilleta o una camiseta. Pero lo que ocurri\u00c3\u00b3 en Nueva York la otra noche fue de otra categor\u00c3\u00ada. Mariah Carey y Rihanna se reunieron en el escenario para protagonizar un momento memorable a su manera\n\n\u00f0\u009f\u008e\u0084La llamada \u00e2\u0080\u0098Reina de Navidad\u00e2\u0080\u0099 regres\u00c3\u00b3 triunfal al escenario despu\u00c3\u00a9s de luchar contra la gripe y no se sabe si hubo reacci\u00c3\u00b3n euf\u00c3\u00b3rica a los f\u00c3\u00a1rmacos o qu\u00c3\u00a9, pero lo cierto es que rodeado de flashes y fans estamp\u00c3\u00b3 su firma en el pecho de Rihanna, que asist\u00c3\u00ada al concierto en su zona vip como una fan m\u00c3\u00a1s, ante la encendida aclamaci\u00c3\u00b3n del pueblo\n\n#abcnoticias #mariahcarey #rihanna #viral #concierto #musica #music #fan",
+        "original_content_owner": "abc_diario"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1714535101297,
+      "content": "Thank you dear Elena ! \u00e2\u0099\u00a5\u00ef\u00b8\u008f excited to be alive",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Elena Gari",
+      "timestamp_ms": 1714515407117,
+      "content": "Felicidades \u00f0\u009f\u008c\u00bb wishing you a fantastic new year full of love, creativity and health. Namaste \u00f0\u009f\u0099\u008f\u00f0\u009f\u008f\u00bc",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Elena Gari",
+  "is_still_participant": true,
+  "thread_path": "inbox/elenagari_579208863477517",
+  "magic_words": [
+    
+  ]
+}

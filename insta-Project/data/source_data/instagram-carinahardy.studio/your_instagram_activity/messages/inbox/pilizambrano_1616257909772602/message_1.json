@@ -1,0 +1,57 @@
+{
+  "participants": [
+    {
+      "name": "Pili Zambrano"
+    },
+    {
+      "name": "CARINA HARDY"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Pili Zambrano",
+      "timestamp_ms": 1735294119561,
+      "content": "Thank youu so much, will send the email as soon as possible \u00f0\u009f\u00a4\u008d\u00f0\u009f\u0099\u008f",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Pili Zambrano",
+      "timestamp_ms": 1735294083598,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1735286867523,
+      "content": "Hi Pili, it\u00e2\u0080\u0099s lovely to meet you. The villa looks stunning. Please feel free to reach out to Tavish (tavish@carinahardy.com) with this information. I\u00e2\u0080\u0099ve told him to expect an email from you.",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Pili Zambrano",
+          "timestamp": 1735294083
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Pili Zambrano",
+      "timestamp_ms": 1735271973045,
+      "content": "Hi Carina Hardy Team,\n\nI\u00e2\u0080\u0099m Pili Zambrano, a Bali-based UGC creator inspired by your exquisite jewelry designs. Your pieces beautifully blend elegance and individuality, and I\u00e2\u0080\u0099d love to create content that highlights their timeless beauty.\n\nWith access to my villa @houseofcbali, designed for aesthetic content creation, I can craft high-quality visuals that align with your brand\u00e2\u0080\u0099s refined aesthetic. You can view my portfolio attached https://bit.ly/PiliZambranoPortfolio\n\nThis is a FREE collaboration offer exclusively for your brand. Let me know if this resonates.\n\nWarm regards,\n@piilizambrano",
+      "share": {
+        "link": "https://bit.ly/PiliZambranoPortfolio",
+        "share_text": "Hi Carina Hardy Team,\n\nI\u00e2\u0080\u0099m Pili Zambrano, a Bali-based UGC creator inspired by your exquisite jewelry designs. Your pieces beautifully blend elegance and individuality, and I\u00e2\u0080\u0099d love to create content that highlights their timeless beauty.\n\nWith access to my villa @houseofcbali, designed for aesthetic content creation, I can craft high-quality visuals that align with your brand\u00e2\u0080\u0099s refined aesthetic. You can view my portfolio attached https://bit.ly/PiliZambranoPortfolio\n\nThis is a FREE collaboration offer exclusively for your brand. Let me know if this resonates.\n\nWarm regards,\n@piilizambrano"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Pili Zambrano",
+  "is_still_participant": true,
+  "thread_path": "inbox/pilizambrano_1616257909772602",
+  "magic_words": [
+    
+  ]
+}

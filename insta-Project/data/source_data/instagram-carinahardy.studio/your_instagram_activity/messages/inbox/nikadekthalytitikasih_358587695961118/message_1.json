@@ -1,0 +1,32 @@
+{
+  "participants": [
+    {
+      "name": "Ni Kadek Thaly Titi Kasih"
+    },
+    {
+      "name": "CARINA HARDY"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Ni Kadek Thaly Titi Kasih",
+      "timestamp_ms": 1731338161562,
+      "content": "Thankyouuu\u00f0\u009f\u0092\u0095",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1731338067452,
+      "content": "Stunnning",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Ni Kadek Thaly Titi Kasih",
+  "is_still_participant": true,
+  "thread_path": "inbox/nikadekthalytitikasih_358587695961118",
+  "magic_words": [
+    
+  ]
+}

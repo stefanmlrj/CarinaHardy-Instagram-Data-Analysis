@@ -1,0 +1,147 @@
+{
+  "settings_notification_preferences": [
+    {
+      "string_map_data": {
+        "Channel": {
+          "value": "push"
+        },
+        "Type": {
+          "value": "MILESTONE_LIKES"
+        },
+        "Value": {
+          "value": "OFF"
+        }
+      }
+    },
+    {
+      "string_map_data": {
+        "Channel": {
+          "value": "push"
+        },
+        "Type": {
+          "value": "COMMENTS"
+        },
+        "Value": {
+          "value": "OFF"
+        }
+      }
+    },
+    {
+      "string_map_data": {
+        "Channel": {
+          "value": "push"
+        },
+        "Type": {
+          "value": "USER_TAGGED"
+        },
+        "Value": {
+          "value": "FOLLOWING"
+        }
+      }
+    },
+    {
+      "string_map_data": {
+        "Channel": {
+          "value": "push"
+        },
+        "Type": {
+          "value": "LIKES"
+        },
+        "Value": {
+          "value": "OFF"
+        }
+      }
+    },
+    {
+      "string_map_data": {
+        "Channel": {
+          "value": "push"
+        },
+        "Type": {
+          "value": "FIRST_POST"
+        },
+        "Value": {
+          "value": "OFF"
+        }
+      }
+    },
+    {
+      "string_map_data": {
+        "Channel": {
+          "value": "email"
+        },
+        "Type": {
+          "value": "MARKETING_EMAIL"
+        },
+        "Value": {
+          "value": "OFF"
+        }
+      }
+    },
+    {
+      "string_map_data": {
+        "Channel": {
+          "value": "push"
+        },
+        "Type": {
+          "value": "LIKE_AND_COMMENT_ON_PHOTO_USER_TAGGED"
+        },
+        "Value": {
+          "value": "FOLLOWING"
+        }
+      }
+    },
+    {
+      "string_map_data": {
+        "Channel": {
+          "value": "push"
+        },
+        "Type": {
+          "value": "ADS"
+        },
+        "Value": {
+          "value": "EVERYONE"
+        }
+      }
+    },
+    {
+      "string_map_data": {
+        "Channel": {
+          "value": "push"
+        },
+        "Type": {
+          "value": "CLIPS_RECENTLY_UPLOADED"
+        },
+        "Value": {
+          "value": "EVERYONE"
+        }
+      }
+    },
+    {
+      "string_map_data": {
+        "Channel": {
+          "value": "push"
+        },
+        "Type": {
+          "value": "TAGGED_IN_BIO"
+        },
+        "Value": {
+          "value": "FOLLOWING"
+        }
+      }
+    },
+    {
+      "string_map_data": {
+        "Channel": {
+          "value": "email"
+        },
+        "Type": {
+          "value": "REMINDERS"
+        },
+        "Value": {
+          "value": "OFF"
+        }
+      }
+    }
+  ]
+}

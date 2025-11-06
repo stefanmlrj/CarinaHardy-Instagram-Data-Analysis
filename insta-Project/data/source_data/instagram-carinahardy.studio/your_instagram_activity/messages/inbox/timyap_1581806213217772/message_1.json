@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Tim Yap"
+    },
+    {
+      "name": "CARINA HARDY"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Tim Yap",
+      "timestamp_ms": 1731261261990,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Tim Yap",
+      "timestamp_ms": 1731250545924,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Tim Yap",
+  "is_still_participant": true,
+  "thread_path": "inbox/timyap_1581806213217772",
+  "magic_words": [
+    
+  ]
+}

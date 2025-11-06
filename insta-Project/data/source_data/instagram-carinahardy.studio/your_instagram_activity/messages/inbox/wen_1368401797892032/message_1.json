@@ -1,0 +1,106 @@
+{
+  "participants": [
+    {
+      "name": "Wen"
+    },
+    {
+      "name": "CARINA HARDY"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Wen",
+      "timestamp_ms": 1710905660352,
+      "content": "Yes, same here! Sorry to have missed Carina but I\u00e2\u0080\u0099ll definitely follow along your journey!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Wen",
+      "timestamp_ms": 1710905615342,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1710904604701,
+      "content": "Wen - it was a pleasure to meet you! Enjoy your diving trip and we look forward to seeing you again, either in the Bay Area, or Bali!",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Wen",
+          "timestamp": 1710905615
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Wen",
+      "timestamp_ms": 1710726765777,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Wen",
+      "timestamp_ms": 1710726760785,
+      "content": "Thank you!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Wen",
+      "timestamp_ms": 1710726757152,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1710719344769,
+      "content": "Please come visit the studio \n\nHttps://maps.app.goo.gl/qCYPnsLiLAK2uvsa8?g_st=ic \n\nWe would love to welcome you",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Wen",
+          "timestamp": 1710726757
+        }
+      ],
+      "share": {
+        "link": "http://maps.app.goo.gl/qCYPnsLiLAK2uvsa8?g_st=ic",
+        "share_text": "Please come visit the studio \n\nHttps://maps.app.goo.gl/qCYPnsLiLAK2uvsa8?g_st=ic \n\nWe would love to welcome you"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1710719314056,
+      "content": "Good morning, yes it is the same price as listed on the website!",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Wen",
+          "timestamp": 1710726765
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Wen",
+      "timestamp_ms": 1710677939324,
+      "content": "Hi! Is your studio in Bali selling pieces? Are they the same price as the USD posted on the website? Thanks!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Wen",
+  "is_still_participant": true,
+  "thread_path": "inbox/wen_1368401797892032",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "participants": [
+    {
+      "name": "Davina Stephens"
+    },
+    {
+      "name": "CARINA HARDY"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Davina Stephens",
+      "timestamp_ms": 1733848473295,
+      "content": "Wwowo",
+      "share": {
+        "link": "https://instagram.com/stories/carinahardy.studio/3519957238373008692"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1711107119260,
+      "content": "You sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/_u/theziran",
+        "profile_share_username": "theziran",
+        "profile_share_name": "ZIRAN \u00e8\u0087\u00aa\u00e7\u0084\u00b6"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Davina Stephens",
+  "is_still_participant": true,
+  "thread_path": "inbox/davinastephens_835196427878758",
+  "magic_words": [
+    
+  ]
+}

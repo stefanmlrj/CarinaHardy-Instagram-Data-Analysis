@@ -1,0 +1,28 @@
+{
+  "participants": [
+    {
+      "name": "nicmeyers"
+    },
+    {
+      "name": "CARINA HARDY"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "nicmeyers",
+      "timestamp_ms": 1734635712867,
+      "content": "O ok",
+      "share": {
+        "link": "https://instagram.com/stories/carinahardy.studio/3526160814820636226"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "nicmeyers",
+  "is_still_participant": true,
+  "thread_path": "inbox/nicmeyers_555271589204578",
+  "magic_words": [
+    
+  ]
+}

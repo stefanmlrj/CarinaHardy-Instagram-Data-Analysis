@@ -1,0 +1,46 @@
+{
+  "participants": [
+    {
+      "name": "titah aw"
+    },
+    {
+      "name": "CARINA HARDY"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1704388935460,
+      "content": "Let us know if there\u00e2\u0080\u0099s anything we can do to help xx",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1704388932212,
+      "content": "We welcome any questions you have or  impressions you wish to share.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1704388928491,
+      "content": "Thank you for your support of Elppin! I really love your energy \u00e2\u009c\u00a8\u00e2\u009c\u00a8",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1704388916734,
+      "content": "Titah, hi!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "titah aw",
+  "is_still_participant": true,
+  "thread_path": "inbox/titahaw_1340196304045432",
+  "magic_words": [
+    
+  ]
+}

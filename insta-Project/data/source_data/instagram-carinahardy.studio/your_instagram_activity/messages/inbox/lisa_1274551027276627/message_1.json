@@ -1,0 +1,47 @@
+{
+  "participants": [
+    {
+      "name": "Lisa"
+    },
+    {
+      "name": "CARINA HARDY"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1705455375643,
+      "share": {
+        "link": "https://instagram.com/stories/carinahardy.studio/3281919987681593003"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Lisa",
+      "timestamp_ms": 1705380654446,
+      "content": "Loving you and all that you do",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1705380584994,
+      "content": "Thank you sweetness !!!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Lisa",
+      "timestamp_ms": 1705379624201,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Lisa",
+  "is_still_participant": true,
+  "thread_path": "inbox/lisa_1274551027276627",
+  "magic_words": [
+    
+  ]
+}

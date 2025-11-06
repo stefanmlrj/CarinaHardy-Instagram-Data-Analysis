@@ -1,0 +1,39 @@
+{
+  "participants": [
+    {
+      "name": "ari"
+    },
+    {
+      "name": "CARINA HARDY"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "ari",
+      "timestamp_ms": 1733202677837,
+      "content": "Thank you for the quick reply! I\u00e2\u0080\u0099ll email Tavish with my CV and some information about myself right away.\n\nThanks again,\nAri",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1733200437226,
+      "content": "Please email Tavish (tavish@carinahardy.com) with your CV and a little about yourself - thank you for reaching out Ari.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ari",
+      "timestamp_ms": 1733200282643,
+      "content": "Hi Carina Hardy Studio, I came across your job listing for Admin Assistant on Indeed and I\u00e2\u0080\u0099m interested in applying. Could you please let me know the expected working days for this position? Thank you!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "ari",
+  "is_still_participant": true,
+  "thread_path": "inbox/ari_1390731198998632",
+  "magic_words": [
+    
+  ]
+}

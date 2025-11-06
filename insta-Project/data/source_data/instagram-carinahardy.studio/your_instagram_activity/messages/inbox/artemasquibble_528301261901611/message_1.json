@@ -1,0 +1,80 @@
+{
+  "participants": [
+    {
+      "name": "Artemas Quibble"
+    },
+    {
+      "name": "CARINA HARDY"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Artemas Quibble",
+      "timestamp_ms": 1723402621697,
+      "content": "Artemas sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/reel/C-GDJOWtyQ1/?id=3424438394690151477_1263673279",
+        "share_text": "Contour Exploration: \nNow you know the basics it\u00e2\u0080\u0099s time to take it up a notch\u00e2\u0080\u00a6\n\nInspired by Jean Paul Gaultier and the 1950s Bullet Bra. \n\n.\n.\n.\n.\n.\n#jeanpaulgaultier #gaultierconebra #gaultierparis #jpgaultier #jpg #gaultierforever #gaultiercouture #patterncutter #patternmaker #lingeriedrafting #patterndraftingclass #patterndrafting #patterncutting #patternmaking #couture #costura #hautecouture #altacostura #altamoda #tailleur #moulage #modelista #toiliste #modelagem #patterncuttingtips #patterncuttingtechniques  #bulletbra #contourcutting #corsetpattern",
+        "original_content_owner": "mr_o_pattern_studio"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1710230530863,
+      "content": "Thank you so much!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Artemas Quibble",
+      "timestamp_ms": 1709899817593,
+      "content": "Can\u00e2\u0080\u0099t wait to see where you take this",
+      "share": {
+        "link": "https://instagram.com/stories/carinahardy.studio/3319153471256902995"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Artemas Quibble",
+      "timestamp_ms": 1707579927663,
+      "share": {
+        "original_content_owner": "ellngriggs"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Artemas Quibble",
+      "timestamp_ms": 1706974244455,
+      "content": "Artemas sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/p/CzMQdoTLRu7/?carousel_share_child_media_id=3228027428193362095_3669447991",
+        "share_text": "",
+        "original_content_owner": "rmm_rouen"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Artemas Quibble",
+      "timestamp_ms": 1706633948874,
+      "content": "Artemas sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/p/C2s0KbNtP0O/?carousel_share_child_media_id=3291234838332590577_21646876",
+        "share_text": "",
+        "original_content_owner": "raeboxer"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Artemas Quibble",
+  "is_still_participant": true,
+  "thread_path": "inbox/artemasquibble_528301261901611",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "participants": [
+    {
+      "name": "Lizzo"
+    },
+    {
+      "name": "CARINA HARDY"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1724665222033,
+      "content": "This account can't receive your message because they don't allow new message requests from everyone.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1724665221848,
+      "content": "Come through and hang Lizzo!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Lizzo",
+  "is_still_participant": true,
+  "thread_path": "inbox/lizzo_1518828936182167",
+  "magic_words": [
+    
+  ]
+}

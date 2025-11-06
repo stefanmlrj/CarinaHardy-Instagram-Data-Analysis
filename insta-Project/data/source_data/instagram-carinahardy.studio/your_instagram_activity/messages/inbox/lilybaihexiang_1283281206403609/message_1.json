@@ -1,0 +1,39 @@
+{
+  "participants": [
+    {
+      "name": "Lily \u00e7\u0099\u00be\u00e5\u0090\u0088\u00e9\u00a6\u0099"
+    },
+    {
+      "name": "CARINA HARDY"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1733199817457,
+      "content": "please reach out when you arrive and we will see eachother",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1733199799329,
+      "content": "Yes we will be in town.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Lily \u00e7\u0099\u00be\u00e5\u0090\u0088\u00e9\u00a6\u0099",
+      "timestamp_ms": 1733193000176,
+      "content": "I will be in Bali December 25- Jan 9th! Will you be in town?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Lily \u00e7\u0099\u00be\u00e5\u0090\u0088\u00e9\u00a6\u0099",
+  "is_still_participant": true,
+  "thread_path": "inbox/lilybaihexiang_1283281206403609",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "participants": [
+    {
+      "name": "CAMANI"
+    },
+    {
+      "name": "CARINA HARDY"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "CAMANI",
+      "timestamp_ms": 1735096149482,
+      "content": "Hello and Merry Christmas!\n\nWe do have candles in Bali, we are located at The Luc, Ground Floor, Canggu.\n\nLooking forward to serving you at #CamaniHome!\nLok",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1734841962976,
+      "content": "mau beli untuk kado natal but I want to smell it first",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1734841953713,
+      "content": "do you have candles in Bali?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1734841949439,
+      "content": "Hi kak",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "CAMANI",
+  "is_still_participant": true,
+  "thread_path": "inbox/camani_1479286416809018",
+  "magic_words": [
+    
+  ]
+}

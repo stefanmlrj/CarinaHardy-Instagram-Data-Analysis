@@ -1,0 +1,25 @@
+{
+  "participants": [
+    {
+      "name": "Marteau Jewelry"
+    },
+    {
+      "name": "CARINA HARDY"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1711347652426,
+      "content": "\u00f0\u009f\u00a4\u00a9",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Marteau Jewelry",
+  "is_still_participant": true,
+  "thread_path": "inbox/marteaujewelry_1316068043124925",
+  "magic_words": [
+    
+  ]
+}

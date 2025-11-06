@@ -1,0 +1,24 @@
+{
+  "participants": [
+    {
+      "name": "tria am"
+    },
+    {
+      "name": "CARINA HARDY"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "tria am",
+      "timestamp_ms": 1722941213382,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "tria am",
+  "is_still_participant": true,
+  "thread_path": "inbox/triaam_1436315214437168",
+  "magic_words": [
+    
+  ]
+}

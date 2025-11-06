@@ -1,0 +1,25 @@
+{
+  "participants": [
+    {
+      "name": "Jo Osborn"
+    },
+    {
+      "name": "CARINA HARDY"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Jo Osborn",
+      "timestamp_ms": 1726346426664,
+      "content": "Jo sent an attachment.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Jo Osborn",
+  "is_still_participant": true,
+  "thread_path": "inbox/joosborn_532986934766377",
+  "magic_words": [
+    
+  ]
+}

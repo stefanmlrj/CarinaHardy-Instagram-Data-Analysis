@@ -1,0 +1,60 @@
+{
+  "participants": [
+    {
+      "name": "THE CONSCIOUS SOCIETY - CONCEPT & VINTAGE STORE"
+    },
+    {
+      "name": "CARINA HARDY"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "THE CONSCIOUS SOCIETY - CONCEPT & VINTAGE STORE",
+      "timestamp_ms": 1704525965246,
+      "content": "Reacted \u00e2\u009d\u00a4\u00ef\u00b8\u008f to your message ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "THE CONSCIOUS SOCIETY - CONCEPT & VINTAGE STORE",
+      "timestamp_ms": 1704525754859,
+      "content": "Hello, thank you so much for your kind response \u00e2\u0098\u00ba\u00ef\u00b8\u008f\nYes sure! Will send you an email shortly\u00e2\u0098\u00ba\u00ef\u00b8\u008f",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1704524345898,
+      "content": "So happy to hear you are interested in stocking Elppin Jewelry!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1704524322399,
+      "content": "Hello - would love to hear from you. Please email Tavish (tavish@elppin.com) with the details, and any questions you might have.",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "THE CONSCIOUS SOCIETY - CONCEPT & VINTAGE STORE",
+          "timestamp": 1704525965
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "THE CONSCIOUS SOCIETY - CONCEPT & VINTAGE STORE",
+      "timestamp_ms": 1704518814328,
+      "content": "Hi, Elppin  team\nWe are The Conscious Society Bali, Concept and Vintage store located in Berawa.\nWe are interested with your products, and wondering if you\u00e2\u0080\u0099re open for consignment.\nPlease do let us know so we can discuss more about it.\nThank you\nHave a good day!\n\n\nRegards,\nThe Conscious Society Bali",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "THE CONSCIOUS SOCIETY - CONCEPT & VINTAGE STORE",
+  "is_still_participant": true,
+  "thread_path": "inbox/theconscioussocietyconceptvintagestore_1341120823952980",
+  "magic_words": [
+    
+  ]
+}

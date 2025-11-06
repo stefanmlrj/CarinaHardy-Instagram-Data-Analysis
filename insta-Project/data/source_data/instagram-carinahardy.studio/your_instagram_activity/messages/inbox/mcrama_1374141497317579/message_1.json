@@ -1,0 +1,92 @@
+{
+  "participants": [
+    {
+      "name": "M-C Rama"
+    },
+    {
+      "name": "CARINA HARDY"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "M-C Rama",
+      "timestamp_ms": 1709254685242,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1709163969462,
+      "content": "If you\u00e2\u0080\u0099re in Bali, we\u00e2\u0080\u0099d love to have you visit our studio in Ubud open by appointment. Find us here:\n\nhttps://maps.app.goo.gl/5yVuRUceYByy3KnJ6?g_st=ic",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "M-C Rama",
+          "timestamp": 1709254685
+        }
+      ],
+      "share": {
+        "link": "https://maps.app.goo.gl/5yVuRUceYByy3KnJ6?g_st=ic",
+        "share_text": "If you\u00e2\u0080\u0099re in Bali, we\u00e2\u0080\u0099d love to have you visit our studio in Ubud open by appointment. Find us here:\n\nhttps://maps.app.goo.gl/5yVuRUceYByy3KnJ6?g_st=ic"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "M-C Rama",
+      "timestamp_ms": 1709127848766,
+      "content": "Hi Elppin team \u00f0\u009f\u00ab\u00b6\u00f0\u009f\u008f\u00bdThat\u00e2\u0080\u0099s very kind of you! I just discovered your brand and totally love it \u00f0\u009f\u00a5\u00ba(Also it\u00e2\u0080\u0099s amazing you giveback to women organizations!! ) Do you have by any chance a reseller store or showroom in Ubud? Would love to check out those beauties \u00e2\u0098\u00ba\u00ef\u00b8\u008f\u00e2\u009c\u00a8 Have a lovely week ahead! M-C",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "M-C Rama",
+      "timestamp_ms": 1709127381827,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1709018655165,
+      "content": "Let us know if there\u00e2\u0080\u0099s anything we can do to help xx",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1709018652241,
+      "content": "We welcome any questions you have or  impressions you wish to share.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1709018649162,
+      "content": "Thank you for your support of Elppin! I really love your vibe \u00f0\u009f\u0092\u0097\u00e2\u009c\u00a8",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "M-C Rama",
+          "timestamp": 1709127381
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1709018639262,
+      "content": "MC, hi!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "M-C Rama",
+  "is_still_participant": true,
+  "thread_path": "inbox/mcrama_1374141497317579",
+  "magic_words": [
+    
+  ]
+}

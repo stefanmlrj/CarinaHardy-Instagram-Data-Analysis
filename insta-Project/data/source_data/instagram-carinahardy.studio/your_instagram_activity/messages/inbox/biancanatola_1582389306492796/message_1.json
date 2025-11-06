@@ -1,0 +1,46 @@
+{
+  "participants": [
+    {
+      "name": "Bianca Natola"
+    },
+    {
+      "name": "CARINA HARDY"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1731318259350,
+      "content": "Please let us know if there is anything we can do to help.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1731318256325,
+      "content": "We welcome any questions or impressions you wish to share.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1731318253056,
+      "content": "Thank you for checking us out - you've got great style.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1731318249364,
+      "content": "Bianca, hi",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Bianca Natola",
+  "is_still_participant": true,
+  "thread_path": "inbox/biancanatola_1582389306492796",
+  "magic_words": [
+    
+  ]
+}

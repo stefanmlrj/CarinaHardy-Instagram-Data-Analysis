@@ -1,0 +1,52 @@
+{
+  "participants": [
+    {
+      "name": "Melati Wijsen"
+    },
+    {
+      "name": "CARINA HARDY"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1733823324361,
+      "content": "You sent an attachment.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1710230878993,
+      "content": "Melati my beauty - thank you!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Melati Wijsen",
+      "timestamp_ms": 1709868214617,
+      "content": "Oh myyyy how beautiful",
+      "share": {
+        "link": "https://instagram.com/stories/carinahardy.studio/3318490100857719180"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Melati Wijsen",
+      "timestamp_ms": 1709868207994,
+      "content": "\u00f0\u009f\u0091\u008f",
+      "share": {
+        "link": "https://instagram.com/stories/carinahardy.studio/3318490100857719180"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Melati Wijsen",
+  "is_still_participant": true,
+  "thread_path": "inbox/melatiwijsen_899331221465278",
+  "magic_words": [
+    
+  ]
+}

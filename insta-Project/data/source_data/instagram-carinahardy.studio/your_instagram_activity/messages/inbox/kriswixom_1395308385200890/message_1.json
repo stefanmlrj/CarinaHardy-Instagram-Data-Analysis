@@ -1,0 +1,46 @@
+{
+  "participants": [
+    {
+      "name": "Kris Wixom"
+    },
+    {
+      "name": "CARINA HARDY"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Kris Wixom",
+      "timestamp_ms": 1711853755174,
+      "content": "Thank you love!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Kris Wixom",
+      "timestamp_ms": 1711853737517,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1711844834911,
+      "content": "Hot!",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Kris Wixom",
+          "timestamp": 1711853737
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Kris Wixom",
+  "is_still_participant": true,
+  "thread_path": "inbox/kriswixom_1395308385200890",
+  "magic_words": [
+    
+  ]
+}

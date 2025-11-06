@@ -1,0 +1,46 @@
+{
+  "participants": [
+    {
+      "name": "Valerie Chiu"
+    },
+    {
+      "name": "CARINA HARDY"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1715624089732,
+      "content": "Let us know if there\u00e2\u0080\u0099s anything we can do to help xx",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1715624085789,
+      "content": "We welcome any questions you have or  impressions you wish to share.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1715624083315,
+      "content": "Thank you for your support of Carina Hardy. I really love your diving pictures, they\u00e2\u0080\u0099re really cool \u00f0\u009f\u008c\u008a",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1715624062801,
+      "content": "Valerie, hi!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Valerie Chiu",
+  "is_still_participant": true,
+  "thread_path": "inbox/valeriechiu_1404120587654035",
+  "magic_words": [
+    
+  ]
+}

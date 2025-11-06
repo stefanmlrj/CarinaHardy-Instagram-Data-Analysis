@@ -1,0 +1,67 @@
+{
+  "participants": [
+    {
+      "name": "Ulysses"
+    },
+    {
+      "name": "CARINA HARDY"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Ulysses",
+      "timestamp_ms": 1723428690607,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1723428329354,
+      "content": "We deliver anywhere on the island during working hours.",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Ulysses",
+          "timestamp": 1723428690
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ulysses",
+      "timestamp_ms": 1723428119237,
+      "content": "Hi! Please tell me what are the delivery times in Bali?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1723101609082,
+      "content": "We would be glad to welcome you next week.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1723101597545,
+      "content": "Good day - we are closed this weekend, but open again on Monday.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ulysses",
+      "timestamp_ms": 1723015801917,
+      "content": "Hello! As I understand, your studio is closed on weekends?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Ulysses",
+  "is_still_participant": true,
+  "thread_path": "inbox/ulysses_1397274978341516",
+  "magic_words": [
+    
+  ]
+}

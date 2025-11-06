@@ -1,0 +1,24 @@
+{
+  "participants": [
+    {
+      "name": "Amanda"
+    },
+    {
+      "name": "CARINA HARDY"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Amanda",
+      "timestamp_ms": 1711023998880,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Amanda",
+  "is_still_participant": true,
+  "thread_path": "inbox/amanda_570426494355754",
+  "magic_words": [
+    
+  ]
+}

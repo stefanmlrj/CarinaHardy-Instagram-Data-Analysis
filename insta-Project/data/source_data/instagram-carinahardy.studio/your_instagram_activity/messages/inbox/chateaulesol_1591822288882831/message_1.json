@@ -1,0 +1,27 @@
+{
+  "participants": [
+    {
+      "name": "Ch\u00c3\u00a2teau Le Sol"
+    },
+    {
+      "name": "CARINA HARDY"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1732413462869,
+      "share": {
+        "link": "https://instagram.com/stories/carinahardy.studio/3508060787053278925"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Ch\u00c3\u00a2teau Le Sol",
+  "is_still_participant": true,
+  "thread_path": "inbox/chateaulesol_1591822288882831",
+  "magic_words": [
+    
+  ]
+}

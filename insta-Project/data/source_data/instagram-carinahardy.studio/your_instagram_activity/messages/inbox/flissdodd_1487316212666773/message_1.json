@@ -1,0 +1,28 @@
+{
+  "participants": [
+    {
+      "name": "F L I S S   D O D D"
+    },
+    {
+      "name": "CARINA HARDY"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "F L I S S   D O D D",
+      "timestamp_ms": 1721426895605,
+      "content": "\u00f0\u009f\u0098\u008d",
+      "share": {
+        "link": "https://instagram.com/stories/carinahardy.studio/3415506409063133305"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "F L I S S   D O D D",
+  "is_still_participant": true,
+  "thread_path": "inbox/flissdodd_1487316212666773",
+  "magic_words": [
+    
+  ]
+}

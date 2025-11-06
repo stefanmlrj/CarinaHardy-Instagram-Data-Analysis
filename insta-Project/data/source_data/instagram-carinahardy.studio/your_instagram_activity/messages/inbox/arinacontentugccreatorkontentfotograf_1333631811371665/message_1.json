@@ -1,0 +1,50 @@
+{
+  "participants": [
+    {
+      "name": "\u00d0\u0090\u00d1\u0080\u00d0\u00b8\u00d0\u00bd\u00d0\u00b0 | Content & UGC creator | \u00d0\u00ba\u00d0\u00be\u00d0\u00bd\u00d1\u0082\u00d0\u00b5\u00d0\u00bd\u00d1\u0082 \u00d1\u0084\u00d0\u00be\u00d1\u0082\u00d0\u00be\u00d0\u00b3\u00d1\u0080\u00d0\u00b0\u00d1\u0084"
+    },
+    {
+      "name": "CARINA HARDY"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1707466509201,
+      "content": "Our ubud studio is open by appointment https://maps.app.goo.gl/qCYPnsLiLAK2uvsa8?g_st=ic we have the full collection here, please let me know if you\u00e2\u0080\u0099d like to pop by",
+      "share": {
+        "link": "https://maps.app.goo.gl/qCYPnsLiLAK2uvsa8?g_st=ic",
+        "share_text": "Our ubud studio is open by appointment https://maps.app.goo.gl/qCYPnsLiLAK2uvsa8?g_st=ic we have the full collection here, please let me know if you\u00e2\u0080\u0099d like to pop by"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1707466479138,
+      "content": "Thank you for reaching out",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1707466455596,
+      "content": "Hello!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00d0\u0090\u00d1\u0080\u00d0\u00b8\u00d0\u00bd\u00d0\u00b0 | Content & UGC creator | \u00d0\u00ba\u00d0\u00be\u00d0\u00bd\u00d1\u0082\u00d0\u00b5\u00d0\u00bd\u00d1\u0082 \u00d1\u0084\u00d0\u00be\u00d1\u0082\u00d0\u00be\u00d0\u00b3\u00d1\u0080\u00d0\u00b0\u00d1\u0084",
+      "timestamp_ms": 1707463970224,
+      "content": "Hello. Is it possible to bye somewhere in Bali?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "\u00d0\u0090\u00d1\u0080\u00d0\u00b8\u00d0\u00bd\u00d0\u00b0 | Content & UGC creator | \u00d0\u00ba\u00d0\u00be\u00d0\u00bd\u00d1\u0082\u00d0\u00b5\u00d0\u00bd\u00d1\u0082 \u00d1\u0084\u00d0\u00be\u00d1\u0082\u00d0\u00be\u00d0\u00b3\u00d1\u0080\u00d0\u00b0\u00d1\u0084",
+  "is_still_participant": true,
+  "thread_path": "inbox/arinacontentugccreatorkontentfotograf_1333631811371665",
+  "magic_words": [
+    
+  ]
+}

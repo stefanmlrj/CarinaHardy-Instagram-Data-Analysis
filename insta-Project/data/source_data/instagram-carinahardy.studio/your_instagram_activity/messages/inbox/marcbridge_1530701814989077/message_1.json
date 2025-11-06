@@ -1,0 +1,28 @@
+{
+  "participants": [
+    {
+      "name": "Marc Bridge"
+    },
+    {
+      "name": "CARINA HARDY"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Marc Bridge",
+      "timestamp_ms": 1734484034646,
+      "content": "\u00f0\u009f\u0091\u008f",
+      "share": {
+        "link": "https://instagram.com/stories/carinahardy.studio/3524964029230156759"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Marc Bridge",
+  "is_still_participant": true,
+  "thread_path": "inbox/marcbridge_1530701814989077",
+  "magic_words": [
+    
+  ]
+}

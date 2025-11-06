@@ -1,0 +1,32 @@
+{
+  "participants": [
+    {
+      "name": "W ARTISTS"
+    },
+    {
+      "name": "CARINA HARDY"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1706238095336,
+      "content": "Hey terry! On collaboration terms we\u00e2\u0080\u0099re open. Please email tavish@elppin.com",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "W ARTISTS",
+      "timestamp_ms": 1706199134911,
+      "content": "Hey! \n\nI\u00e2\u0080\u0099m just wanting to intro you to one of our amazing photographers @kiakova based in London who will be in Bali/Indonesia in Feb/March who has worked with Def Jam Recordings, Universal Music Group, END., Rick Owens, Notion Magazine, BRICKS, Beasha Studios, The Roundhouse - just to name a few. \n\nShe would love connect with you and discuss creative projects while she\u00e2\u0080\u0099s in town. Let me know if I can loop you in to connect you with Saskia for potential shoots and campaigns,  just need an email from you to do this! \u00f0\u009f\u0092\u0096\n\nTerry x",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "W ARTISTS",
+  "is_still_participant": true,
+  "thread_path": "inbox/wartists_1353627792702283",
+  "magic_words": [
+    
+  ]
+}

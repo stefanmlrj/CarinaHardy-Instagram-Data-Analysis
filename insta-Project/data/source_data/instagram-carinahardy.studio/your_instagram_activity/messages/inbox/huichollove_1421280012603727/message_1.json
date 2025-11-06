@@ -1,0 +1,39 @@
+{
+  "participants": [
+    {
+      "name": "HUICHOL LOVE"
+    },
+    {
+      "name": "CARINA HARDY"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1715249740238,
+      "content": "Let us know if there\u00e2\u0080\u0099s anything we can do to help xx",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1715249734541,
+      "content": "We welcome any questions you have or  impressions you wish to share.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1715249731909,
+      "content": "hi, Thank you for your support of Carina Hardy. I really love your jewelry pieces.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "HUICHOL LOVE",
+  "is_still_participant": true,
+  "thread_path": "inbox/huichollove_1421280012603727",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "participants": [
+    {
+      "name": "Eunice Yvane"
+    },
+    {
+      "name": "CARINA HARDY"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Eunice Yvane",
+      "timestamp_ms": 1715165623819,
+      "content": "Here\u00e2\u0080\u0099s my email! Eunicebruno2@gmail.com \nLooking forward to it! x",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1715078836936,
+      "content": "Absolutely! I will circle back when I'm in town next week. What's your email address so I can keep Yael in the loop of our plans to meet. Looking forward xCarina",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Eunice Yvane",
+      "timestamp_ms": 1714939019530,
+      "content": "Hi Carina! \nI'd love to! Can we pick a date closer to?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1714820475276,
+      "content": "I\u00e2\u0080\u0099d love to meet you - I\u00e2\u0080\u0099ll be arriving in New York City May 11th and staying until the 27th - do you have a few hours during that time? xx",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1714820468807,
+      "content": "Yael let me know that you attended a press event she hosted recently - I was delighted to learn this.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1714820460869,
+      "content": "Eunice - it\u00e2\u0080\u0099s Carina. I\u00e2\u0080\u0099ve admired your work for a while now.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Eunice Yvane",
+  "is_still_participant": true,
+  "thread_path": "inbox/euniceyvane_1417931969605198",
+  "magic_words": [
+    
+  ]
+}

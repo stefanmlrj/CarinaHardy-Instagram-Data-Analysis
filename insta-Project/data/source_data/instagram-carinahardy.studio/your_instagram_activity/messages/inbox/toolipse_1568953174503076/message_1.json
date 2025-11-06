@@ -1,0 +1,45 @@
+{
+  "participants": [
+    {
+      "name": "@toolipse"
+    },
+    {
+      "name": "CARINA HARDY"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1729840699808,
+      "content": "Please let us know if there is anything we can do to help.",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "@toolipse"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1729840696703,
+      "content": "We welcome any questions or impressions you wish to share.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1729840693623,
+      "content": "Thank you for checking us out - you've got great style.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "@toolipse",
+  "is_still_participant": true,
+  "thread_path": "inbox/toolipse_1568953174503076",
+  "magic_words": [
+    
+  ]
+}

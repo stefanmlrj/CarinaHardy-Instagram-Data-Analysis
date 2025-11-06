@@ -1,0 +1,28 @@
+{
+  "participants": [
+    {
+      "name": "Sarah S\u00c3\u00a9n\u00c3\u00a8que"
+    },
+    {
+      "name": "CARINA HARDY"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Sarah S\u00c3\u00a9n\u00c3\u00a8que",
+      "timestamp_ms": 1705580894703,
+      "content": "\u00f0\u009f\u0092\u00af",
+      "share": {
+        "link": "https://instagram.com/stories/carinahardy.studio/3282896917851558262"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Sarah S\u00c3\u00a9n\u00c3\u00a8que",
+  "is_still_participant": true,
+  "thread_path": "inbox/sarahseneque_1348865586511837",
+  "magic_words": [
+    
+  ]
+}

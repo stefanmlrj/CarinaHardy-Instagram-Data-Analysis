@@ -1,0 +1,67 @@
+{
+  "participants": [
+    {
+      "name": "Lee Downey"
+    },
+    {
+      "name": "CARINA HARDY"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Lee Downey",
+      "timestamp_ms": 1710733928718,
+      "content": "+628123900746",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Lee Downey",
+      "timestamp_ms": 1710733907883,
+      "content": "lee@leedowney.com",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1710324474910,
+      "content": "What's your email? Or wahtsapp?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1710324466031,
+      "content": "Copy!!!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Lee Downey",
+      "timestamp_ms": 1710281751895,
+      "content": "Hi there\u00e2\u0080\u00a6 just back, I don\u00e2\u0080\u0099t check here often, better to email me!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1710043006836,
+      "content": "We\u00e2\u0080\u0099re in the neighborhood and want to holler if you\u00e2\u0080\u0099re home",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1710042989495,
+      "content": "Hey Lee! Are you in Bali?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Lee Downey",
+  "is_still_participant": true,
+  "thread_path": "inbox/leedowney_1382178746513854",
+  "magic_words": [
+    
+  ]
+}

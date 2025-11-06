@@ -1,0 +1,107 @@
+{
+  "participants": [
+    {
+      "name": "Ghani"
+    },
+    {
+      "name": "CARINA HARDY"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1709439783894,
+      "content": "Apakah Anda mau berkunjung studo besok untuk coba?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1709439756191,
+      "content": "Venusnya $450 USD",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1709439701406,
+      "content": "Chokernya $500 USD",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ghani",
+      "timestamp_ms": 1709378219883,
+      "content": "Dan yang venus ini brp harganya?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ghani",
+      "timestamp_ms": 1709378208236,
+      "photos": [
+        {
+          "uri": "your_instagram_activity/messages/inbox/ghani_1377375273660868/photos/1832418593874410.jpg",
+          "creation_timestamp": 1709378207
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ghani",
+      "timestamp_ms": 1709378094270,
+      "content": "Brp harganya??",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ghani",
+      "timestamp_ms": 1709378090442,
+      "content": "Boleh",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1709371629491,
+      "content": "Apakah mau mas?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1709371568960,
+      "content": "Websitenya kami sedang dalam pengerjaan untuk persiapan peluncuran besar, tetapi Anda dapat melakukan transfer dan kami dapat mengirimkannya melalui Gojek kepada Anda? Sebagai alternatif, Anda dipersilakan untuk mengunjungi studio kami di Nyuh Kuning.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1709371263554,
+      "content": "Halo, selamat sore!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ghani",
+      "timestamp_ms": 1709371066853,
+      "content": "Halo, mau beli cokernya dmn ya?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ghani",
+      "timestamp_ms": 1709371066454,
+      "content": "Ghani sent an attachment.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Ghani",
+  "is_still_participant": true,
+  "thread_path": "inbox/ghani_1377375273660868",
+  "magic_words": [
+    
+  ]
+}

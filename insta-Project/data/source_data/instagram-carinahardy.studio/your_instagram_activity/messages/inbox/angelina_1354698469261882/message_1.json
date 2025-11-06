@@ -1,0 +1,46 @@
+{
+  "participants": [
+    {
+      "name": "Angelina"
+    },
+    {
+      "name": "CARINA HARDY"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Angelina",
+      "timestamp_ms": 1706518843679,
+      "content": "Okey thank you \u00f0\u009f\u0099\u008f\u00f0\u009f\u008f\u00bb",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1706518735088,
+      "content": "Please feel free to reach out to Tavish (tavish@elppin.com). Send along an idea of what you\u00e2\u0080\u0099re interested in and we will go from there!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1706518656938,
+      "content": "Hello my dear - thank you so much!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Angelina",
+      "timestamp_ms": 1706335596633,
+      "content": "Hello!I very liked your brand, tell me, are you considering the possibility of cooperation with bloggers or maybe are you looking for models?\u00f0\u009f\u0096\u00a4",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Angelina",
+  "is_still_participant": true,
+  "thread_path": "inbox/angelina_1354698469261882",
+  "magic_words": [
+    
+  ]
+}

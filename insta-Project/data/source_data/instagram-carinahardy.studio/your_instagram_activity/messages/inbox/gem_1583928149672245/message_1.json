@@ -1,0 +1,46 @@
+{
+  "participants": [
+    {
+      "name": "GEM"
+    },
+    {
+      "name": "CARINA HARDY"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "GEM",
+      "timestamp_ms": 1731496084326,
+      "content": "Yes, already dropped by and got some ring! \u00e2\u0098\u00ba\u00ef\u00b8\u008f really nice meeting you both! Always interested in making and designing jewelries and you made it more interesting from the talk earlier!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1731494440341,
+      "content": "Please come and say hi! \u00f0\u009f\u0092\u0095",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1731494375465,
+      "content": "Hi Gem, we are at the R2 level.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "GEM",
+      "timestamp_ms": 1731493425554,
+      "content": "Hello, which floor are you in power plant mall?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "GEM",
+  "is_still_participant": true,
+  "thread_path": "inbox/gem_1583928149672245",
+  "magic_words": [
+    
+  ]
+}

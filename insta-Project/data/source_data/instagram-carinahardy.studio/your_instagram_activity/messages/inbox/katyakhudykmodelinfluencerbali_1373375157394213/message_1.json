@@ -1,0 +1,32 @@
+{
+  "participants": [
+    {
+      "name": "Katya Khudyk | Model | Influencer | Bali"
+    },
+    {
+      "name": "CARINA HARDY"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1708846964777,
+      "content": "We are certainly open to hearing from you. Please email Tavish tavish@elppin.com",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Katya Khudyk | Model | Influencer | Bali",
+      "timestamp_ms": 1708834122516,
+      "content": "Hello, do you cooperate with bloggers?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Katya Khudyk | Model | Influencer | Bali",
+  "is_still_participant": true,
+  "thread_path": "inbox/katyakhudykmodelinfluencerbali_1373375157394213",
+  "magic_words": [
+    
+  ]
+}

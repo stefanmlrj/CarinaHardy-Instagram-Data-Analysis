@@ -1,0 +1,38 @@
+{
+  "participants": [
+    {
+      "name": "Akina Halusa"
+    },
+    {
+      "name": "CARINA HARDY"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Akina Halusa",
+      "timestamp_ms": 1705147716096,
+      "content": "Hi thanks!",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "CARINA HARDY"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1705141273168,
+      "content": "Akina, hi! Wanted to let you know that we sent you a little gift via email on Dec 15th to express our appreciation for your support of Elppin. \u00f0\u009f\u0092\u0096",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Akina Halusa",
+  "is_still_participant": true,
+  "thread_path": "inbox/akinahalusa_1345630356835360",
+  "magic_words": [
+    
+  ]
+}

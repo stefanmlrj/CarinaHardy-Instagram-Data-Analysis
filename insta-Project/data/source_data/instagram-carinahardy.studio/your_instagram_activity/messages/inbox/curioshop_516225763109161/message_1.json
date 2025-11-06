@@ -1,0 +1,74 @@
+{
+  "participants": [
+    {
+      "name": "Curio Shop"
+    },
+    {
+      "name": "CARINA HARDY"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Curio Shop",
+      "timestamp_ms": 1725708021324,
+      "content": "Thank you!!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Curio Shop",
+      "timestamp_ms": 1725708016927,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1725674464872,
+      "content": "FIRE",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Curio Shop",
+          "timestamp": 1725708016
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Curio Shop",
+      "timestamp_ms": 1718810955700,
+      "content": "I will have to go!! Thank you!! So excited to explore the city. Hope you have been well! Saw all your new designs and everything is so thoughtful and beautiful \u00f0\u009f\u00a4\u008d",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Curio Shop",
+      "timestamp_ms": 1718810919750,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1718772799323,
+      "content": "The tile museum, is DOPE, in lisbon. Say hi to marguerida for me if you go, she works there and is so kind",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Curio Shop",
+          "timestamp": 1718810919
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Curio Shop",
+  "is_still_participant": true,
+  "thread_path": "inbox/curioshop_516225763109161",
+  "magic_words": [
+    
+  ]
+}

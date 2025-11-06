@@ -1,0 +1,25 @@
+{
+  "participants": [
+    {
+      "name": "Gold"
+    },
+    {
+      "name": "CARINA HARDY"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Gold",
+      "timestamp_ms": 1705796883788,
+      "content": "\u00e2\u0080\u008fGood time I hope you are doing well I live in Iran and can I sell you the design of the ring? It is very important and has great impact for the future. I look forward to your reply - thank you.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Gold",
+  "is_still_participant": true,
+  "thread_path": "inbox/gold_1350550946343301",
+  "magic_words": [
+    
+  ]
+}

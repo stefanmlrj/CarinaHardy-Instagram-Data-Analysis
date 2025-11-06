@@ -1,0 +1,25 @@
+{
+  "participants": [
+    {
+      "name": "Lara"
+    },
+    {
+      "name": "CARINA HARDY"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1727849198129,
+      "content": "\u00f0\u009f\u0098\u00ae",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Lara",
+  "is_still_participant": true,
+  "thread_path": "inbox/lara_1154915749240156",
+  "magic_words": [
+    
+  ]
+}

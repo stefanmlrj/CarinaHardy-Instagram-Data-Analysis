@@ -1,0 +1,66 @@
+{
+  "participants": [
+    {
+      "name": "clar.k"
+    },
+    {
+      "name": "CARINA HARDY"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "clar.k",
+      "timestamp_ms": 1732853884773,
+      "content": "Wish you have a wonderful journey ahead !",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "clar.k",
+      "timestamp_ms": 1732853836862,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1731928642367,
+      "content": "We appreciate your warmth, especially from a fellow jeweler!",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "clar.k",
+          "timestamp": 1732853836
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1731928603808,
+      "content": "Thank you for your note ! (edited)",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1731928577053,
+      "content": "Thank you for your warmth",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "clar.k",
+      "timestamp_ms": 1731865162755,
+      "content": "Very nice pieces you make \u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "clar.k",
+  "is_still_participant": true,
+  "thread_path": "inbox/clark_1587115772686816",
+  "magic_words": [
+    
+  ]
+}

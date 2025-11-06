@@ -1,0 +1,25 @@
+{
+  "participants": [
+    {
+      "name": "Karla Otto"
+    },
+    {
+      "name": "CARINA HARDY"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1719303714951,
+      "content": "Oh yes.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Karla Otto",
+  "is_still_participant": true,
+  "thread_path": "inbox/karlaotto_1502057024528301",
+  "magic_words": [
+    
+  ]
+}

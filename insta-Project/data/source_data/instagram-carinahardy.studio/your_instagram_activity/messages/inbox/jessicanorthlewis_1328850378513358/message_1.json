@@ -1,0 +1,28 @@
+{
+  "participants": [
+    {
+      "name": "Jessica North-Lewis"
+    },
+    {
+      "name": "CARINA HARDY"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Jessica North-Lewis",
+      "timestamp_ms": 1711130737920,
+      "content": "\u00f0\u009f\u0098\u008d",
+      "share": {
+        "link": "https://instagram.com/stories/carinahardy.studio/3329369949759434748"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Jessica North-Lewis",
+  "is_still_participant": true,
+  "thread_path": "inbox/jessicanorthlewis_1328850378513358",
+  "magic_words": [
+    
+  ]
+}

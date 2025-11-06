@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Bambu Indah"
+    },
+    {
+      "name": "CARINA HARDY"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Bambu Indah",
+      "timestamp_ms": 1715080172449,
+      "content": "Bambu sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/p/C6qkDL_SnqZ/?carousel_share_child_media_id=3362658620491332249_781135037",
+        "share_text": "Treat your beloved woman to an extraordinary experience with a 15% discount on accommodation and a rejuvenating massage on the upcoming Mother\u00e2\u0080\u0099s Day. We\u00e2\u0080\u0099ve also partnered with Carina Hardy Studio @carinahardy.studio to present an exclusive collection of Elppin earrings at a special rate, beautifully enhancing every woman\u00e2\u0080\u0099s inherent radiance.\n\nDon\u00e2\u0080\u0099t miss out on these exceptional promotions available until the 12th of May. For reservation, contact us at reservations@bambuindah.com or +6281153200100.",
+        "original_content_owner": "bambuindah"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Bambu Indah",
+  "is_still_participant": true,
+  "thread_path": "inbox/bambuindah_581628193235584",
+  "magic_words": [
+    
+  ]
+}

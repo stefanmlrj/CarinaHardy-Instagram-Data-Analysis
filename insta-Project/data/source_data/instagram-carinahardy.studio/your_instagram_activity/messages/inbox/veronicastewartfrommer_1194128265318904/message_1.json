@@ -1,0 +1,32 @@
+{
+  "participants": [
+    {
+      "name": "veronica stewart-frommer"
+    },
+    {
+      "name": "CARINA HARDY"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1704447742577,
+      "content": "How\u00e2\u0080\u0099s the shaker feel on you?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1704447735693,
+      "content": "Veronica, hi! It\u00e2\u0080\u0099s so awesome to see you kicking ass in this world \u00f0\u009f\u0094\u00a5\u00f0\u009f\u0094\u00a5\u00f0\u009f\u0094\u00a5",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "veronica stewart-frommer",
+  "is_still_participant": true,
+  "thread_path": "inbox/veronicastewartfrommer_1194128265318904",
+  "magic_words": [
+    
+  ]
+}

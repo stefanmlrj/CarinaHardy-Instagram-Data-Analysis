@@ -1,0 +1,31 @@
+{
+  "participants": [
+    {
+      "name": "John Hardy and Cynthia Hardy"
+    },
+    {
+      "name": "CARINA HARDY"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "John Hardy and Cynthia Hardy",
+      "timestamp_ms": 1731035446958,
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "CARINA HARDY",
+          "timestamp": 1731037696
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "John Hardy and Cynthia Hardy",
+  "is_still_participant": true,
+  "thread_path": "inbox/johnhardyandcynthiahardy_587674969297573",
+  "magic_words": [
+    
+  ]
+}

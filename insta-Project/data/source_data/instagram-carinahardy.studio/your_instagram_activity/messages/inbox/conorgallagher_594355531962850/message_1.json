@@ -1,0 +1,49 @@
+{
+  "participants": [
+    {
+      "name": "Conor Gallagher"
+    },
+    {
+      "name": "CARINA HARDY"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1734405745066,
+      "content": "So that makes 4 (that we know of)",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1734405735046,
+      "content": "We just got yet another one last night",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Conor Gallagher",
+      "timestamp_ms": 1734380057082,
+      "content": "How many times did she wear this shit?",
+      "share": {
+        "link": "https://instagram.com/stories/carinahardy.studio/3524278762424860377"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1728403943211,
+      "content": "You sent an attachment.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Conor Gallagher",
+  "is_still_participant": true,
+  "thread_path": "inbox/conorgallagher_594355531962850",
+  "magic_words": [
+    
+  ]
+}

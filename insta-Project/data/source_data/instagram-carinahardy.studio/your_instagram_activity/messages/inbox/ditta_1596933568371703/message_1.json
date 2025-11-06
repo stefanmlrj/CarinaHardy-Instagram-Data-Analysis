@@ -1,0 +1,53 @@
+{
+  "participants": [
+    {
+      "name": "DITTA"
+    },
+    {
+      "name": "CARINA HARDY"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "DITTA",
+      "timestamp_ms": 1733202624612,
+      "content": "Thank you! I will share the further detail to Tavish through the provided email. \n\nThanks again",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "DITTA",
+      "timestamp_ms": 1733202581579,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1733200102224,
+      "content": "We are happy to hear from you - please email Tavish (tavish@carinahardy.com) with your information.",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "DITTA",
+          "timestamp": 1733202581
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "DITTA",
+      "timestamp_ms": 1733011493099,
+      "content": "Hi Carina Hardy, \n\nMy name is Ditta from the @ubud.artisanmarket\n\nI hope you are doing well.\n\nThis December, we\u00e2\u0080\u0099re back showcasing local art, design and handcrafted artisan goods. Artisan Market provides an exciting platform for makers to sell their creations, network with other craftspeople and make new friends.\n\nI was wondering if Carina Hardy would be interested to join the program.\n\nCould you please connect me to the right person I should be talking with regarding this proposal? \n\nThank You,  \nDitta",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "DITTA",
+  "is_still_participant": true,
+  "thread_path": "inbox/ditta_1596933568371703",
+  "magic_words": [
+    
+  ]
+}

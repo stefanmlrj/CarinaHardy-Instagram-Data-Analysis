@@ -1,0 +1,60 @@
+{
+  "participants": [
+    {
+      "name": "alytruman"
+    },
+    {
+      "name": "CARINA HARDY"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "alytruman",
+      "timestamp_ms": 1708393932261,
+      "content": "Reacted \u00f0\u009f\u00a4\u008d to your message ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1708369524111,
+      "content": "Let us know if there\u00e2\u0080\u0099s anything we can do to help xx",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1708369520771,
+      "content": "We welcome any questions you have or  impressions you wish to share.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1708369517774,
+      "content": "Thank you for your support of Elppin! I really love your art, it\u00e2\u0080\u0099s so mesmerizing \u00e2\u009c\u00a8",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u00a4\u008d",
+          "actor": "alytruman",
+          "timestamp": 1708393932
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1708369503441,
+      "content": "Aly, hi!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "alytruman",
+  "is_still_participant": true,
+  "thread_path": "inbox/alytruman_1370212684377127",
+  "magic_words": [
+    
+  ]
+}

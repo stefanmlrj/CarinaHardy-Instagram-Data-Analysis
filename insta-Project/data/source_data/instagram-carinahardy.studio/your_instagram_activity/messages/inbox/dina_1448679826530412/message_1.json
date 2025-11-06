@@ -1,0 +1,46 @@
+{
+  "participants": [
+    {
+      "name": "Dina"
+    },
+    {
+      "name": "CARINA HARDY"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1718734172024,
+      "content": "Let us know if there\u00e2\u0080\u0099s anything we can do to help x",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1718734166044,
+      "content": "We welcome any questions you have or  impressions you wish to share.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1718734163214,
+      "content": "Thank you for your support of Carina Hardy. I really love your clothing brand \u00f0\u009f\u00a7\u00a1",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1718734069318,
+      "content": "Dina, hi!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Dina",
+  "is_still_participant": true,
+  "thread_path": "inbox/dina_1448679826530412",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "participants": [
+    {
+      "name": "Olamii Jewelry"
+    },
+    {
+      "name": "CARINA HARDY"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1716947891908,
+      "content": "I\u00e2\u0080\u0099m back in bali next week, would love to meet you next time you\u00e2\u0080\u0099re in ubud come by the Stu!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1716947883297,
+      "content": "oh man that sounds beautiful a dream come true !!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Olamii Jewelry",
+      "timestamp_ms": 1716764324787,
+      "content": "Had a dream and there was stunning woman wearing ur styles head to toe. Wishing you so much inspiration and success babe x",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Olamii Jewelry",
+  "is_still_participant": true,
+  "thread_path": "inbox/olamiijewelry_844630766935324",
+  "magic_words": [
+    
+  ]
+}

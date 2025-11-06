@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "The Zoe Report"
+    },
+    {
+      "name": "CARINA HARDY"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1727168003613,
+      "share": {
+        "link": "https://instagram.com/stories/carinahardy.studio/3464058706680528877"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1727167967988,
+      "share": {
+        "link": "https://instagram.com/stories/carinahardy.studio/3464058392527183306"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "The Zoe Report",
+  "is_still_participant": true,
+  "thread_path": "inbox/thezoereport_1541364547261939",
+  "magic_words": [
+    
+  ]
+}

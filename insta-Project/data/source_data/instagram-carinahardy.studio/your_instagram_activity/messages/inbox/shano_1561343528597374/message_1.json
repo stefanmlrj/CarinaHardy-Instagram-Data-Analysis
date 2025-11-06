@@ -1,0 +1,60 @@
+{
+  "participants": [
+    {
+      "name": "Shano"
+    },
+    {
+      "name": "CARINA HARDY"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Shano",
+      "timestamp_ms": 1729060953507,
+      "content": "Thank you! I just did :))",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Shano",
+      "timestamp_ms": 1729057039145,
+      "content": "Reacted \u00f0\u009f\u0092\u009e to your message ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1729054728917,
+      "content": "Please reach out to Tavish tavish@carinahardy.com",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0092\u009e",
+          "actor": "Shano",
+          "timestamp": 1729057039
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1729054677080,
+      "content": "Thank you for reaching out.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Shano",
+      "timestamp_ms": 1729012504058,
+      "content": "Hello,\n\nI hope you\u00e2\u0080\u0099re doing well! I\u00e2\u0080\u0099m Shano, an aesthetic photographer based in Bali. I\u00e2\u0080\u0099ve worked with local vendors to create beautiful content for their social media, and I\u00e2\u0080\u0099d love to collaborate with you too.\n\nLet me know if you're interested in working together!\n\nBest,\nShano",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Shano",
+  "is_still_participant": true,
+  "thread_path": "inbox/shano_1561343528597374",
+  "magic_words": [
+    
+  ]
+}

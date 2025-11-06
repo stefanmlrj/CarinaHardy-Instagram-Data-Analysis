@@ -1,0 +1,24 @@
+{
+  "participants": [
+    {
+      "name": "Hannah Bigeleisen"
+    },
+    {
+      "name": "CARINA HARDY"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Hannah Bigeleisen",
+      "timestamp_ms": 1733765688056,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Hannah Bigeleisen",
+  "is_still_participant": true,
+  "thread_path": "inbox/hannahbigeleisen_1603400791058314",
+  "magic_words": [
+    
+  ]
+}

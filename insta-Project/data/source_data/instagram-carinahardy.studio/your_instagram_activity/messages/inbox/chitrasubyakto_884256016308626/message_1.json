@@ -1,0 +1,65 @@
+{
+  "participants": [
+    {
+      "name": "Chitra Subyakto"
+    },
+    {
+      "name": "CARINA HARDY"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1735360403729,
+      "content": "you are sweet",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Chitra Subyakto",
+      "timestamp_ms": 1735124497491,
+      "content": "\u00f0\u009f\u0098\u008d",
+      "share": {
+        "link": "https://instagram.com/stories/carinahardy.studio/3530585073265517420"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Chitra Subyakto",
+      "timestamp_ms": 1735124494381,
+      "content": "Merry Christmassss \u00f0\u009f\u008c\u00b9\u00f0\u009f\u00a5\u0082\u00e2\u009d\u00a4\u00ef\u00b8\u008f\u00f0\u009f\u008e\u0084\u00f0\u009f\u008e\u0085\u00f0\u009f\u008f\u00bc\u00f0\u009f\u00a5\u00b3\u00f0\u009f\u0092\u0095",
+      "share": {
+        "link": "https://instagram.com/stories/carinahardy.studio/3530584946773625174"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Chitra Subyakto",
+      "timestamp_ms": 1721381335518,
+      "content": "\u00f0\u009f\u0098\u008d",
+      "share": {
+        "link": "https://instagram.com/stories/carinahardy.studio/3415506409063133305"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Chitra Subyakto",
+      "timestamp_ms": 1719985343174,
+      "content": "\u00f0\u009f\u0098\u008d",
+      "share": {
+        "link": "https://instagram.com/stories/carinahardy.studio/3403250553286524251"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Chitra Subyakto",
+  "is_still_participant": true,
+  "thread_path": "inbox/chitrasubyakto_884256016308626",
+  "magic_words": [
+    
+  ]
+}

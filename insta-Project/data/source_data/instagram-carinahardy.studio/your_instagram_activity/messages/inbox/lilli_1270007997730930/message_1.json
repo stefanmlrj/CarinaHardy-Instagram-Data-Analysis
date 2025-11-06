@@ -1,0 +1,28 @@
+{
+  "participants": [
+    {
+      "name": "Lilli"
+    },
+    {
+      "name": "CARINA HARDY"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Lilli",
+      "timestamp_ms": 1704996010620,
+      "content": "\u00f0\u009f\u0098\u008d",
+      "share": {
+        "link": "https://instagram.com/stories/carinahardy.studio/3277905356243874248"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Lilli",
+  "is_still_participant": true,
+  "thread_path": "inbox/lilli_1270007997730930",
+  "magic_words": [
+    
+  ]
+}

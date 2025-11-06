@@ -1,0 +1,46 @@
+{
+  "participants": [
+    {
+      "name": "Chrissie Lam"
+    },
+    {
+      "name": "CARINA HARDY"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Chrissie Lam",
+      "timestamp_ms": 1713430667301,
+      "content": "Ha! Yes! That museum is quirky and Pervy!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Chrissie Lam",
+      "timestamp_ms": 1713430649706,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1713430536065,
+      "content": "Pervy birds too hehe",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Chrissie Lam",
+          "timestamp": 1713430649
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Chrissie Lam",
+  "is_still_participant": true,
+  "thread_path": "inbox/chrissielam_576647890402009",
+  "magic_words": [
+    
+  ]
+}

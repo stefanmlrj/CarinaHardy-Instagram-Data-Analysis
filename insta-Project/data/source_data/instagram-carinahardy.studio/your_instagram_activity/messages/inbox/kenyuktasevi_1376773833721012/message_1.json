@@ -1,0 +1,38 @@
+{
+  "participants": [
+    {
+      "name": "Ken Yuktasevi"
+    },
+    {
+      "name": "CARINA HARDY"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Ken Yuktasevi",
+      "timestamp_ms": 1710325836750,
+      "content": "Love what you guys create :)",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1710322377009,
+      "content": "Ken - very cool.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ken Yuktasevi",
+      "timestamp_ms": 1709286784535,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Ken Yuktasevi",
+  "is_still_participant": true,
+  "thread_path": "inbox/kenyuktasevi_1376773833721012",
+  "magic_words": [
+    
+  ]
+}

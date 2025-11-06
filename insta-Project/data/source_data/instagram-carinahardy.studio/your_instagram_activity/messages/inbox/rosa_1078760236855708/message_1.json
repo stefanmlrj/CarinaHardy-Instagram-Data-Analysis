@@ -1,0 +1,32 @@
+{
+  "participants": [
+    {
+      "name": "rosa"
+    },
+    {
+      "name": "CARINA HARDY"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "rosa",
+      "timestamp_ms": 1706410906017,
+      "content": "It really is \u00f0\u009f\u0098\u008d",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1706409233662,
+      "content": "Out of this worldddddd",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "rosa",
+  "is_still_participant": true,
+  "thread_path": "inbox/rosa_1078760236855708",
+  "magic_words": [
+    
+  ]
+}

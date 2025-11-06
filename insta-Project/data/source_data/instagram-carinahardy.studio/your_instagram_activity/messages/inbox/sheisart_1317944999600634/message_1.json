@@ -1,0 +1,39 @@
+{
+  "participants": [
+    {
+      "name": "SHE IS ART"
+    },
+    {
+      "name": "CARINA HARDY"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1705455746957,
+      "share": {
+        "link": "https://instagram.com/stories/carinahardy.studio/3281923044041647873"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "SHE IS ART",
+      "timestamp_ms": 1705379563792,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "SHE IS ART",
+      "timestamp_ms": 1705379394872,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "SHE IS ART",
+  "is_still_participant": true,
+  "thread_path": "inbox/sheisart_1317944999600634",
+  "magic_words": [
+    
+  ]
+}

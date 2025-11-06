@@ -1,0 +1,57 @@
+{
+  "participants": [
+    {
+      "name": "Felicity"
+    },
+    {
+      "name": "CARINA HARDY"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1725555885064,
+      "content": "We\u00e2\u0080\u0099re open 9-5 Monday to Friday and by appointment - please let us know when you will stop by \u00f0\u009f\u0092\u009b",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1725555866990,
+      "content": "https://maps.app.goo.gl/qCYPnsLiLAK2uvsa8?g_st=ic",
+      "share": {
+        "link": "https://maps.app.goo.gl/qCYPnsLiLAK2uvsa8?g_st=ic",
+        "share_text": "https://maps.app.goo.gl/qCYPnsLiLAK2uvsa8?g_st=ic"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1725555862863,
+      "content": "Yes we are",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Felicity",
+      "timestamp_ms": 1725548483108,
+      "content": "What days / times is the studio open? I'd love to stop by",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Felicity",
+      "timestamp_ms": 1725548468722,
+      "content": "You guys are on Nyuh Kuning?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Felicity",
+  "is_still_participant": true,
+  "thread_path": "inbox/felicity_1323949412336788",
+  "magic_words": [
+    
+  ]
+}

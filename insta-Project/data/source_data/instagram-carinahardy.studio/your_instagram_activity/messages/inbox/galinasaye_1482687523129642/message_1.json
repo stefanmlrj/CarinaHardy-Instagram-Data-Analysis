@@ -1,0 +1,53 @@
+{
+  "participants": [
+    {
+      "name": "Galina Saye"
+    },
+    {
+      "name": "CARINA HARDY"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Galina Saye",
+      "timestamp_ms": 1720863702674,
+      "content": "\u00f0\u009f\u0099\u008f\u00f0\u009f\u008f\u00bb\u00f0\u009f\u0099\u008f\u00f0\u009f\u008f\u00bb\u00f0\u009f\u0099\u008f\u00f0\u009f\u008f\u00bb\u00f0\u009f\u00a4\u0097\u00e2\u009d\u00a4\u00ef\u00b8\u008f\u00e2\u009d\u00a4\u00ef\u00b8\u008f\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1720861943395,
+      "content": "Tavish and I send out hugs and kisses",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1720861926461,
+      "content": "Hope you\u00e2\u0080\u0099re enjoying wherever you are my dear Galina",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1720861910355,
+      "content": "The mind is a crazy thing",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1720861901241,
+      "content": "We still have your stones and will put some thought into it. It\u00e2\u0080\u0099s been back of mind and somehow jumped up today",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Galina Saye",
+  "is_still_participant": true,
+  "thread_path": "inbox/galinasaye_1482687523129642",
+  "magic_words": [
+    
+  ]
+}

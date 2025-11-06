@@ -1,0 +1,25 @@
+{
+  "participants": [
+    {
+      "name": "Incredible Gemstones"
+    },
+    {
+      "name": "CARINA HARDY"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Incredible Gemstones",
+      "timestamp_ms": 1705362541943,
+      "content": "Hi Hello, Do You Buy Natural Gemstones? We do ship worldwide",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Incredible Gemstones",
+  "is_still_participant": true,
+  "thread_path": "inbox/incrediblegemstones_1347319229999806",
+  "magic_words": [
+    
+  ]
+}

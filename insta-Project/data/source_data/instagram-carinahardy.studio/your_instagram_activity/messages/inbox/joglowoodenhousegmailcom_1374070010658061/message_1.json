@@ -1,0 +1,25 @@
+{
+  "participants": [
+    {
+      "name": "joglowoodenhouse@gmail.com"
+    },
+    {
+      "name": "CARINA HARDY"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "joglowoodenhouse@gmail.com",
+      "timestamp_ms": 1708931507010,
+      "content": "Nice to meet you",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "joglowoodenhouse@gmail.com",
+  "is_still_participant": true,
+  "thread_path": "inbox/joglowoodenhousegmailcom_1374070010658061",
+  "magic_words": [
+    
+  ]
+}

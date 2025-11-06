@@ -1,0 +1,45 @@
+{
+  "participants": [
+    {
+      "name": "Noelia Madiedo"
+    },
+    {
+      "name": "CARINA HARDY"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Noelia Madiedo",
+      "timestamp_ms": 1705631709408,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Noelia Madiedo",
+      "timestamp_ms": 1705159462772,
+      "content": "Reacted \u00e2\u009d\u00a4\u00ef\u00b8\u008f to your message ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1705141525153,
+      "content": "Noelia, hi! Wanted to let you know that we sent you a little gift via email on Dec 18th to express our appreciation for your support of Elppin. \u00f0\u009f\u0092\u0096",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Noelia Madiedo",
+          "timestamp": 1705159462
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Noelia Madiedo",
+  "is_still_participant": true,
+  "thread_path": "inbox/noeliamadiedo_1236175594447504",
+  "magic_words": [
+    
+  ]
+}

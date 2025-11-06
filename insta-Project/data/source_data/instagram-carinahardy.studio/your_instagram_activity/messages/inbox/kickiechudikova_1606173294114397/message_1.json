@@ -1,0 +1,31 @@
+{
+  "participants": [
+    {
+      "name": "Kickie Chudikova"
+    },
+    {
+      "name": "CARINA HARDY"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1734163130981,
+      "content": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Kickie Chudikova",
+      "timestamp_ms": 1734108677518,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Kickie Chudikova",
+  "is_still_participant": true,
+  "thread_path": "inbox/kickiechudikova_1606173294114397",
+  "magic_words": [
+    
+  ]
+}

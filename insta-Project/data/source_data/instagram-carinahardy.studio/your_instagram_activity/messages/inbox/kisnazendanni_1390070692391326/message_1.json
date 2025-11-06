@@ -1,0 +1,31 @@
+{
+  "participants": [
+    {
+      "name": "KiSna Zendanni"
+    },
+    {
+      "name": "CARINA HARDY"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1711162790447,
+      "content": "\u00e2\u0099\u00a5\u00ef\u00b8\u008f\u00e2\u0099\u00a5\u00ef\u00b8\u008f\u00e2\u0099\u00a5\u00ef\u00b8\u008f",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "KiSna Zendanni",
+      "timestamp_ms": 1711161955884,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "KiSna Zendanni",
+  "is_still_participant": true,
+  "thread_path": "inbox/kisnazendanni_1390070692391326",
+  "magic_words": [
+    
+  ]
+}

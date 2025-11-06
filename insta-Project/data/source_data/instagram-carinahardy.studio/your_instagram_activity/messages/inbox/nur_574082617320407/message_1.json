@@ -1,0 +1,28 @@
+{
+  "participants": [
+    {
+      "name": "n\u00c3\u00bar."
+    },
+    {
+      "name": "CARINA HARDY"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "n\u00c3\u00bar.",
+      "timestamp_ms": 1729856392403,
+      "content": "Beautiful",
+      "share": {
+        "link": "https://instagram.com/stories/carinahardy.studio/3486496646626829062"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "n\u00c3\u00bar.",
+  "is_still_participant": true,
+  "thread_path": "inbox/nur_574082617320407",
+  "magic_words": [
+    
+  ]
+}

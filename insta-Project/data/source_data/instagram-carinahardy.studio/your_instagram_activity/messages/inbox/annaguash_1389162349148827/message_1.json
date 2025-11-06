@@ -1,0 +1,27 @@
+{
+  "participants": [
+    {
+      "name": "Anna.Guash"
+    },
+    {
+      "name": "CARINA HARDY"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Anna.Guash",
+      "timestamp_ms": 1711044648981,
+      "share": {
+        "link": "https://instagram.com/stories/anna.guash/3328805959584544751"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Anna.Guash",
+  "is_still_participant": true,
+  "thread_path": "inbox/annaguash_1389162349148827",
+  "magic_words": [
+    
+  ]
+}

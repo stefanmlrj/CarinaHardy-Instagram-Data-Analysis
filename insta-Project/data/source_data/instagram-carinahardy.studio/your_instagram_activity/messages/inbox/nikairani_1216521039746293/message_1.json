@@ -1,0 +1,25 @@
+{
+  "participants": [
+    {
+      "name": "Nika irani"
+    },
+    {
+      "name": "CARINA HARDY"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1716217124115,
+      "content": "Nika - let us know if you want to do something together",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Nika irani",
+  "is_still_participant": true,
+  "thread_path": "inbox/nikairani_1216521039746293",
+  "magic_words": [
+    
+  ]
+}

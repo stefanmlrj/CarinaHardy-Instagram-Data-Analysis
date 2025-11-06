@@ -1,0 +1,71 @@
+{
+  "participants": [
+    {
+      "name": "nadirasuarga"
+    },
+    {
+      "name": "CARINA HARDY"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "nadirasuarga",
+      "timestamp_ms": 1715690348527,
+      "content": "okayy!! will do\u00f0\u009f\u00a4\u008d\u00f0\u009f\u00a4\u008d",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "nadirasuarga",
+      "timestamp_ms": 1715690341865,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1715689671381,
+      "content": "We do not offer workshops but we do have studio visits - please let us know if you\u00e2\u0080\u0099d like to come by to see our jewelry and art studio in Nyuh Kuning \nHttps://maps.app.goo.gl/qCYPnsLiLAK2uvsa8?g_st=ic",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "nadirasuarga",
+          "timestamp": 1715690341
+        }
+      ],
+      "share": {
+        "link": "http://maps.app.goo.gl/qCYPnsLiLAK2uvsa8?g_st=ic",
+        "share_text": "We do not offer workshops but we do have studio visits - please let us know if you\u00e2\u0080\u0099d like to come by to see our jewelry and art studio in Nyuh Kuning \nHttps://maps.app.goo.gl/qCYPnsLiLAK2uvsa8?g_st=ic"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1715689638822,
+      "content": "Hi dear thank you for reaching out",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "nadirasuarga",
+      "timestamp_ms": 1715687810839,
+      "content": "we are planning to go to ubud on the 18th",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "nadirasuarga",
+      "timestamp_ms": 1715687731946,
+      "content": "Hi! was wondering if you have any workshops? me and my boyfriend want to know the workshop price and details if you have one",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "nadirasuarga",
+  "is_still_participant": true,
+  "thread_path": "inbox/nadirasuarga_1424756422256086",
+  "magic_words": [
+    
+  ]
+}

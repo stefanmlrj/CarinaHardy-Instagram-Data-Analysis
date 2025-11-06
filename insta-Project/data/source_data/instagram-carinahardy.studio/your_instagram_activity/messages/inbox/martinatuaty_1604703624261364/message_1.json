@@ -1,0 +1,46 @@
+{
+  "participants": [
+    {
+      "name": "martina tuaty"
+    },
+    {
+      "name": "CARINA HARDY"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "martina tuaty",
+      "timestamp_ms": 1734031261930,
+      "content": "Aw of course! Happy you like them :)",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1733926425040,
+      "content": "Love love love this. Thank you!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1733926404395,
+      "content": "It\u00e2\u0080\u0099s been a dream and I wouldn\u00e2\u0080\u0099t have known if you hadn\u00e2\u0080\u0099t captured it",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1733926392850,
+      "content": "Thank you so much for capturing Rihanna in our jewelry",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "martina tuaty",
+  "is_still_participant": true,
+  "thread_path": "inbox/martinatuaty_1604703624261364",
+  "magic_words": [
+    
+  ]
+}

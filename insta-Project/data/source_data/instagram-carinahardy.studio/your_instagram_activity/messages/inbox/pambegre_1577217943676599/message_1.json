@@ -1,0 +1,24 @@
+{
+  "participants": [
+    {
+      "name": "Pam Begre"
+    },
+    {
+      "name": "CARINA HARDY"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Pam Begre",
+      "timestamp_ms": 1730731411523,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Pam Begre",
+  "is_still_participant": true,
+  "thread_path": "inbox/pambegre_1577217943676599",
+  "magic_words": [
+    
+  ]
+}

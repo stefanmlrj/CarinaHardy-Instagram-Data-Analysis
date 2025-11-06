@@ -1,0 +1,57 @@
+{
+  "participants": [
+    {
+      "name": "Kania Atmaja"
+    },
+    {
+      "name": "CARINA HARDY"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1704503829454,
+      "content": "Will you come visit the studio dear? \nhttps://maps.app.goo.gl/qCYPnsLiLAK2uvsa8?g_st=ic",
+      "share": {
+        "link": "https://maps.app.goo.gl/qCYPnsLiLAK2uvsa8?g_st=ic",
+        "share_text": "Will you come visit the studio dear? \nhttps://maps.app.goo.gl/qCYPnsLiLAK2uvsa8?g_st=ic"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1704503818200,
+      "content": "Yeeee",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Kania Atmaja",
+      "timestamp_ms": 1704448072148,
+      "content": ":)",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Kania Atmaja",
+      "timestamp_ms": 1704448070954,
+      "content": "I\u00e2\u0080\u0099m coming to Bali next week",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1704447540618,
+      "content": "Kania, hi! When are you coming to visit Bali?!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Kania Atmaja",
+  "is_still_participant": true,
+  "thread_path": "inbox/kaniaatmaja_1197957758269288",
+  "magic_words": [
+    
+  ]
+}

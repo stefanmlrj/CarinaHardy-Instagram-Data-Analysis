@@ -1,0 +1,46 @@
+{
+  "participants": [
+    {
+      "name": "puti"
+    },
+    {
+      "name": "CARINA HARDY"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "puti",
+      "timestamp_ms": 1711365643395,
+      "content": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f\u00f0\u009f\u0098\u0098\u00f0\u009f\u0098\u0098\u00f0\u009f\u0098\u0098",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "puti",
+      "timestamp_ms": 1711365635539,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1711347710083,
+      "content": "YES",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "puti",
+          "timestamp": 1711365635
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "puti",
+  "is_still_participant": true,
+  "thread_path": "inbox/puti_850274739704260",
+  "magic_words": [
+    
+  ]
+}

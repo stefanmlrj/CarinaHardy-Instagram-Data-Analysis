@@ -1,0 +1,28 @@
+{
+  "participants": [
+    {
+      "name": "Mannoj Patel"
+    },
+    {
+      "name": "CARINA HARDY"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Mannoj Patel",
+      "timestamp_ms": 1711292859781,
+      "content": "Hello",
+      "share": {
+        "link": "https://instagram.com/stories/carinahardy.studio/3330664286439065325"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Mannoj Patel",
+  "is_still_participant": true,
+  "thread_path": "inbox/mannojpatel_1298173994914330",
+  "magic_words": [
+    
+  ]
+}

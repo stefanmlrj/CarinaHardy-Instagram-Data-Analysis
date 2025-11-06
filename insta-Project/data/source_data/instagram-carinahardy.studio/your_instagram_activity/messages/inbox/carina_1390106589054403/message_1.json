@@ -1,0 +1,78 @@
+{
+  "participants": [
+    {
+      "name": "Carina \u00f0\u009f\u00aa\u0090"
+    },
+    {
+      "name": "CARINA HARDY"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Carina \u00f0\u009f\u00aa\u0090",
+      "timestamp_ms": 1711196920521,
+      "content": "yes, you too \u00f0\u009f\u00a4\u008d",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Carina \u00f0\u009f\u00aa\u0090",
+      "timestamp_ms": 1711196899408,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1711194498249,
+      "content": "Wonderful to meet you today Carina",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Carina \u00f0\u009f\u00aa\u0090",
+          "timestamp": 1711196899
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Carina \u00f0\u009f\u00aa\u0090",
+      "timestamp_ms": 1711166882321,
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "CARINA HARDY",
+          "timestamp": 1711194490
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Carina \u00f0\u009f\u00aa\u0090",
+      "timestamp_ms": 1711166809644,
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "CARINA HARDY",
+          "timestamp": 1711194490
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Carina \u00f0\u009f\u00aa\u0090",
+      "timestamp_ms": 1711166775692,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Carina \u00f0\u009f\u00aa\u0090",
+  "is_still_participant": true,
+  "thread_path": "inbox/carina_1390106589054403",
+  "magic_words": [
+    
+  ]
+}

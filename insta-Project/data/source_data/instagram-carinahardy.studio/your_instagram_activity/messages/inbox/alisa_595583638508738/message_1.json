@@ -1,0 +1,79 @@
+{
+  "participants": [
+    {
+      "name": "Alisa"
+    },
+    {
+      "name": "CARINA HARDY"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1735363476852,
+      "content": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Alisa",
+      "timestamp_ms": 1734571335025,
+      "content": "Wow\u00f0\u009f\u0098\u008d",
+      "share": {
+        "link": "https://instagram.com/stories/carinahardy.studio/3526160814820636226"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Alisa",
+      "timestamp_ms": 1727096780315,
+      "content": "\u00f0\u009f\u0098\u008d",
+      "share": {
+        "link": "https://instagram.com/stories/carinahardy.studio/3463353839842454963"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Alisa",
+      "timestamp_ms": 1710232207568,
+      "content": "I\u00e2\u0080\u0099m am so excited for you!!!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1710231284425,
+      "content": "Alisa! Thank you - we are so excited to see where this goes, where we can take it!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Alisa",
+      "timestamp_ms": 1709817375309,
+      "content": "!!!!!",
+      "share": {
+        "link": "https://instagram.com/stories/carinahardy.studio/3318489964794588523"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Alisa",
+      "timestamp_ms": 1708938467519,
+      "content": "\u00f0\u009f\u0098\u008d",
+      "share": {
+        "link": "https://instagram.com/stories/carinahardy.studio/3310445132838712579"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Alisa",
+  "is_still_participant": true,
+  "thread_path": "inbox/alisa_595583638508738",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "participants": [
+    {
+      "name": "Mer Wk \u00f0\u009f\u008d\u0083"
+    },
+    {
+      "name": "CARINA HARDY"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1735362824468,
+      "content": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Mer Wk \u00f0\u009f\u008d\u0083",
+      "timestamp_ms": 1735094784171,
+      "content": "\u00f0\u009f\u0094\u00a5",
+      "share": {
+        "link": "https://instagram.com/stories/carinahardy.studio/3530008315613100278"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Mer Wk \u00f0\u009f\u008d\u0083",
+      "timestamp_ms": 1707352844390,
+      "content": "\u00f0\u009f\u0098\u0084\u00f0\u009f\u0098\u0084",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1707351981300,
+      "content": "Hehehehe",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Mer Wk \u00f0\u009f\u008d\u0083",
+      "timestamp_ms": 1707334577902,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Mer Wk \u00f0\u009f\u008d\u0083",
+  "is_still_participant": true,
+  "thread_path": "inbox/merwk_1277400243660015",
+  "magic_words": [
+    
+  ]
+}

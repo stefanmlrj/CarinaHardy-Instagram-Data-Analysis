@@ -1,0 +1,35 @@
+{
+  "participants": [
+    {
+      "name": "Juno Shen"
+    },
+    {
+      "name": "CARINA HARDY"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Juno Shen",
+      "timestamp_ms": 1727118927286,
+      "content": "\u00f0\u009f\u0094\u00a5",
+      "share": {
+        "link": "https://instagram.com/stories/carinahardy.studio/3463353839842454963"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1707194725535,
+      "content": "Juno, hey! It was so good to meet you - I wish we had more time to dive into all things art. Your twisted elemental glass works are so so dope. I hope we connect again in NYC or Bali next. Sending love your way xx C",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Juno Shen",
+  "is_still_participant": true,
+  "thread_path": "inbox/junoshen_1361278228603906",
+  "magic_words": [
+    
+  ]
+}

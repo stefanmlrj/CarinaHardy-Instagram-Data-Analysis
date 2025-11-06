@@ -1,0 +1,123 @@
+{
+  "participants": [
+    {
+      "name": "nano UHERO"
+    },
+    {
+      "name": "CARINA HARDY"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "nano UHERO",
+      "timestamp_ms": 1716484224986,
+      "content": "see u",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1716483836228,
+      "content": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "nano UHERO",
+      "timestamp_ms": 1716483784159,
+      "content": "Let me know when you are in Bali and I will come to visit you",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1716483659192,
+      "content": "Wonderful, why don't you come visit us the first week in June.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "nano UHERO",
+      "timestamp_ms": 1716483625445,
+      "content": "we can also meet at nyuh kuning in your studio",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1716483431752,
+      "content": "Right across the sepak bola from Bumi Sehat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1716483415128,
+      "content": "We have a studio in Nyuh Kuning, and would love to welcome you there as well.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1716483401079,
+      "content": "Thank you - my partner Tavish and I will return to Bali early June, and would love to visit",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "nano UHERO",
+      "timestamp_ms": 1716481382356,
+      "content": "welcome to my studio",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "nano UHERO",
+      "timestamp_ms": 1716481343122,
+      "content": "Yes , I make stuff in Bali , , I am from Ubud , and my studio in Tabanan",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1716481136175,
+      "content": "Do you make stuff here in Bali? Would love to visit and see how you work.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "nano UHERO",
+      "timestamp_ms": 1716478908762,
+      "content": "Thank you for your appreciation, it's a pleasure to meet you",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "nano UHERO",
+      "timestamp_ms": 1716478892424,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1716447473269,
+      "content": "We really really love what you do.",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "nano UHERO",
+          "timestamp": 1716478892
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "nano UHERO",
+  "is_still_participant": true,
+  "thread_path": "inbox/nanouhero_1431086258289769",
+  "magic_words": [
+    
+  ]
+}

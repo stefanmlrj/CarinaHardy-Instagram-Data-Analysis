@@ -1,0 +1,76 @@
+{
+  "participants": [
+    {
+      "name": "Will Goldfarb"
+    },
+    {
+      "name": "CARINA HARDY"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1735466865778,
+      "content": "please let us know how we can assist you with this",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1735466807867,
+      "content": "otherwise we can also send you a direct invoice to be paid through a local bank transfer",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1735466781765,
+      "content": "https://carinahardy.com/products/demi-fine-jewelry-sleeping-venus-bracelet-sterling-silver-22k-gold-vermeil?_pos=2&_fid=806ce3cab&_ss=c&variant=40723024019479",
+      "share": {
+        "link": "https://carinahardy.com/products/demi-fine-jewelry-sleeping-venus-bracelet-sterling-silver-22k-gold-vermeil?_pos=2&_fid=806ce3cab&_ss=c&variant=40723024019479",
+        "share_text": "https://carinahardy.com/products/demi-fine-jewelry-sleeping-venus-bracelet-sterling-silver-22k-gold-vermeil?_pos=2&_fid=806ce3cab&_ss=c&variant=40723024019479"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1735466778365,
+      "content": "you can place an order through our website here:",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1735466767458,
+      "content": "Will, hi excellent choice",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Will Goldfarb",
+      "timestamp_ms": 1735398266784,
+      "content": "hi. how does one order this?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Will Goldfarb",
+      "timestamp_ms": 1735398265991,
+      "content": "Will sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/p/C4-gndWS--G/",
+        "share_text": "Right crosses left.",
+        "original_content_owner": "carinahardy.studio"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Will Goldfarb",
+  "is_still_participant": true,
+  "thread_path": "inbox/willgoldfarb_1617315459666847",
+  "magic_words": [
+    
+  ]
+}

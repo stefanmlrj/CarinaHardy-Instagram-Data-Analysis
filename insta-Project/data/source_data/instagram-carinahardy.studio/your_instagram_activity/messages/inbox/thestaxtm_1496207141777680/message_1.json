@@ -1,0 +1,60 @@
+{
+  "participants": [
+    {
+      "name": "The Stax\u00e2\u0084\u00a2\u00ef\u00b8\u008f"
+    },
+    {
+      "name": "CARINA HARDY"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "The Stax\u00e2\u0084\u00a2\u00ef\u00b8\u008f",
+      "timestamp_ms": 1734097998301,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1734078555249,
+      "content": "What a red on that ring",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "The Stax\u00e2\u0084\u00a2\u00ef\u00b8\u008f",
+          "timestamp": 1734097998
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Stax\u00e2\u0084\u00a2\u00ef\u00b8\u008f",
+      "timestamp_ms": 1725726173625,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1725686012459,
+      "content": "\u00f0\u009f\u0094\u00a5",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "The Stax\u00e2\u0084\u00a2\u00ef\u00b8\u008f",
+          "timestamp": 1725726173
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "The Stax\u00e2\u0084\u00a2\u00ef\u00b8\u008f",
+  "is_still_participant": true,
+  "thread_path": "inbox/thestaxtm_1496207141777680",
+  "magic_words": [
+    
+  ]
+}

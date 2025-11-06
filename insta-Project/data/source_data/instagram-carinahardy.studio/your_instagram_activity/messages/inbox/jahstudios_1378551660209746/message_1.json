@@ -1,0 +1,24 @@
+{
+  "participants": [
+    {
+      "name": "JAH STUDIOS"
+    },
+    {
+      "name": "CARINA HARDY"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "JAH STUDIOS",
+      "timestamp_ms": 1711097504742,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "JAH STUDIOS",
+  "is_still_participant": true,
+  "thread_path": "inbox/jahstudios_1378551660209746",
+  "magic_words": [
+    
+  ]
+}

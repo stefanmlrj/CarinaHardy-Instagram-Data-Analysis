@@ -1,0 +1,25 @@
+{
+  "participants": [
+    {
+      "name": "N E O U S"
+    },
+    {
+      "name": "CARINA HARDY"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1734436739138,
+      "content": "Hi there this is our Lilypad brooch \u00f0\u009f\u0092\u008c",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "N E O U S",
+  "is_still_participant": true,
+  "thread_path": "inbox/neous_1609000843831642",
+  "magic_words": [
+    
+  ]
+}

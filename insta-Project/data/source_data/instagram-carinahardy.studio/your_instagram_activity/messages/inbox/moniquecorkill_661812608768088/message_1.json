@@ -1,0 +1,81 @@
+{
+  "participants": [
+    {
+      "name": "Monique Corkill"
+    },
+    {
+      "name": "CARINA HARDY"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Monique Corkill",
+      "timestamp_ms": 1734350115737,
+      "content": "Ohhh I see! Stylist has good taste!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1734347196720,
+      "content": "Ha I wish! Her stylist bought one of the pendants",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Monique Corkill",
+      "timestamp_ms": 1734347055178,
+      "content": "Amen sista!! Did you get to talk to her! ?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1734347033613,
+      "content": "Bish got great taste \u00f0\u009f\u0098\u008d",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1734347027101,
+      "content": "\u00f0\u009f\u0098\u009c RIRI is the amazing one",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Monique Corkill",
+      "timestamp_ms": 1734345170564,
+      "content": "I was so amazed when I saw them - you are amazing !",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1734345110732,
+      "content": "Thank you my b!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Monique Corkill",
+      "timestamp_ms": 1734344013766,
+      "content": "Girl you are killing it! Riri and Demi! So proud of you!!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Monique Corkill",
+      "timestamp_ms": 1729931471160,
+      "content": "Miss you boo xx",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Monique Corkill",
+  "is_still_participant": true,
+  "thread_path": "inbox/moniquecorkill_661812608768088",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "participants": [
+    {
+      "name": "Riealy"
+    },
+    {
+      "name": "CARINA HARDY"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Riealy",
+      "timestamp_ms": 1729760418315,
+      "content": "Okay thank you ^^",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1729753962510,
+      "content": "hello, if possible please send us the video by Friday end of day the latest \u00f0\u009f\u0099\u008f\u00f0\u009f\u008f\u00bb",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Riealy",
+      "timestamp_ms": 1729667914421,
+      "content": "Thanks for reaching out, actually i already apply on indeed.com and i got message if i have to submit video answering some questions , May I know when is the deadline for sending videos?",
+      "share": {
+        "link": "http://indeed.com/",
+        "share_text": "Thanks for reaching out, actually i already apply on indeed.com and i got message if i have to submit video answering some questions , May I know when is the deadline for sending videos?"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1729667785538,
+      "content": "We will inform you of the next steps",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1729667765015,
+      "content": "hi Riealy, yes this is correct. Please send us your CV on our email address: studio@carinahardy.com",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Riealy",
+      "timestamp_ms": 1729339804498,
+      "photos": [
+        {
+          "uri": "your_instagram_activity/messages/inbox/riealy_1564331008298626/photos/524291420559666.jpg",
+          "creation_timestamp": 1729339762
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Riealy",
+      "timestamp_ms": 1729339804270,
+      "content": "Hello, I just found out through indeed.com that your company is looking for candidates to fill the position of Admin assistant, is this information correct?",
+      "share": {
+        "link": "https://www.indeed.com/?from=social_share",
+        "share_text": "With Indeed, you can search millions of jobs online to find the next step in your career. With tools for job search, resumes, company reviews and more, we're with you every step of the way."
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Riealy",
+  "is_still_participant": true,
+  "thread_path": "inbox/riealy_1564331008298626",
+  "magic_words": [
+    
+  ]
+}

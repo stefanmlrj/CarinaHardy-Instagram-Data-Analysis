@@ -1,0 +1,25 @@
+{
+  "participants": [
+    {
+      "name": "Beth Buccini (Elizabeth Shepherd Buccini)"
+    },
+    {
+      "name": "CARINA HARDY"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1728889411955,
+      "content": "Huge congratulations Beth",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Beth Buccini (Elizabeth Shepherd Buccini)",
+  "is_still_participant": true,
+  "thread_path": "inbox/bethbuccinielizabethshepherdbuccini_1560171072047953",
+  "magic_words": [
+    
+  ]
+}

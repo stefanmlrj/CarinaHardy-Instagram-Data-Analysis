@@ -1,0 +1,32 @@
+{
+  "participants": [
+    {
+      "name": "Stephan Kotas"
+    },
+    {
+      "name": "CARINA HARDY"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Stephan Kotas",
+      "timestamp_ms": 1712153477113,
+      "content": "Thanks Carina, was rainy day but managed to get some plates \u00f0\u009f\u0099\u008f",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1712128293666,
+      "content": "Stefan this is amazing!!!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Stephan Kotas",
+  "is_still_participant": true,
+  "thread_path": "inbox/stephankotas_1343463360385393",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "participants": [
+    {
+      "name": "SoFA Design Institute"
+    },
+    {
+      "name": "CARINA HARDY"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1731557214091,
+      "share": {
+        "link": "https://instagram.com/stories/carinahardy.studio/3500877974453491203"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "SoFA Design Institute",
+      "timestamp_ms": 1731548780365,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "SoFA Design Institute",
+      "timestamp_ms": 1731491043747,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "SoFA Design Institute",
+      "timestamp_ms": 1731491011203,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "SoFA Design Institute",
+      "timestamp_ms": 1731490992280,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "SoFA Design Institute",
+      "timestamp_ms": 1731490985972,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "SoFA Design Institute",
+      "timestamp_ms": 1731490950433,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "SoFA Design Institute",
+  "is_still_participant": true,
+  "thread_path": "inbox/sofadesigninstitute_1583907199674340",
+  "magic_words": [
+    
+  ]
+}

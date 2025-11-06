@@ -1,0 +1,42 @@
+{
+  "participants": [
+    {
+      "name": "Hotels Above Par l Boutique Hotels & Travel"
+    },
+    {
+      "name": "CARINA HARDY"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1734428540356,
+      "share": {
+        "link": "https://instagram.com/stories/carinahardy.studio/3524964504763622854"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1734428496126,
+      "share": {
+        "link": "https://instagram.com/stories/carinahardy.studio/3524964029230156759"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1734428304913,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Hotels Above Par l Boutique Hotels & Travel",
+  "is_still_participant": true,
+  "thread_path": "inbox/hotelsaboveparlboutiquehotelstravel_1608926830505710",
+  "magic_words": [
+    
+  ]
+}

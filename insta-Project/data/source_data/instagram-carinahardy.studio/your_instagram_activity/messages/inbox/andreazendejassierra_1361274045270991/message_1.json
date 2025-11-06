@@ -1,0 +1,46 @@
+{
+  "participants": [
+    {
+      "name": "Andrea Zendejas Sierra"
+    },
+    {
+      "name": "CARINA HARDY"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1714823369312,
+      "content": "I\u00e2\u0080\u0099d love to meet you - I\u00e2\u0080\u0099ll be arriving in New York City May 11th and staying until the 27th - do you have a few hours during that time? xx",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1714823363452,
+      "content": "Yael let me know that you attended a press event she hosted recently - I was delighted to learn this.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Andrea Zendejas Sierra",
+      "timestamp_ms": 1707366381015,
+      "content": "Thank you for reaching out! Absolutely love your jewelry!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1707194886027,
+      "content": "Hey Andrea, I want to say hi from across the internet & ocean and thank you for following our project. I hope we can cross paths soon, please reach out if you'll be in Bali soon and we'd love to have you over to the studio. & I absolutely love the tile museum in Lisbon, so many details and beauty everywhere! Sending love to you, xCarina",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Andrea Zendejas Sierra",
+  "is_still_participant": true,
+  "thread_path": "inbox/andreazendejassierra_1361274045270991",
+  "magic_words": [
+    
+  ]
+}

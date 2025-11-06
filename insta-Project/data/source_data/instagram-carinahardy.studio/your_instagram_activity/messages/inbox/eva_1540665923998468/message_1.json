@@ -1,0 +1,28 @@
+{
+  "participants": [
+    {
+      "name": "eva"
+    },
+    {
+      "name": "CARINA HARDY"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "eva",
+      "timestamp_ms": 1727092737900,
+      "content": "\u00f0\u009f\u0098\u008d",
+      "share": {
+        "link": "https://instagram.com/stories/carinahardy.studio/3463353839842454963"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "eva",
+  "is_still_participant": true,
+  "thread_path": "inbox/eva_1540665923998468",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "participants": [
+    {
+      "name": "\u00e2\u00a0\u0080"
+    },
+    {
+      "name": "CARINA HARDY"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "\u00e2\u00a0\u0080",
+      "timestamp_ms": 1727229837909,
+      "content": "Thank you!\nAnd Rahajeng Rahina Galungan Carina\u00f0\u009f\u0099\u008f\u00f0\u009f\u008c\u00ba",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "CARINA HARDY"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1727163868076,
+      "content": "No worries my dear! There is time next time xxx",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00e2\u00a0\u0080",
+      "timestamp_ms": 1727085676251,
+      "content": "Carina,\nIm so sorry I wasn\u00e2\u0080\u0099t able to come visit your studio even though I said I would\u00f0\u009f\u0098\u00ad\nI\u00e2\u0080\u0099d definitely come visit next time I\u00e2\u0080\u0099m there.",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "CARINA HARDY",
+          "timestamp": 1727163859
+        }
+      ],
+      "share": {
+        "link": "https://instagram.com/stories/carinahardy.studio/3463353839842454963"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "\u00e2\u00a0\u0080",
+  "is_still_participant": true,
+  "thread_path": "inbox/824776175128519",
+  "magic_words": [
+    
+  ]
+}

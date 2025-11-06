@@ -1,0 +1,46 @@
+{
+  "participants": [
+    {
+      "name": "Jasmine Yaa-Tiwaah Anokye\u00f0\u009f\u0087\u00ac\u00f0\u009f\u0087\u00ad\u00e2\u009a\u00a1\u00f0\u009f\u008f\u00b4\u00e2\u0080\u008d\u00e2\u0098\u00a0\u00ef\u00b8\u008f"
+    },
+    {
+      "name": "CARINA HARDY"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Jasmine Yaa-Tiwaah Anokye\u00f0\u009f\u0087\u00ac\u00f0\u009f\u0087\u00ad\u00e2\u009a\u00a1\u00f0\u009f\u008f\u00b4\u00e2\u0080\u008d\u00e2\u0098\u00a0\u00ef\u00b8\u008f",
+      "timestamp_ms": 1727180677285,
+      "content": "Thank you!!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jasmine Yaa-Tiwaah Anokye\u00f0\u009f\u0087\u00ac\u00f0\u009f\u0087\u00ad\u00e2\u009a\u00a1\u00f0\u009f\u008f\u00b4\u00e2\u0080\u008d\u00e2\u0098\u00a0\u00ef\u00b8\u008f",
+      "timestamp_ms": 1727180672669,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1727164064096,
+      "content": "Shining!!!",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Jasmine Yaa-Tiwaah Anokye\u00f0\u009f\u0087\u00ac\u00f0\u009f\u0087\u00ad\u00e2\u009a\u00a1\u00f0\u009f\u008f\u00b4\u00e2\u0080\u008d\u00e2\u0098\u00a0\u00ef\u00b8\u008f",
+          "timestamp": 1727180672
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Jasmine Yaa-Tiwaah Anokye\u00f0\u009f\u0087\u00ac\u00f0\u009f\u0087\u00ad\u00e2\u009a\u00a1\u00f0\u009f\u008f\u00b4\u00e2\u0080\u008d\u00e2\u0098\u00a0\u00ef\u00b8\u008f",
+  "is_still_participant": true,
+  "thread_path": "inbox/jasmineyaatiwaahanokye_865938844919287",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "participants": [
+    {
+      "name": "Amy Thomas"
+    },
+    {
+      "name": "CARINA HARDY"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1716536736243,
+      "content": "So beautiful.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Amy Thomas",
+  "is_still_participant": true,
+  "thread_path": "inbox/amythomas_1431782874886774",
+  "magic_words": [
+    
+  ]
+}

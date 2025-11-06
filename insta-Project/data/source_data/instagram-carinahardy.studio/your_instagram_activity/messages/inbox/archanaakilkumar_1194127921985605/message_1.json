@@ -1,0 +1,32 @@
+{
+  "participants": [
+    {
+      "name": "Archana Akil Kumar"
+    },
+    {
+      "name": "CARINA HARDY"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1704447015708,
+      "content": "How do the hoops feel on you?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1704447009600,
+      "content": "Archana, hi! Wishing you a lovely 2024 my dear.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Archana Akil Kumar",
+  "is_still_participant": true,
+  "thread_path": "inbox/archanaakilkumar_1194127921985605",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "participants": [
+    {
+      "name": "NYC Jewelry Week"
+    },
+    {
+      "name": "CARINA HARDY"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "NYC Jewelry Week",
+      "timestamp_ms": 1717755004097,
+      "content": "Thank you for your interest! Jewelers and brands are featured by application through our Discover program. You can check out the latest featured artists here: https://nycjewelryweek.com/discover/\n\nIn the late summer we also feature American and America-based jewelers and brands on our USA Jewelry Tour. Applications are now closed and will reopen in 2024.\n\n\u00f0\u009f\u0093\u00a8 Sign up for our mailing list to hear about future calls: https://nycjewelryweek.com/stay-in-the-loop/",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1717755002875,
+      "content": "How do I get featured?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "NYC Jewelry Week",
+  "is_still_participant": true,
+  "thread_path": "inbox/nycjewelryweek_1441147953950266",
+  "magic_words": [
+    
+  ]
+}

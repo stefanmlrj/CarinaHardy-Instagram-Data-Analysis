@@ -1,0 +1,73 @@
+{
+  "participants": [
+    {
+      "name": "Camila Lhuillier-Albani"
+    },
+    {
+      "name": "CARINA HARDY"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1731401352913,
+      "share": {
+        "link": "https://instagram.com/stories/carinahardy.studio/3499570624459359399"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Camila Lhuillier-Albani",
+      "timestamp_ms": 1731385540866,
+      "content": "Nice to meet you both",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Camila Lhuillier-Albani",
+      "timestamp_ms": 1731385515197,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1731385511356,
+      "content": "Thank you my dear !",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Camila Lhuillier-Albani",
+          "timestamp": 1731385515
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Camila Lhuillier-Albani",
+      "timestamp_ms": 1731384129239,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Camila Lhuillier-Albani",
+      "timestamp_ms": 1731384075442,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Camila Lhuillier-Albani",
+      "timestamp_ms": 1731384028659,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Camila Lhuillier-Albani",
+  "is_still_participant": true,
+  "thread_path": "inbox/camilalhuillieralbani_1580367033363914",
+  "magic_words": [
+    
+  ]
+}

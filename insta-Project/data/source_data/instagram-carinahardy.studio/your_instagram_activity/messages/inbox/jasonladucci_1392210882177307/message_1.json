@@ -1,0 +1,24 @@
+{
+  "participants": [
+    {
+      "name": "Jason LaDucci"
+    },
+    {
+      "name": "CARINA HARDY"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Jason LaDucci",
+      "timestamp_ms": 1711443593126,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Jason LaDucci",
+  "is_still_participant": true,
+  "thread_path": "inbox/jasonladucci_1392210882177307",
+  "magic_words": [
+    
+  ]
+}

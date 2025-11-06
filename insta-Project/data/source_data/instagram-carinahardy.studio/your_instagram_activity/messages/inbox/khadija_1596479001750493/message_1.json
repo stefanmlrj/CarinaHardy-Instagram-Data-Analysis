@@ -1,0 +1,53 @@
+{
+  "participants": [
+    {
+      "name": "Khadija \u00f0\u009f\u0096\u00a4\u00f0\u009f\u008c\u0099 \u00f0\u009f\u008d\u0089"
+    },
+    {
+      "name": "CARINA HARDY"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Khadija \u00f0\u009f\u0096\u00a4\u00f0\u009f\u008c\u0099 \u00f0\u009f\u008d\u0089",
+      "timestamp_ms": 1733201198884,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Khadija \u00f0\u009f\u0096\u00a4\u00f0\u009f\u008c\u0099 \u00f0\u009f\u008d\u0089",
+      "timestamp_ms": 1733201194931,
+      "content": "Thank you so much , I will do this",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1733200196659,
+      "content": "That's really kind of you - please email Tavish (tavish@carinahardy.com)  with your information.",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Khadija \u00f0\u009f\u0096\u00a4\u00f0\u009f\u008c\u0099 \u00f0\u009f\u008d\u0089",
+          "timestamp": 1733201198
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Khadija \u00f0\u009f\u0096\u00a4\u00f0\u009f\u008c\u0099 \u00f0\u009f\u008d\u0089",
+      "timestamp_ms": 1732960553845,
+      "content": "Hello , hope you are well . \n\nI was wondering if you offer any internship roles , I have a background in jewellery making and abit of design but I would like to learn more about jewellery design . \n\nI am currently based in bali as a teacher.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Khadija \u00f0\u009f\u0096\u00a4\u00f0\u009f\u008c\u0099 \u00f0\u009f\u008d\u0089",
+  "is_still_participant": true,
+  "thread_path": "inbox/khadija_1596479001750493",
+  "magic_words": [
+    
+  ]
+}

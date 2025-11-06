@@ -1,0 +1,58 @@
+{
+  "participants": [
+    {
+      "name": "GYMNASIUM"
+    },
+    {
+      "name": "CARINA HARDY"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "GYMNASIUM",
+      "timestamp_ms": 1727178106906,
+      "photos": [
+        {
+          "uri": "your_instagram_activity/messages/inbox/gymnasium_1541449043920156/photos/1234472800909913.jpg",
+          "creation_timestamp": 1727178106
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "GYMNASIUM",
+      "timestamp_ms": 1727178101177,
+      "content": "Here is the schedule of group classes. If you have any questions, I will be happy to answer them",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "GYMNASIUM",
+      "timestamp_ms": 1727178089609,
+      "content": "Hi, we will be working all the holidays",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1727176818335,
+      "content": "What is your schedule for the next days?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1727176810435,
+      "content": "Are you closed tomorrow for galungan",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "GYMNASIUM",
+  "is_still_participant": true,
+  "thread_path": "inbox/gymnasium_1541449043920156",
+  "magic_words": [
+    
+  ]
+}

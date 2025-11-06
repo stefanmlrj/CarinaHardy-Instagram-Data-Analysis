@@ -1,0 +1,67 @@
+{
+  "participants": [
+    {
+      "name": "Brina"
+    },
+    {
+      "name": "CARINA HARDY"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Brina",
+      "timestamp_ms": 1724577826259,
+      "content": "Enak tenannn \u00f0\u009f\u00a4\u00a4",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1724575088262,
+      "content": "Weeeeennnaaakkkkk",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Brina",
+      "timestamp_ms": 1719628521275,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1719627907344,
+      "content": "LOVE !!!",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Brina",
+          "timestamp": 1719628521
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Brina",
+      "timestamp_ms": 1710468392981,
+      "content": "So sweet \u00f0\u009f\u00a5\u00b0 love you too! And loving the rebranding \u00f0\u009f\u008c\u00bc",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1710462309665,
+      "content": "I love you Brina!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Brina",
+  "is_still_participant": true,
+  "thread_path": "inbox/brina_576738340391236",
+  "magic_words": [
+    
+  ]
+}

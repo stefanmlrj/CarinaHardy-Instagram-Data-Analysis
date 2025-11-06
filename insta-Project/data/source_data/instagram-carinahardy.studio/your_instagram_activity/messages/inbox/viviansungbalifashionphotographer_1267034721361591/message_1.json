@@ -1,0 +1,70 @@
+{
+  "participants": [
+    {
+      "name": "Vivian Sung \u00e2\u0098\u00bd Bali Fashion Photographer"
+    },
+    {
+      "name": "CARINA HARDY"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1711011201488,
+      "content": "Wonderful, pumped to see you.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Vivian Sung \u00e2\u0098\u00bd Bali Fashion Photographer",
+      "timestamp_ms": 1711010538863,
+      "content": "yes, have a lovely day! \u00f0\u009f\u00a4\u008d\u00e2\u0098\u0080\u00ef\u00b8\u008f",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1711010283429,
+      "content": "You better stop by",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Vivian Sung \u00e2\u0098\u00bd Bali Fashion Photographer",
+      "timestamp_ms": 1711010170927,
+      "content": "sure, maybe tomorrow or the day after \u00e2\u0098\u00ba\u00ef\u00b8\u008f",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1711010038884,
+      "content": "Are you going to be visiting during Ubud Open Studio?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1711010026319,
+      "content": "Thank you so much!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Vivian Sung \u00e2\u0098\u00bd Bali Fashion Photographer",
+      "timestamp_ms": 1711008760501,
+      "content": "congratulations! \u00f0\u009f\u00a4\u008d\u00e2\u009c\u00a8",
+      "share": {
+        "link": "https://instagram.com/stories/carinahardy.studio/3328326580937645061"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Vivian Sung \u00e2\u0098\u00bd Bali Fashion Photographer",
+  "is_still_participant": true,
+  "thread_path": "inbox/viviansungbalifashionphotographer_1267034721361591",
+  "magic_words": [
+    
+  ]
+}

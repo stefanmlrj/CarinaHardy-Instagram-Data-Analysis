@@ -1,0 +1,25 @@
+{
+  "participants": [
+    {
+      "name": "aerin"
+    },
+    {
+      "name": "CARINA HARDY"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1707193729190,
+      "content": "Hello Aerin, I want to say hi and thank you for following our project! I hope we can cross paths soon, please reach out if you'll be in Bali soon and we'd love to have you over to the studio. I admire and resonate with your ethos deeply - beauty in every move and detail. Sending love to you xxCarina",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "aerin",
+  "is_still_participant": true,
+  "thread_path": "inbox/aerin_1318250699573228",
+  "magic_words": [
+    
+  ]
+}

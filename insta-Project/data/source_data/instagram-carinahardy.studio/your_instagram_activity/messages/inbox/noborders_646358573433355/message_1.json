@@ -1,0 +1,25 @@
+{
+  "participants": [
+    {
+      "name": "No Borders"
+    },
+    {
+      "name": "CARINA HARDY"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "No Borders",
+      "timestamp_ms": 1704723208300,
+      "content": "No sent an attachment.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "No Borders",
+  "is_still_participant": true,
+  "thread_path": "inbox/noborders_646358573433355",
+  "magic_words": [
+    
+  ]
+}

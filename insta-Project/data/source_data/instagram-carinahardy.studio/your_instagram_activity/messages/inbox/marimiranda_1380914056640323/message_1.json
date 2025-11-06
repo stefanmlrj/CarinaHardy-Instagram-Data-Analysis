@@ -1,0 +1,107 @@
+{
+  "participants": [
+    {
+      "name": "Mari Miranda"
+    },
+    {
+      "name": "CARINA HARDY"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Mari Miranda",
+      "timestamp_ms": 1725884225181,
+      "content": "Mari sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/p/C_siR-Xy8i4/?carousel_share_child_media_id=3453285783070034104_1140826426",
+        "share_text": "Can\u00e2\u0080\u0099t compete where you don\u00e2\u0080\u0099t compare",
+        "original_content_owner": "marimiranda_br"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Mari Miranda",
+      "timestamp_ms": 1710422524866,
+      "content": "Likewise \u00e2\u0098\u00ba\u00ef\u00b8\u008f\u00f0\u009f\u00ab\u00b6\u00f0\u009f\u008f\u00bd",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "CARINA HARDY",
+          "timestamp": 1710446560
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Mari Miranda",
+      "timestamp_ms": 1710422512800,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1710228856104,
+      "content": "Thank you so much Mari - can't wait to work with you next time!",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Mari Miranda",
+          "timestamp": 1710422512
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Mari Miranda",
+      "timestamp_ms": 1710038224388,
+      "content": "The jewelry are amazing! Very unique! Congratulations \u00e2\u009c\u00a8",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Mari Miranda",
+      "timestamp_ms": 1710038151505,
+      "content": "Hi dear \u00e2\u0098\u00ba\u00ef\u00b8\u008f owwwn thank you so much \u00f0\u009f\u00a5\u00b9\u00f0\u009f\u0098\u008d\u00f0\u009f\u00a5\u00b0",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1709975683261,
+      "content": "Let us know if there\u00e2\u0080\u0099s anything we can do to help xx",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1709975675775,
+      "content": "We welcome any questions you have or  impressions you wish to share.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1709975673030,
+      "content": "Thank you for your support of Elppin! I really love your vibe, you\u00e2\u0080\u0099re gorgeous x",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1709975654419,
+      "content": "Mari, hi!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Mari Miranda",
+  "is_still_participant": true,
+  "thread_path": "inbox/marimiranda_1380914056640323",
+  "magic_words": [
+    
+  ]
+}

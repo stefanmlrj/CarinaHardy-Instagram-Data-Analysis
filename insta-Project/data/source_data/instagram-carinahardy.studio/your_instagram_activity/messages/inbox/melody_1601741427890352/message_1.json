@@ -1,0 +1,35 @@
+{
+  "participants": [
+    {
+      "name": "Melody"
+    },
+    {
+      "name": "CARINA HARDY"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Melody",
+      "timestamp_ms": 1734579991177,
+      "content": "WOW",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "CARINA HARDY",
+          "timestamp": 1734581652
+        }
+      ],
+      "share": {
+        "link": "https://instagram.com/stories/carinahardy.studio/3526160814820636226"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Melody",
+  "is_still_participant": true,
+  "thread_path": "inbox/melody_1601741427890352",
+  "magic_words": [
+    
+  ]
+}

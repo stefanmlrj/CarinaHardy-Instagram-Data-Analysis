@@ -1,0 +1,24 @@
+{
+  "participants": [
+    {
+      "name": "Yulia Krashevskaya | Event, PR"
+    },
+    {
+      "name": "CARINA HARDY"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Yulia Krashevskaya | Event, PR",
+      "timestamp_ms": 1715128175258,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Yulia Krashevskaya | Event, PR",
+  "is_still_participant": true,
+  "thread_path": "inbox/yuliakrashevskayaeventpr_1411385626929496",
+  "magic_words": [
+    
+  ]
+}

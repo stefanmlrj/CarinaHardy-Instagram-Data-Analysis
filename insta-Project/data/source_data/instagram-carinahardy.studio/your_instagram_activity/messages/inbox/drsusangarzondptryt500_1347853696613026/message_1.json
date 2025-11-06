@@ -1,0 +1,81 @@
+{
+  "participants": [
+    {
+      "name": "Dr. Susan Garzon, DPT, RYT 500"
+    },
+    {
+      "name": "CARINA HARDY"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Dr. Susan Garzon, DPT, RYT 500",
+      "timestamp_ms": 1705496779181,
+      "content": "Thank you! Likewise \u00f0\u009f\u00ab\u00b6\u00f0\u009f\u008f\u00bd",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Dr. Susan Garzon, DPT, RYT 500",
+      "timestamp_ms": 1705496767154,
+      "content": "Reacted \u00e2\u009d\u00a4\u00ef\u00b8\u008f to your message ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Dr. Susan Garzon, DPT, RYT 500",
+      "timestamp_ms": 1705496766323,
+      "content": "Reacted \u00e2\u009d\u00a4\u00ef\u00b8\u008f to your message ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1705434781475,
+      "content": "Let us know if there\u00e2\u0080\u0099s anything we can do to help xx",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Dr. Susan Garzon, DPT, RYT 500",
+          "timestamp": 1705496766
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1705434777626,
+      "content": "We welcome any questions you have or  impressions you wish to share.",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Dr. Susan Garzon, DPT, RYT 500",
+          "timestamp": 1705496767
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1705434774569,
+      "content": "Thank you for your support of Elppin! I really love your page, it\u00e2\u0080\u0099s informative and fun! \u00e2\u009c\u00a8",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1705434760504,
+      "content": "Dr. Susan, hi!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Dr. Susan Garzon, DPT, RYT 500",
+  "is_still_participant": true,
+  "thread_path": "inbox/drsusangarzondptryt500_1347853696613026",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "participants": [
+    {
+      "name": "Rachel Hodin"
+    },
+    {
+      "name": "CARINA HARDY"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Rachel Hodin",
+      "timestamp_ms": 1735397585805,
+      "content": "Thank you!!! xoxxo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1735376200500,
+      "content": "You're a great writer.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Rachel Hodin",
+  "is_still_participant": true,
+  "thread_path": "inbox/rachelhodin_1607587720639036",
+  "magic_words": [
+    
+  ]
+}

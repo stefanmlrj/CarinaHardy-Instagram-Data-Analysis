@@ -1,0 +1,100 @@
+{
+  "participants": [
+    {
+      "name": "Fernanda Curi"
+    },
+    {
+      "name": "CARINA HARDY"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Fernanda Curi",
+      "timestamp_ms": 1727513409503,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1727498538771,
+      "content": "so so so happy to see this set with you",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Fernanda Curi",
+          "timestamp": 1727513409
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1727498529895,
+      "content": "YESSSS",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Fernanda Curi",
+      "timestamp_ms": 1727448243721,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Fernanda Curi",
+      "timestamp_ms": 1727447911597,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1724928521137,
+      "content": "Your rings are ready early next week and we can ship immediately. When do you leave for Brazil?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1724928487724,
+      "content": "Fernanda hey!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Fernanda Curi",
+      "timestamp_ms": 1724926780167,
+      "content": "So you know when the rings are coming? Thank you",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Fernanda Curi",
+      "timestamp_ms": 1724926767780,
+      "content": "I am back to London and soon will go to brasil",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Fernanda Curi",
+      "timestamp_ms": 1724926755190,
+      "content": "How are you? i miss Ubud so much",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Fernanda Curi",
+      "timestamp_ms": 1724926743329,
+      "content": "Hey hey!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Fernanda Curi",
+  "is_still_participant": true,
+  "thread_path": "inbox/fernandacuri_1521192749279119",
+  "magic_words": [
+    
+  ]
+}

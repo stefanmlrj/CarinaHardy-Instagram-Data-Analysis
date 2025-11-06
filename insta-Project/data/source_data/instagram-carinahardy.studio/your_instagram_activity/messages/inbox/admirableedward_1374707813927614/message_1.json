@@ -1,0 +1,50 @@
+{
+  "participants": [
+    {
+      "name": "Admirable Edward"
+    },
+    {
+      "name": "CARINA HARDY"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1709637748067,
+      "content": "No",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Admirable Edward",
+      "timestamp_ms": 1709563737436,
+      "content": "Hey guys, here you go:\n \nhttps://boomboomconsulting.com/show/elppin \n \nLmk what you think after you've seen it, and if you wanna talk directly, just book a call: \n \nhttps://boomboomconsulting.com/book-a-call",
+      "share": {
+        "link": "https://boomboomconsulting.com/show/elppin",
+        "share_text": "Hey guys, here you go:\n \nhttps://boomboomconsulting.com/show/elppin \n \nLmk what you think after you've seen it, and if you wanna talk directly, just book a call: \n \nhttps://boomboomconsulting.com/book-a-call"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1709452773764,
+      "content": "Send it to Tavish@elppin.com",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Admirable Edward",
+      "timestamp_ms": 1709445133583,
+      "content": "Hey, following up again because I think our approach to TikTok ads could be a game-changer for your business. We've observed remarkable results with our clients\u00e2\u0080\u0094I just posted up a new case study on my profile\u00e2\u0080\u0094and I'd love to explain our process. Let me know if I can send the vid over.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Admirable Edward",
+  "is_still_participant": true,
+  "thread_path": "inbox/admirableedward_1374707813927614",
+  "magic_words": [
+    
+  ]
+}

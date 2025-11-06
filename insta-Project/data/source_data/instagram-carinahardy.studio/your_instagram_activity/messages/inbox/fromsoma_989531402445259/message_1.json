@@ -1,0 +1,44 @@
+{
+  "participants": [
+    {
+      "name": "From Soma"
+    },
+    {
+      "name": "CARINA HARDY"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "From Soma",
+      "timestamp_ms": 1712552838863,
+      "content": "\u00f0\u009f\u008c\u00b8\u00e2\u009d\u00a4\u00ef\u00b8\u008f\u00f0\u009f\u008c\u00b8",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1712551769970,
+      "content": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "From Soma",
+      "timestamp_ms": 1712551384367,
+      "content": "From sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/p/C5fMxQWxFTk/?carousel_share_child_media_id=3341445609906525412_46893959634",
+        "share_text": "Matur Suksma for giving me the privilege to hold space for the sharing of indigenous knowledge \u00f0\u009f\u0099\u008f\u00f0\u009f\u008f\u00bd\u00e2\u009c\u00a8\u00f0\u009f\u0092\u0099",
+        "original_content_owner": "from.soma"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "From Soma",
+  "is_still_participant": true,
+  "thread_path": "inbox/fromsoma_989531402445259",
+  "magic_words": [
+    
+  ]
+}

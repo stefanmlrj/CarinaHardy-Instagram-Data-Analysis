@@ -1,0 +1,39 @@
+{
+  "participants": [
+    {
+      "name": "Shubha Dhage, MD, FACS"
+    },
+    {
+      "name": "CARINA HARDY"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Shubha Dhage, MD, FACS",
+      "timestamp_ms": 1705120047814,
+      "content": "Thank you",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "CARINA HARDY",
+          "timestamp": 1705120138
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1705117642196,
+      "content": "Shubha, hi! Wanted to let you know that we sent you a little gift via email on Dec 15th to express our appreciation for your support of Elppin. \u00f0\u009f\u0092\u0096",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Shubha Dhage, MD, FACS",
+  "is_still_participant": true,
+  "thread_path": "inbox/shubhadhagemdfacs_1020637552667977",
+  "magic_words": [
+    
+  ]
+}

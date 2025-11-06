@@ -1,0 +1,59 @@
+{
+  "media": [
+    
+  ],
+  "label_values": [
+    {
+      "label": "Removed categories",
+      "vec": [
+        
+      ]
+    },
+    {
+      "dict": [
+        {
+          "dict": [
+            {
+              "label": "Event",
+              "value": "Hide an Ad"
+            },
+            {
+              "label": "Ad title",
+              "value": "ads_4"
+            },
+            {
+              "label": "Creation time",
+              "timestamp_value": 1755299603
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Event",
+              "value": "Hide an Ad"
+            },
+            {
+              "label": "Ad title",
+              "value": "Instagram post: Discover more about our Hutan..."
+            },
+            {
+              "label": "Creation time",
+              "timestamp_value": 1744433550
+            }
+          ],
+          "title": ""
+        }
+      ],
+      "title": "Hidden ads"
+    },
+    {
+      "dict": [
+        
+      ],
+      "title": "Hidden advertisers"
+    }
+  ],
+  "fbid": "18080729200209996"
+}

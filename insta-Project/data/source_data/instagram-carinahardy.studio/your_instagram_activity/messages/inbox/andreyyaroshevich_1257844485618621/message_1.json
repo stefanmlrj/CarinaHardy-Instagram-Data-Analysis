@@ -1,0 +1,49 @@
+{
+  "participants": [
+    {
+      "name": "Andrey Yaroshevich"
+    },
+    {
+      "name": "CARINA HARDY"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Andrey Yaroshevich",
+      "timestamp_ms": 1706726409484,
+      "content": "thank you!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1706684787785,
+      "content": "Please feel free to mail all relevant information to Tavish (tavish@elppin.com).",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Andrey Yaroshevich"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Andrey Yaroshevich",
+      "timestamp_ms": 1705973699284,
+      "content": "Hi,\n\nHope your day is going well!\n\nAre you currently considering new photographers for your brand?\u00c2\u00a0\nMy name is Andrey, I am a fashion photographer with over 12 years of experience in the industry. I\u00e2\u0080\u0099ve collaborated with well-known magazines such as Harper\u00e2\u0080\u0099s Bazaar, Numero, L\u00e2\u0080\u0099Officiel, Grazia, Marie Claire, and others. \n\nAdditionally, I do videography and can do full production for your brand (ideas, mood boards, team casting, location scouting, clothes delivery, team communication, photo retouching, and more).\n\nYou can view my portfolio on my website:\u00c2\u00a0https://www.andreyyaroshevich.com/ \n\nThank you for your time and consideration.\n\nBest,\nAndrey",
+      "share": {
+        "link": "https://www.andreyyaroshevich.com/",
+        "share_text": "Hi,\n\nHope your day is going well!\n\nAre you currently considering new photographers for your brand?\u00c2\u00a0\nMy name is Andrey, I am a fashion photographer with over 12 years of experience in the industry. I\u00e2\u0080\u0099ve collaborated with well-known magazines such as Harper\u00e2\u0080\u0099s Bazaar, Numero, L\u00e2\u0080\u0099Officiel, Grazia, Marie Claire, and others. \n\nAdditionally, I do videography and can do full production for your brand (ideas, mood boards, team casting, location scouting, clothes delivery, team communication, photo retouching, and more).\n\nYou can view my portfolio on my website:\u00c2\u00a0https://www.andreyyaroshevich.com/ \n\nThank you for your time and consideration.\n\nBest,\nAndrey"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Andrey Yaroshevich",
+  "is_still_participant": true,
+  "thread_path": "inbox/andreyyaroshevich_1257844485618621",
+  "magic_words": [
+    
+  ]
+}

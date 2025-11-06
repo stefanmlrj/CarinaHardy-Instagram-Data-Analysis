@@ -1,0 +1,155 @@
+{
+  "participants": [
+    {
+      "name": "Polina Chernova"
+    },
+    {
+      "name": "CARINA HARDY"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Polina Chernova",
+      "timestamp_ms": 1733835787030,
+      "content": "\u00f0\u009f\u0094\u00a5",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "CARINA HARDY",
+          "timestamp": 1733926635
+        }
+      ],
+      "share": {
+        "link": "https://instagram.com/stories/carinahardy.studio/3519956409947612254"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Polina Chernova",
+      "timestamp_ms": 1731324016914,
+      "content": "\u00f0\u009f\u0094\u00a5",
+      "share": {
+        "link": "https://instagram.com/stories/carinahardy.studio/3498832337390240259"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Polina Chernova",
+      "timestamp_ms": 1724404038379,
+      "content": "\u00f0\u009f\u0094\u00a5",
+      "share": {
+        "link": "https://instagram.com/stories/carinahardy.studio/3440870091972579290"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Polina Chernova",
+      "timestamp_ms": 1721380436964,
+      "content": "\u00f0\u009f\u0098\u008d",
+      "share": {
+        "link": "https://instagram.com/stories/carinahardy.studio/3415506250493135373"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1711692516300,
+      "content": "Thank you so much - we were lucky enough to find a model, but would love to have your email so that we can reach out and keep you in mind for the future. Is that something you'd be open to?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Polina Chernova",
+      "timestamp_ms": 1711619208187,
+      "content": "wow! I\u00e2\u0080\u0099d like to try \u00f0\u009f\u0098\u008d",
+      "share": {
+        "link": "https://instagram.com/stories/carinahardy.studio/3333536584078688213"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Polina Chernova",
+      "timestamp_ms": 1711113336641,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1711112404035,
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Polina Chernova",
+          "timestamp": 1711113336
+        }
+      ],
+      "share": {
+        "link": "https://instagram.com/stories/carinahardy.studio/3329374452781030590"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Polina Chernova",
+      "timestamp_ms": 1711101841727,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Polina Chernova",
+      "timestamp_ms": 1710394982061,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Polina Chernova",
+      "timestamp_ms": 1710394873068,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Polina Chernova",
+      "timestamp_ms": 1710394467791,
+      "content": "hey\nthank you for the invitation, will be glad to come \u00f0\u009f\u00a4\u008d",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1710387951740,
+      "photos": [
+        {
+          "uri": "your_instagram_activity/messages/inbox/polinachernova_1344439466954449/photos/774812840856717.jpg",
+          "creation_timestamp": 1710387949
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1710387943770,
+      "content": "Hey my dear",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Polina Chernova",
+      "timestamp_ms": 1707207899850,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Polina Chernova",
+  "is_still_participant": true,
+  "thread_path": "inbox/polinachernova_1344439466954449",
+  "magic_words": [
+    
+  ]
+}

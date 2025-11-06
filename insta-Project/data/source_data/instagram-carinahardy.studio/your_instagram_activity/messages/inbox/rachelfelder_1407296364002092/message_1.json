@@ -1,0 +1,116 @@
+{
+  "participants": [
+    {
+      "name": "rachel felder"
+    },
+    {
+      "name": "CARINA HARDY"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "rachel felder",
+      "timestamp_ms": 1722062996336,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1722062779191,
+      "content": "Malachite is on the list of dream materials for the future",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "rachel felder",
+          "timestamp": 1722062996
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1722062671682,
+      "content": "Oh me oh my",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "rachel felder",
+      "timestamp_ms": 1722062158572,
+      "content": "Indeed! The dial is malachite \u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "rachel felder",
+      "timestamp_ms": 1722062144121,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1722062118237,
+      "content": "What a green",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "rachel felder",
+          "timestamp": 1722062144
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "rachel felder",
+      "timestamp_ms": 1713781554153,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1713762828636,
+      "content": "Excellent - looking forward to this! Just sent you a message on whatsapp",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "rachel felder",
+          "timestamp": 1713781554
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "rachel felder",
+      "timestamp_ms": 1713609562999,
+      "content": "Hi and a big yes to meeting in person next month! Joan is such an amazing person and educator. I feel very grateful to know her. My info so you have it is rachel@rachelfelder.com; 917 623 6024. x R",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1713593752884,
+      "content": "Rachel, hi! I'm stoked to receive this note for you. I have such gratitude to Joan, she was instrumental in making my time at Barnard work for me. I'm so happy you discovered us through Yael. We've been at this for a while now, it's wonderful to begin to see things picking up for us. I will be visiting NY May 12-24, would love to coffee/tea with you, or walk in the park. x Carina",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "rachel felder",
+      "timestamp_ms": 1713442847562,
+      "content": "Hi Carina! I'm a journalist who writes lots about jewelry, and a good friend and former student of wonderful Joan Snitzer. And...I met you when you were very young, as I was writing about (and fanclub president of!) your parents. I was at the Yaya press preview yesterday and saw some of your beautiful new pieces.  Congrats on the collection -- I'm very glad to have it on my radar. Warmly, Rachel",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "rachel felder",
+  "is_still_participant": true,
+  "thread_path": "inbox/rachelfelder_1407296364002092",
+  "magic_words": [
+    
+  ]
+}

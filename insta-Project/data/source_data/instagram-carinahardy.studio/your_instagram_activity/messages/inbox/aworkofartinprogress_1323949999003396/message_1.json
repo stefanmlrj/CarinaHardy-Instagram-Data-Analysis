@@ -1,0 +1,54 @@
+{
+  "participants": [
+    {
+      "name": "A work of art in progress"
+    },
+    {
+      "name": "CARINA HARDY"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "A work of art in progress",
+      "timestamp_ms": 1711389820685,
+      "share": {
+        "link": "https://instagram.com/stories/adelinalopeznews/3331701717829620078"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "A work of art in progress",
+      "timestamp_ms": 1711389764261,
+      "share": {
+        "link": "https://instagram.com/stories/adelinalopeznews/3331701240911894312"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "A work of art in progress",
+      "timestamp_ms": 1711389710403,
+      "share": {
+        "link": "https://instagram.com/stories/adelinalopeznews/3331700502588719927"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "A work of art in progress",
+      "timestamp_ms": 1711389588549,
+      "share": {
+        "link": "https://instagram.com/stories/adelinalopeznews/3331699771311807502"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "A work of art in progress",
+  "is_still_participant": true,
+  "thread_path": "inbox/aworkofartinprogress_1323949999003396",
+  "magic_words": [
+    
+  ]
+}

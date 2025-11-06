@@ -1,0 +1,32 @@
+{
+  "participants": [
+    {
+      "name": "\u00d0\u009d\u00d0\u00b0\u00d1\u0082\u00d0\u00b0\u00d0\u00bb\u00d1\u008c\u00d1\u008f \u00d0\u0091\u00d1\u008b\u00d0\u00b4\u00d0\u00b0\u00d0\u00bd\u00d1\u0086\u00d0\u00b5\u00d0\u00b2\u00d0\u00b0"
+    },
+    {
+      "name": "CARINA HARDY"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "\u00d0\u009d\u00d0\u00b0\u00d1\u0082\u00d0\u00b0\u00d0\u00bb\u00d1\u008c\u00d1\u008f \u00d0\u0091\u00d1\u008b\u00d0\u00b4\u00d0\u00b0\u00d0\u00bd\u00d1\u0086\u00d0\u00b5\u00d0\u00b2\u00d0\u00b0",
+      "timestamp_ms": 1705556995545,
+      "content": "Hello\u00e2\u009c\u00a8thank you\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1705119993871,
+      "content": "Natalia, hi! Wanted to let you know that we sent you a little gift via email on Dec 18th to express our appreciation for your support of Elppin. \u00f0\u009f\u0092\u0096",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "\u00d0\u009d\u00d0\u00b0\u00d1\u0082\u00d0\u00b0\u00d0\u00bb\u00d1\u008c\u00d1\u008f \u00d0\u0091\u00d1\u008b\u00d0\u00b4\u00d0\u00b0\u00d0\u00bd\u00d1\u0086\u00d0\u00b5\u00d0\u00b2\u00d0\u00b0",
+  "is_still_participant": true,
+  "thread_path": "inbox/natalabydanceva_1312661546798908",
+  "magic_words": [
+    
+  ]
+}

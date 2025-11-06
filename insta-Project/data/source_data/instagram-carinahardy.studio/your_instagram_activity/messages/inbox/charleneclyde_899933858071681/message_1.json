@@ -1,0 +1,142 @@
+{
+  "participants": [
+    {
+      "name": "Charlene Clyde"
+    },
+    {
+      "name": "CARINA HARDY"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Charlene Clyde",
+      "timestamp_ms": 1723607415314,
+      "content": "Will have to :)",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1723427939326,
+      "content": "Come to the studio and try it on",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Charlene Clyde",
+      "timestamp_ms": 1723293439558,
+      "content": "i love this so much",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Charlene Clyde",
+      "timestamp_ms": 1723293438990,
+      "content": "Charlene sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/p/C-fU4ueoInA/?carousel_share_child_media_id=3431553286399028613_6365745995",
+        "share_text": "",
+        "original_content_owner": "carinahardy.studio"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1715930309677,
+      "content": "Thank you so much Charlene.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Charlene Clyde",
+      "timestamp_ms": 1715676690045,
+      "content": "This series is so beautiful got me emotional",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "CARINA HARDY",
+          "timestamp": 1715689307
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Charlene Clyde",
+      "timestamp_ms": 1715676689651,
+      "content": "Charlene sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/p/C632ig8LpDt/?carousel_share_child_media_id=3366399095159629274_6365745995",
+        "share_text": "",
+        "original_content_owner": "carinahardy.studio"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Charlene Clyde",
+      "timestamp_ms": 1712835514937,
+      "content": "love",
+      "share": {
+        "link": "https://instagram.com/stories/carinahardy.studio/3343817366277897982"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Charlene Clyde",
+      "timestamp_ms": 1705504722219,
+      "content": "\u00f0\u009f\u00a5\u00b9\u00f0\u009f\u0096\u00a4",
+      "share": {
+        "link": "https://instagram.com/stories/carinahardy.studio/3282122379413097234"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Charlene Clyde",
+      "timestamp_ms": 1705243286077,
+      "content": "so beautiful!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Charlene Clyde",
+      "timestamp_ms": 1705243282152,
+      "content": "the backdrop",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Charlene Clyde",
+      "timestamp_ms": 1705243275536,
+      "content": "it looks like a shop",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1705242054037,
+      "content": "Bangkok !",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Charlene Clyde",
+      "timestamp_ms": 1705236525162,
+      "content": "where is this? x",
+      "share": {
+        "link": "https://instagram.com/stories/carinahardy.studio/3280078879834052153"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Charlene Clyde",
+  "is_still_participant": true,
+  "thread_path": "inbox/charleneclyde_899933858071681",
+  "magic_words": [
+    
+  ]
+}

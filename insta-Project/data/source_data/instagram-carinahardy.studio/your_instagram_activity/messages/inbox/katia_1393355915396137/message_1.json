@@ -1,0 +1,53 @@
+{
+  "participants": [
+    {
+      "name": "Katia"
+    },
+    {
+      "name": "CARINA HARDY"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1719908237250,
+      "content": "\u00f0\u009f\u0098\u008d",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Katia",
+      "timestamp_ms": 1719004623546,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Katia",
+      "timestamp_ms": 1719002223371,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Katia",
+      "timestamp_ms": 1719002200072,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1711593958551,
+      "content": "BEAUTIESSSSS",
+      "share": {
+        "link": "https://instagram.com/stories/ka_puanani_tia/3332696448468035333"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Katia",
+  "is_still_participant": true,
+  "thread_path": "inbox/katia_1393355915396137",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "participants": [
+    {
+      "name": "Nathalie | Visual artist"
+    },
+    {
+      "name": "CARINA HARDY"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1721367232713,
+      "content": "\u00f0\u009f\u0098\u0082",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Nathalie | Visual artist",
+      "timestamp_ms": 1705321285586,
+      "content": "Favourite smell \u00f0\u009f\u00a4\u008d",
+      "share": {
+        "link": "https://instagram.com/stories/carinahardy.studio/3280707721506547025"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Nathalie | Visual artist",
+  "is_still_participant": true,
+  "thread_path": "inbox/nathalievisualartist_957180425680357",
+  "magic_words": [
+    
+  ]
+}

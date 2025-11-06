@@ -1,0 +1,59 @@
+{
+  "participants": [
+    {
+      "name": "Erika Kurihara"
+    },
+    {
+      "name": "CARINA HARDY"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Erika Kurihara",
+      "timestamp_ms": 1735365520441,
+      "content": "Yes please I mean!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Erika Kurihara",
+      "timestamp_ms": 1735364908913,
+      "content": "Oh please! I was thinking the same thing! \u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1735363089965,
+      "content": "We must see eachother in the new year",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Erika Kurihara",
+      "timestamp_ms": 1734652239354,
+      "content": "Wow!! \u00e2\u009d\u00a4\u00ef\u00b8\u008f\u00e2\u009d\u00a4\u00ef\u00b8\u008f\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+      "share": {
+        "link": "https://instagram.com/stories/carinahardy.studio/3526160814820636226"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Erika Kurihara",
+      "timestamp_ms": 1727141958490,
+      "content": "Congratulations!",
+      "share": {
+        "link": "https://instagram.com/stories/carinahardy.studio/3463353839842454963"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Erika Kurihara",
+  "is_still_participant": true,
+  "thread_path": "inbox/erikakurihara_1427937028609011",
+  "magic_words": [
+    
+  ]
+}

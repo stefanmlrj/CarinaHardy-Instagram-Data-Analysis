@@ -1,0 +1,95 @@
+{
+  "participants": [
+    {
+      "name": "fa\u00e2\u0080\u0099 pawaka"
+    },
+    {
+      "name": "CARINA HARDY"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "fa\u00e2\u0080\u0099 pawaka",
+      "timestamp_ms": 1705734127185,
+      "content": "Reacted \u00e2\u009d\u00a4\u00ef\u00b8\u008f to your message ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "fa\u00e2\u0080\u0099 pawaka",
+      "timestamp_ms": 1705734125976,
+      "content": "Reacted \u00e2\u009d\u00a4\u00ef\u00b8\u008f to your message ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "fa\u00e2\u0080\u0099 pawaka",
+      "timestamp_ms": 1705734125324,
+      "content": "Reacted \u00e2\u009d\u00a4\u00ef\u00b8\u008f to your message ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1705610369685,
+      "content": "Let us know if there\u00e2\u0080\u0099s anything we can do to help xx",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "fa\u00e2\u0080\u0099 pawaka",
+          "timestamp": 1705734127
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1705610366454,
+      "content": "We welcome any questions you have or  impressions you wish to share.",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "fa\u00e2\u0080\u0099 pawaka",
+          "timestamp": 1705734125
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1705610363885,
+      "content": "Thank you for your support of Elppin! I really admire you! You\u00e2\u0080\u0099re an embodiment of a beautiful being \u00f0\u009f\u0092\u0093",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "fa\u00e2\u0080\u0099 pawaka",
+          "timestamp": 1705734125
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1705610328552,
+      "content": "favelamunk wasn't notified about this message because they're in quiet mode.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1705610328399,
+      "content": "Fa\u00e2\u0080\u0099 hi!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "fa\u00e2\u0080\u0099 pawaka",
+  "is_still_participant": true,
+  "thread_path": "inbox/fapawaka_1349120153153047",
+  "magic_words": [
+    
+  ]
+}

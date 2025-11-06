@@ -1,0 +1,39 @@
+{
+  "participants": [
+    {
+      "name": "Tanya Rose Kaye"
+    },
+    {
+      "name": "CARINA HARDY"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1729497317828,
+      "content": "Please let us know if there is anything we can do to help.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1729497317608,
+      "content": "We welcome any questions or impressions you wish to share.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1729497306170,
+      "content": "Thank you for checking us out - you've got great style.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Tanya Rose Kaye",
+  "is_still_participant": true,
+  "thread_path": "inbox/tanyarosekaye_1565791758152551",
+  "magic_words": [
+    
+  ]
+}

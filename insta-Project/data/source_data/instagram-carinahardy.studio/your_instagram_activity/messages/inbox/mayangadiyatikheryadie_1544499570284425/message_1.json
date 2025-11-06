@@ -1,0 +1,49 @@
+{
+  "participants": [
+    {
+      "name": "Mayang Adiyati K Heryadie"
+    },
+    {
+      "name": "CARINA HARDY"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1735362230209,
+      "content": "You must",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Mayang Adiyati K Heryadie",
+      "timestamp_ms": 1735360666615,
+      "content": "I know! I will have to! I miss Ubud",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1735360435991,
+      "content": "You must come by in the new year",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Mayang Adiyati K Heryadie",
+      "timestamp_ms": 1735118467590,
+      "content": "Merry Christmas and Happy Holiday \u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+      "share": {
+        "link": "https://instagram.com/stories/carinahardy.studio/3530560616257301561"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Mayang Adiyati K Heryadie",
+  "is_still_participant": true,
+  "thread_path": "inbox/mayangadiyatikheryadie_1544499570284425",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "participants": [
+    {
+      "name": "KvK"
+    },
+    {
+      "name": "CARINA HARDY"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1721355596295,
+      "content": "Wow absolutely INCREDIBLE !!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1705140479680,
+      "content": "Kathi, hi! Wanted to let you know that we sent you a little gift via email on Dec 15th to express our appreciation for your support of Elppin. \u00f0\u009f\u0092\u0096",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "KvK",
+  "is_still_participant": true,
+  "thread_path": "inbox/kvk_1345623323502730",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "participants": [
+    {
+      "name": "Fausti"
+    },
+    {
+      "name": "CARINA HARDY"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Fausti",
+      "timestamp_ms": 1726189403636,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1726188783692,
+      "content": "Yes b!!! Taking my name ;)",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Fausti",
+          "timestamp": 1726189403
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Fausti",
+      "timestamp_ms": 1726187221448,
+      "content": "I was trying to find you so I can share you",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Fausti",
+      "timestamp_ms": 1726187208942,
+      "content": "Ong you changed your name",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1726187087603,
+      "content": "Fabbb",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1726187081689,
+      "content": "Baggg ladyyy \u00e2\u0099\u00a5\u00ef\u00b8\u008f\u00e2\u0099\u00a5\u00ef\u00b8\u008f\u00e2\u0099\u00a5\u00ef\u00b8\u008f\u00e2\u0099\u00a5\u00ef\u00b8\u008f",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Fausti",
+      "timestamp_ms": 1715805502837,
+      "content": "I live in NYC",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1715804667889,
+      "content": "Are you around NYC?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1715804632454,
+      "content": "its insane here",
+      "share": {
+        "link": "https://instagram.com/stories/sofausti/3368689367025389919"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Fausti",
+      "timestamp_ms": 1705633845701,
+      "content": "Reacted \u00e2\u009d\u00a4\u00ef\u00b8\u008f to your message ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1705633588877,
+      "content": "Janine Antoni! Th\u00c3\u00a9 OG!",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Fausti",
+          "timestamp": 1705633845
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Fausti",
+      "timestamp_ms": 1705624307220,
+      "content": "Fausti sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/p/C2QhqoEoTqe/?carousel_share_child_media_id=3283272184434272051_7205708933",
+        "share_text": "",
+        "original_content_owner": "jewellery_for_your_soul"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Fausti",
+  "is_still_participant": true,
+  "thread_path": "inbox/fausti_1141941113870953",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "participants": [
+    {
+      "name": "Joan Gallares"
+    },
+    {
+      "name": "CARINA HARDY"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Joan Gallares",
+      "timestamp_ms": 1731477561371,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Joan Gallares",
+  "is_still_participant": true,
+  "thread_path": "inbox/joangallares_1583800689684991",
+  "magic_words": [
+    
+  ]
+}

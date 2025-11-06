@@ -1,0 +1,24 @@
+{
+  "participants": [
+    {
+      "name": "silverliftin"
+    },
+    {
+      "name": "CARINA HARDY"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "silverliftin",
+      "timestamp_ms": 1704457181020,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "silverliftin",
+  "is_still_participant": true,
+  "thread_path": "inbox/silverliftin_551717589562711",
+  "magic_words": [
+    
+  ]
+}

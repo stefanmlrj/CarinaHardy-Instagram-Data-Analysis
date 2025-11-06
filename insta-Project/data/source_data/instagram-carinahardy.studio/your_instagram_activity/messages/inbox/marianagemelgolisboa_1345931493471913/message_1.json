@@ -1,0 +1,48 @@
+{
+  "participants": [
+    {
+      "name": "Mariana Gemelgo \u00f0\u009f\u008c\u009e LISBOA"
+    },
+    {
+      "name": "CARINA HARDY"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Mariana Gemelgo \u00f0\u009f\u008c\u009e LISBOA",
+      "timestamp_ms": 1705429411841,
+      "content": "Reacted \u00e2\u009d\u00a4\u00ef\u00b8\u008f to your message ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1705233922536,
+      "content": "Thank you for the love dear!",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Mariana Gemelgo \u00f0\u009f\u008c\u009e LISBOA",
+          "timestamp": 1705429411
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Mariana Gemelgo \u00f0\u009f\u008c\u009e LISBOA",
+      "timestamp_ms": 1705172118661,
+      "share": {
+        "link": "https://instagram.com/stories/carinahardy.studio/3279260900443673192"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Mariana Gemelgo \u00f0\u009f\u008c\u009e LISBOA",
+  "is_still_participant": true,
+  "thread_path": "inbox/marianagemelgolisboa_1345931493471913",
+  "magic_words": [
+    
+  ]
+}

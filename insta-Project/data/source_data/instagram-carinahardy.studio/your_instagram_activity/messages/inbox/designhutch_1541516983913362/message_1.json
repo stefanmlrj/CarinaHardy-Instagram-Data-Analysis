@@ -1,0 +1,94 @@
+{
+  "participants": [
+    {
+      "name": "Design Hutch"
+    },
+    {
+      "name": "CARINA HARDY"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Design Hutch",
+      "timestamp_ms": 1728234380153,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Design Hutch",
+      "timestamp_ms": 1727246933664,
+      "content": "Ok I\u00e2\u0080\u0099ll keep you posted",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1727243172575,
+      "content": "Please let me know if you\u00e2\u0080\u0099ll be later than 6pm",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Design Hutch",
+      "timestamp_ms": 1727243015040,
+      "content": "Ok amazing !! See you then!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1727242782891,
+      "content": "Yes we will be here at 6pm, excited to see you",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Design Hutch",
+      "timestamp_ms": 1727240734223,
+      "content": "Amazing! We will be back around 6\u00e2\u0080\u00a6 will someone be there then \u00f0\u009f\u0098\u00ac",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Design Hutch",
+      "timestamp_ms": 1727240708204,
+      "content": "Reacted \u00f0\u009f\u00a4\u008e to your message ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1727225316062,
+      "content": "So delighted you reached out!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1727225254172,
+      "content": "We will absolutely be open around 11 - we have temple ceremonies this morning until then",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u00a4\u008e",
+          "actor": "Design Hutch",
+          "timestamp": 1727240708
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Design Hutch",
+      "timestamp_ms": 1727183414105,
+      "content": "Hi! Will the shop be open tomorrow (at the Bambu Indah)?\nThis is Brooke, I came in for a few seconds yesterday when you guys were setting up \u00f0\u009f\u00a4\u008d",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Design Hutch",
+  "is_still_participant": true,
+  "thread_path": "inbox/designhutch_1541516983913362",
+  "magic_words": [
+    
+  ]
+}

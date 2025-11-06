@@ -1,0 +1,74 @@
+{
+  "participants": [
+    {
+      "name": "Mishka Di"
+    },
+    {
+      "name": "CARINA HARDY"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Mishka Di",
+      "timestamp_ms": 1716220739420,
+      "content": "Yes sure, just sent it \u00f0\u009f\u00ab\u00b6",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Mishka Di",
+      "timestamp_ms": 1716220486073,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1716216942293,
+      "content": "Let me know once it's sent and I'll make sure it doesnt end up in Tavishs spam.",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Mishka Di",
+          "timestamp": 1716220486
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Mishka Di",
+      "timestamp_ms": 1716216195878,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1716194077777,
+      "content": "Mishka - thank you so much for these kind words. \n\nPlease email Tavish tavish@carinahardy.com with any information you'd like to share with us. Looking forward to receiving your email.",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Mishka Di",
+          "timestamp": 1716216195
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Mishka Di",
+      "timestamp_ms": 1716167234041,
+      "content": "Hello! I really love your brand and would love to collaborate \u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Mishka Di",
+  "is_still_participant": true,
+  "thread_path": "inbox/mishkadi_1428857025179359",
+  "magic_words": [
+    
+  ]
+}

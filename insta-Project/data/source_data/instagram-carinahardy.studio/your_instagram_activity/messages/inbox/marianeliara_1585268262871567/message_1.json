@@ -1,0 +1,43 @@
+{
+  "participants": [
+    {
+      "name": "Marianelia RA"
+    },
+    {
+      "name": "CARINA HARDY"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1731652862882,
+      "content": "Please feel free to message us if you have any questions. We would love to assist you.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1731652811642,
+      "content": "Hi, how are you? You can find the link to the 2 pieces on the photo below: \n\nVenus De Milo necklace: https://carinahardy.com/products/demi-fine-jewelry-venus-de-milo-sterling-silver-22k-gold-vermeil?variant=40722865815575\n\nCrouching Venus earrings: \nhttps://carinahardy.com/products/demi-fine-jewelry-crouching-venus-sterling-silver-22k-gold-vermeil?variant=40723008159767\n\nOr please feel free to browse our collection at www.carinahardy.com",
+      "share": {
+        "link": "https://carinahardy.com/products/demi-fine-jewelry-venus-de-milo-sterling-silver-22k-gold-vermeil?variant=40722865815575",
+        "share_text": "Hi, how are you? You can find the link to the 2 pieces on the photo below: \n\nVenus De Milo necklace: https://carinahardy.com/products/demi-fine-jewelry-venus-de-milo-sterling-silver-22k-gold-vermeil?variant=40722865815575\n\nCrouching Venus earrings: \nhttps://carinahardy.com/products/demi-fine-jewelry-crouching-venus-sterling-silver-22k-gold-vermeil?variant=40723008159767\n\nOr please feel free to browse our collection at www.carinahardy.com"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1731652810652,
+      "content": "You sent a private reply to a comment on your Instagram post.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Marianelia RA",
+  "is_still_participant": true,
+  "thread_path": "inbox/marianeliara_1585268262871567",
+  "magic_words": [
+    
+  ]
+}

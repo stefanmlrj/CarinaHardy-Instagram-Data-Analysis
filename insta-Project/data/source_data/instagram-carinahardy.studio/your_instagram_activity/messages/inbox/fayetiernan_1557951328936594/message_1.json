@@ -1,0 +1,56 @@
+{
+  "participants": [
+    {
+      "name": "Faye Tiernan"
+    },
+    {
+      "name": "CARINA HARDY"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1728778983685,
+      "content": "Let me know when you plan to come by!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1728778976217,
+      "content": "We are open everyday 12-8p",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1728778969585,
+      "content": "We have moved studios now - you are welcome to visit our new location at Bambu Indah",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1728778954246,
+      "content": "Hi dear! Thank you for reaching out",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Faye Tiernan",
+      "timestamp_ms": 1728660920703,
+      "content": "Wanting to visit tomorrow with relatives from France. We are parents of Green School child. Do we need to make app and where are u located in Ubud. Thanks",
+      "share": {
+        "link": "https://instagram.com/stories/carinahardy.studio/3399543837193151462"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Faye Tiernan",
+  "is_still_participant": true,
+  "thread_path": "inbox/fayetiernan_1557951328936594",
+  "magic_words": [
+    
+  ]
+}

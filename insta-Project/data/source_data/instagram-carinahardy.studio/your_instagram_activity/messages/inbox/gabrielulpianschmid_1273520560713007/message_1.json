@@ -1,0 +1,42 @@
+{
+  "participants": [
+    {
+      "name": "Gabriel Ulpian Schmid"
+    },
+    {
+      "name": "CARINA HARDY"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Gabriel Ulpian Schmid",
+      "timestamp_ms": 1731316858508,
+      "content": "Christmas starts asap",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1731316840314,
+      "content": "This place is wild",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Gabriel Ulpian Schmid",
+      "timestamp_ms": 1731316064163,
+      "content": "Haha! Rockwell. Love it",
+      "share": {
+        "link": "https://instagram.com/stories/carinahardy.studio/3498832337390240259"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Gabriel Ulpian Schmid",
+  "is_still_participant": true,
+  "thread_path": "inbox/gabrielulpianschmid_1273520560713007",
+  "magic_words": [
+    
+  ]
+}

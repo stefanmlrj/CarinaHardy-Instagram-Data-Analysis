@@ -1,0 +1,38 @@
+{
+  "participants": [
+    {
+      "name": "Karina  Sofyan"
+    },
+    {
+      "name": "CARINA HARDY"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Karina  Sofyan",
+      "timestamp_ms": 1711282777926,
+      "content": "\u00f0\u009f\u0098\u008d",
+      "share": {
+        "link": "https://instagram.com/stories/carinahardy.studio/3330664286439065325"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Karina  Sofyan",
+      "timestamp_ms": 1705633292190,
+      "content": "\u00f0\u009f\u0098\u008d",
+      "share": {
+        "link": "https://instagram.com/stories/carinahardy.studio/3282896917851558262"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Karina  Sofyan",
+  "is_still_participant": true,
+  "thread_path": "inbox/karinasofyan_884804599584607",
+  "magic_words": [
+    
+  ]
+}

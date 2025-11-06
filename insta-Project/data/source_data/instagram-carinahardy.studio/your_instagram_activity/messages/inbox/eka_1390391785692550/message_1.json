@@ -1,0 +1,31 @@
+{
+  "participants": [
+    {
+      "name": "EKA"
+    },
+    {
+      "name": "CARINA HARDY"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1711353262307,
+      "content": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "EKA",
+      "timestamp_ms": 1711204224820,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "EKA",
+  "is_still_participant": true,
+  "thread_path": "inbox/eka_1390391785692550",
+  "magic_words": [
+    
+  ]
+}

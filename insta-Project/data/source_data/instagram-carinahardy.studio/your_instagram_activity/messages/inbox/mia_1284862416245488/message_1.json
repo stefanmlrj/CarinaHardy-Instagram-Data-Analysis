@@ -1,0 +1,45 @@
+{
+  "participants": [
+    {
+      "name": "Mi\u00d0\u00b0"
+    },
+    {
+      "name": "CARINA HARDY"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Mi\u00d0\u00b0",
+      "timestamp_ms": 1730940111607,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1730911174608,
+      "content": "\u00f0\u009f\u0092\u009b",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Mi\u00d0\u00b0",
+          "timestamp": 1730940111
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Mi\u00d0\u00b0",
+      "timestamp_ms": 1730905771043,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Mi\u00d0\u00b0",
+  "is_still_participant": true,
+  "thread_path": "inbox/mia_1284862416245488",
+  "magic_words": [
+    
+  ]
+}

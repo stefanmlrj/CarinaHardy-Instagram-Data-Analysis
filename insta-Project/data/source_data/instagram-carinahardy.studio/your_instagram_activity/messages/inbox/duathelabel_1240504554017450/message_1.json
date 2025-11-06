@@ -1,0 +1,24 @@
+{
+  "participants": [
+    {
+      "name": "DUA THE LABEL"
+    },
+    {
+      "name": "CARINA HARDY"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "DUA THE LABEL",
+      "timestamp_ms": 1705138232911,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "DUA THE LABEL",
+  "is_still_participant": true,
+  "thread_path": "inbox/duathelabel_1240504554017450",
+  "magic_words": [
+    
+  ]
+}

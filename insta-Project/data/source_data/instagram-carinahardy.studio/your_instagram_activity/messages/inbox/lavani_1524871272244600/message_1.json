@@ -1,0 +1,32 @@
+{
+  "participants": [
+    {
+      "name": "LAVANI"
+    },
+    {
+      "name": "CARINA HARDY"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "LAVANI",
+      "timestamp_ms": 1725355569009,
+      "content": "Hi! Silahkan sampaikan keperluan mu ya :)",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1725355568489,
+      "content": "This welcome message was automatically delivered when you tapped on an ad. lavaniindonesia won't see this chat or which ad you tapped until you send a message. View ad(https://www.instagram.com/p/C_cjaVOs_CT/)",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "LAVANI",
+  "is_still_participant": true,
+  "thread_path": "inbox/lavani_1524871272244600",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Studio Nimmersatt"
+    },
+    {
+      "name": "CARINA HARDY"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Studio Nimmersatt",
+      "timestamp_ms": 1729772620066,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Studio Nimmersatt",
+      "timestamp_ms": 1729772534460,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Studio Nimmersatt",
+  "is_still_participant": true,
+  "thread_path": "inbox/studionimmersatt_1568325364565857",
+  "magic_words": [
+    
+  ]
+}

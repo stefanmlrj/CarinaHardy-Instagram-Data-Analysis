@@ -1,0 +1,32 @@
+{
+  "participants": [
+    {
+      "name": "JUAL BIBIT LELE BALI"
+    },
+    {
+      "name": "CARINA HARDY"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "JUAL BIBIT LELE BALI",
+      "timestamp_ms": 1715174984360,
+      "content": "Saya ingin tanya perihal harga utk sesi photoshoot",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "JUAL BIBIT LELE BALI",
+      "timestamp_ms": 1715174958200,
+      "content": "Hi.. selamat malam",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "JUAL BIBIT LELE BALI",
+  "is_still_participant": true,
+  "thread_path": "inbox/jualbibitlelebali_1420703449328050",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "participants": [
+    {
+      "name": "Alicia Sy"
+    },
+    {
+      "name": "CARINA HARDY"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1731485571664,
+      "share": {
+        "link": "https://instagram.com/stories/carinahardy.studio/3500277090828714296"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Alicia Sy",
+      "timestamp_ms": 1731454792014,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Alicia Sy",
+      "timestamp_ms": 1731454725874,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Alicia Sy",
+  "is_still_participant": true,
+  "thread_path": "inbox/aliciasy_1583622516369475",
+  "magic_words": [
+    
+  ]
+}

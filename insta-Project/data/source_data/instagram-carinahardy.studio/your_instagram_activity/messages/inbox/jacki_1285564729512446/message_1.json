@@ -1,0 +1,74 @@
+{
+  "participants": [
+    {
+      "name": "Jacki"
+    },
+    {
+      "name": "CARINA HARDY"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1705223987753,
+      "content": "That\u00e2\u0080\u0099s lovely, thank you for your support \u00e2\u009c\u00a8",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jacki",
+      "timestamp_ms": 1705214880256,
+      "content": "In actually purchased some jewelry at your store in Ulu that\u00e2\u0080\u0099s how I found you",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "CARINA HARDY",
+          "timestamp": 1705223986
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jacki",
+      "timestamp_ms": 1705214865510,
+      "content": "Thank you that\u00e2\u0080\u0099s really sweet of you to ask.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1705100966716,
+      "content": "Let us know if there\u00e2\u0080\u0099s anything we can do to help xx",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1705100962435,
+      "content": "We welcome any questions you have or  impressions you wish to share.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1705100959341,
+      "content": "Thank you for your support of Elppin! I really love your vibe, you\u00e2\u0080\u0099re stunning \u00f0\u009f\u008c\u00ba",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1705100942654,
+      "content": "Jacki, hi!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Jacki",
+  "is_still_participant": true,
+  "thread_path": "inbox/jacki_1285564729512446",
+  "magic_words": [
+    
+  ]
+}

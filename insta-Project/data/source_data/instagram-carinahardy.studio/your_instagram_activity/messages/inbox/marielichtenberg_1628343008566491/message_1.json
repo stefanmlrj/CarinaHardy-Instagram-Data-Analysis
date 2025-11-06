@@ -1,0 +1,24 @@
+{
+  "participants": [
+    {
+      "name": "Marie Lichtenberg"
+    },
+    {
+      "name": "CARINA HARDY"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Marie Lichtenberg",
+      "timestamp_ms": 1734520786091,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Marie Lichtenberg",
+  "is_still_participant": true,
+  "thread_path": "inbox/marielichtenberg_1628343008566491",
+  "magic_words": [
+    
+  ]
+}

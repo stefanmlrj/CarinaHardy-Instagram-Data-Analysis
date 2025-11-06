@@ -1,0 +1,28 @@
+{
+  "participants": [
+    {
+      "name": "Instagram User"
+    },
+    {
+      "name": "CARINA HARDY"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1734385326111,
+      "content": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+      "share": {
+        "link": "https://instagram.com/stories/carinahardy.studio/3524279990844137021"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Instagram User",
+  "is_still_participant": true,
+  "thread_path": "inbox/instagramuser_1608600620538331",
+  "magic_words": [
+    
+  ]
+}

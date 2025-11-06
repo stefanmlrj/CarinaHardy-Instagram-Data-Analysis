@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Sravan Mamidala"
+    },
+    {
+      "name": "CARINA HARDY"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Sravan Mamidala",
+      "timestamp_ms": 1711898749694,
+      "content": "Sravan sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/p/C5LmUoaOsLw/",
+        "share_text": "Accent curves and colors.",
+        "original_content_owner": "carinahardy.studio"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Sravan Mamidala",
+  "is_still_participant": true,
+  "thread_path": "inbox/sravanmamidala_1263888065009590",
+  "magic_words": [
+    
+  ]
+}

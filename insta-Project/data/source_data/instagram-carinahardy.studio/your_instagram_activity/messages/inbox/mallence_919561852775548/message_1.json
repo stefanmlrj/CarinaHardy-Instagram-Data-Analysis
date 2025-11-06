@@ -1,0 +1,73 @@
+{
+  "participants": [
+    {
+      "name": "Mallence"
+    },
+    {
+      "name": "CARINA HARDY"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Mallence",
+      "timestamp_ms": 1734173581472,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1734153677325,
+      "content": "Thank you for sending",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Mallence",
+          "timestamp": 1734173581
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1734153673765,
+      "content": "Yes she isss",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Mallence",
+      "timestamp_ms": 1734153218063,
+      "content": "Hey hey, how are you? Just saw she is wearing your pendant again and maybe also a nipple brooch? xx",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "CARINA HARDY",
+          "timestamp": 1734153664
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Mallence",
+      "timestamp_ms": 1734153217605,
+      "content": "Mallence sent an attachment.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Mallence",
+      "timestamp_ms": 1711199041756,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Mallence",
+  "is_still_participant": true,
+  "thread_path": "inbox/mallence_919561852775548",
+  "magic_words": [
+    
+  ]
+}

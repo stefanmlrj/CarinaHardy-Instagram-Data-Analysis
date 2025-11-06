@@ -1,0 +1,68 @@
+{
+  "participants": [
+    {
+      "name": "Natalia Kaydanova"
+    },
+    {
+      "name": "CARINA HARDY"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Natalia Kaydanova",
+      "timestamp_ms": 1723163181940,
+      "content": "Thank you!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1723163024690,
+      "content": "Ah yes! The daughter ring - https://carinahardy.com/products/fine-jewelry-daughter-18k-gold-ring",
+      "share": {
+        "link": "https://carinahardy.com/products/fine-jewelry-daughter-18k-gold-ring",
+        "share_text": "Ah yes! The daughter ring - https://carinahardy.com/products/fine-jewelry-daughter-18k-gold-ring"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Natalia Kaydanova",
+      "timestamp_ms": 1723162922442,
+      "content": "I was looking at another one, with little pearls",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1723160308298,
+      "content": "Please let me know if you have any questions",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1723160299071,
+      "content": "Here is our mother ring:\n\nhttps://carinahardy.com/products/fine-jewelry-mother-18k-gold-ring",
+      "share": {
+        "link": "https://carinahardy.com/products/fine-jewelry-mother-18k-gold-ring",
+        "share_text": "Here is our mother ring:\n\nhttps://carinahardy.com/products/fine-jewelry-mother-18k-gold-ring"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1723160261245,
+      "content": "Natalia - hi!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Natalia Kaydanova",
+  "is_still_participant": true,
+  "thread_path": "inbox/nataliakaydanova_1471936974206808",
+  "magic_words": [
+    
+  ]
+}

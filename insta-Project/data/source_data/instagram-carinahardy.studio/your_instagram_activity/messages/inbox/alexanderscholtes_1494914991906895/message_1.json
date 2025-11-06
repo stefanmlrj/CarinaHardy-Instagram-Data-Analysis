@@ -1,0 +1,115 @@
+{
+  "participants": [
+    {
+      "name": "Alexander Scholtes"
+    },
+    {
+      "name": "CARINA HARDY"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Alexander Scholtes",
+      "timestamp_ms": 1722508665390,
+      "content": "Thank you, I was really happy I found you, saw so many beautiful pieces. See you!",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "CARINA HARDY"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1722502892628,
+      "content": "We look forward to seeing you again, hopefully soon.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1722502878223,
+      "content": "Alexander, thank you for making the trip to our studio, and for your support.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Alexander Scholtes",
+      "timestamp_ms": 1722412321555,
+      "content": "You have an upcoming appointment at 02:15 PM Jul 31, 2024",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Alexander Scholtes",
+      "timestamp_ms": 1722411221101,
+      "content": "Almost there",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1722410055982,
+      "content": "Excellent, looking forward to it",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1722402903977,
+      "content": "You have an upcoming appointment at 02:15 PM Jul 31, 2024",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Alexander Scholtes",
+      "timestamp_ms": 1722383594635,
+      "content": "Ok great, thx. I\u00e2\u0080\u0099ll drop by this afternoon then. Not sure what time I\u00e2\u0080\u0099ll be there, will he coming out of Canggu so there might be traffic.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1722382964093,
+      "content": "Congrats on your first appointment! We'll send automated reminders to both you and your customers for all appointments that you create for seamless reminders",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1722382963991,
+      "content": "You sent an attachment.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1722382953676,
+      "content": "Good morning - yes we do have these earrings available in store. Thanks for reaching out!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Alexander Scholtes",
+      "timestamp_ms": 1722325920836,
+      "content": "You can now schedule and manage appointments in chat. Learn More.(https://help.instagram.com/1043402509628629)",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Alexander Scholtes",
+      "timestamp_ms": 1722325920536,
+      "content": "Hi, I saw your website since I\u00e2\u0080\u0099m looking for a nice set of earrings for my girfriend. Might be able to make a stop at your store in Ubud tomorrow (Wednesday, on the way from Canggu to the North), do you have your LP Triple Drop available in your store?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Alexander Scholtes",
+  "is_still_participant": true,
+  "thread_path": "inbox/alexanderscholtes_1494914991906895",
+  "magic_words": [
+    
+  ]
+}

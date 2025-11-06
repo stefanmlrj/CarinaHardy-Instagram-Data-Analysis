@@ -1,0 +1,372 @@
+{
+  "participants": [
+    {
+      "name": "Samo Rafael"
+    },
+    {
+      "name": "CARINA HARDY"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Samo Rafael",
+      "timestamp_ms": 1711877200435,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Samo Rafael",
+      "timestamp_ms": 1711877198776,
+      "content": "\u00f0\u009f\u0098\u008d",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1711844625523,
+      "content": "Love every time I see you rocking this",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Samo Rafael",
+          "timestamp": 1711877200
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Samo Rafael",
+      "timestamp_ms": 1706615624160,
+      "content": "Samo sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/p/C2uTBqPyIK9/?carousel_share_child_media_id=3291652054619554493_301431317",
+        "share_text": "Wearing @danjyohiyoji at the premiere of @kupukupukertasfilm last night. Captured by @ivasadili All love.\n#kupukupukertas",
+        "original_content_owner": "samorafael"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Samo Rafael",
+      "timestamp_ms": 1706602279455,
+      "content": "More pictures coming!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Samo Rafael",
+      "timestamp_ms": 1706602274571,
+      "content": "\u00f0\u009f\u00a4\u008d\u00f0\u009f\u00a4\u008d\u00f0\u009f\u00a4\u008d",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1706601821191,
+      "content": "I was beaming seeing our necklace on you in that fit!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1706601809492,
+      "content": "No worries a all!!!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Samo Rafael",
+      "timestamp_ms": 1706589863430,
+      "content": "Can\u00e2\u0080\u0099t wait to share the pictures!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Samo Rafael",
+      "timestamp_ms": 1706589854792,
+      "content": "I wore the necklace i got from elppin last night tho!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Samo Rafael",
+      "timestamp_ms": 1706589823638,
+      "content": "I got caught up in what i was doing",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Samo Rafael",
+      "timestamp_ms": 1706589791950,
+      "content": "Hey i\u00e2\u0080\u0099m so sorry",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1706173489796,
+      "content": "Let me know if there\u00e2\u0080\u0099s anything else",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1706173478165,
+      "content": "And email address \u00f0\u009f\u0099\u008f",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1706173421731,
+      "content": "To send you a birth of Venus in goal to loan for the event !",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1706173402318,
+      "content": "I need your address please !",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Samo Rafael",
+      "timestamp_ms": 1706155649811,
+      "content": "This is so pretty",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1706153478627,
+      "content": "Bumping this so we can make this dream come truuu",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1706070901163,
+      "content": "We should ship by tomorrow am latest to make sure it arrives to you in time",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1706070884240,
+      "content": "https://elppin.com/products/spinning-elppin-pendant?_pos=2&_psq=SPinning&_ss=e&_v=1.0",
+      "share": {
+        "link": "https://elppin.com/products/spinning-elppin-pendant?_pos=2&_psq=SPinning&_ss=e&_v=1.0",
+        "share_text": "Handmade in Bali. 10% giveback to women\u00e2\u0080\u0099s causes. Available in 22K gold plate and sterling silver. 925 hypoallergenic ear post for comfort. Spinning Nipple Pendant - Double sided nip that twirls and whirls on a central axis - special fun for the tactile touch."
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1706070865748,
+      "content": "Long pendant to yang down your back?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1706070847680,
+      "content": "https://elppin.com/collections/brooches",
+      "share": {
+        "link": "https://elppin.com/collections/brooches",
+        "share_text": "Elppin"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1706070815753,
+      "content": "https://elppin.com/products/birth-of-venus?_pos=1&_psq=Birth+of+Venus&_ss=e&_v=1.0",
+      "share": {
+        "link": "https://elppin.com/products/birth-of-venus?_pos=1&_psq=Birth+of+Venus&_ss=e&_v=1.0",
+        "share_text": "This finely carved pendant beautifully captures the enchanting story of the Goddess Venus&#39;s birth from the sea foam, as depicted in Sandro Botticelli&#39;s iconic 15th-century artwork. The high-relief figure is encased in an organic bean-shaped design, inviting a soft touch. Reversible and versa..."
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1706060553532,
+      "content": "Will send over a loan agreement too \u00f0\u009f\u0099\u008f",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1706060544521,
+      "content": "Let me know what you think and your address so we can shop ASAP",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1706060531765,
+      "content": "Or a birth of Venus pendant that sits at our solar plexus",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1706060470095,
+      "content": "Earrings?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1706060466601,
+      "content": "Double brooches !",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Samo Rafael",
+      "timestamp_ms": 1706009274774,
+      "content": "Do you have some pieces that might work with this look maybe?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Samo Rafael",
+      "timestamp_ms": 1706009245270,
+      "content": "This is the outfit that i\u00e2\u0080\u0099ll be wearing",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Samo Rafael",
+      "timestamp_ms": 1706009227565,
+      "photos": [
+        {
+          "uri": "your_instagram_activity/messages/inbox/samorafael_1326884568709939/photos/225976190571504.jpg",
+          "creation_timestamp": 1706009226
+        },
+        {
+          "uri": "your_instagram_activity/messages/inbox/samorafael_1326884568709939/photos/1592388881531920.jpg",
+          "creation_timestamp": 1706009226
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Samo Rafael",
+      "timestamp_ms": 1706009218907,
+      "content": "Hello!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Samo Rafael",
+      "timestamp_ms": 1705553849101,
+      "content": "I want those nips tooo",
+      "share": {
+        "link": "https://instagram.com/stories/carinahardy.studio/3282711185304412728"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Samo Rafael",
+      "timestamp_ms": 1705486500049,
+      "content": "Okk",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1705483112496,
+      "content": "If we ship by next week should arrive in time, what\u00e2\u0080\u0099s the address?Check out the site and let me know what you\u00e2\u0080\u0099re imagining",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1705483069442,
+      "content": "So cool!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Samo Rafael",
+      "timestamp_ms": 1705481111949,
+      "content": "I\u00e2\u0080\u0099m thinking of wearing something black",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Samo Rafael",
+      "timestamp_ms": 1705481097105,
+      "content": "This jan",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Samo Rafael",
+      "timestamp_ms": 1705481095269,
+      "content": "The premiere in on the 29th of jan",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1705481039904,
+      "content": "Absolutely ! What pieces do you have in mind? & when is it? Let me know ahead of time to arrange",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Samo Rafael",
+      "timestamp_ms": 1705480800400,
+      "content": "Can i borrow some of ur stuff for my movie premiere?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Samo Rafael",
+      "timestamp_ms": 1705480753152,
+      "content": "\u00e2\u009c\u00a8",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Samo Rafael",
+      "timestamp_ms": 1705480749812,
+      "content": "Very",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1705467404300,
+      "content": "So precious, right?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Samo Rafael",
+      "timestamp_ms": 1705460545794,
+      "content": "These are really pretty",
+      "share": {
+        "link": "https://instagram.com/stories/carinahardy.studio/3281919987681593003"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Samo Rafael",
+  "is_still_participant": true,
+  "thread_path": "inbox/samorafael_1326884568709939",
+  "magic_words": [
+    
+  ]
+}

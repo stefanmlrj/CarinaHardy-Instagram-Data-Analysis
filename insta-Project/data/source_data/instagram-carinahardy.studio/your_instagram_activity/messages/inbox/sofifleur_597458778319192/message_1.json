@@ -1,0 +1,28 @@
+{
+  "participants": [
+    {
+      "name": "Sofi Fleur"
+    },
+    {
+      "name": "CARINA HARDY"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Sofi Fleur",
+      "timestamp_ms": 1711125175893,
+      "content": "Yesssss",
+      "share": {
+        "link": "https://instagram.com/stories/carinahardy.studio/3329077312758472780"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Sofi Fleur",
+  "is_still_participant": true,
+  "thread_path": "inbox/sofifleur_597458778319192",
+  "magic_words": [
+    
+  ]
+}

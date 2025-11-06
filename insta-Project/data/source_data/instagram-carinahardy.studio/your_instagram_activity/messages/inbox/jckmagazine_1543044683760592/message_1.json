@@ -1,0 +1,27 @@
+{
+  "participants": [
+    {
+      "name": "JCK Magazine"
+    },
+    {
+      "name": "CARINA HARDY"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1727342488245,
+      "share": {
+        "link": "https://instagram.com/stories/carinahardy.studio/3465522383996811084"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "JCK Magazine",
+  "is_still_participant": true,
+  "thread_path": "inbox/jckmagazine_1543044683760592",
+  "magic_words": [
+    
+  ]
+}

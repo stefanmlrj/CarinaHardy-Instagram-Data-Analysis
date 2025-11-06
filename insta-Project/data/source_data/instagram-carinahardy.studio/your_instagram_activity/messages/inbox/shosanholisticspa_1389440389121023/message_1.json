@@ -1,0 +1,60 @@
+{
+  "participants": [
+    {
+      "name": "Shosan | Holistic Spa"
+    },
+    {
+      "name": "CARINA HARDY"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Shosan | Holistic Spa",
+      "timestamp_ms": 1711086506216,
+      "content": "You lmk when",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Shosan | Holistic Spa",
+      "timestamp_ms": 1711086500184,
+      "content": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f\u00e2\u009d\u00a4\u00ef\u00b8\u008f\u00f0\u009f\u0099\u008c\u00f0\u009f\u0099\u008c\u00f0\u009f\u0099\u008c",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1711086479721,
+      "content": "Sounds amazing, yes please !!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Shosan | Holistic Spa",
+      "timestamp_ms": 1711084881441,
+      "content": "We\u00e2\u0080\u0099re working with Ayurvedic herbs and Aveda products and your hair will be beautiful",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Shosan | Holistic Spa",
+      "timestamp_ms": 1711084850556,
+      "content": "It\u00e2\u0080\u0099s even nicer haha",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Shosan | Holistic Spa",
+      "timestamp_ms": 1711084838677,
+      "content": "Huhu look here on my page you can see I but",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Shosan | Holistic Spa",
+  "is_still_participant": true,
+  "thread_path": "inbox/shosanholisticspa_1389440389121023",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "participants": [
+    {
+      "name": "Priyanka Thaker"
+    },
+    {
+      "name": "CARINA HARDY"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Priyanka Thaker",
+      "timestamp_ms": 1705054246922,
+      "content": "Reacted \u00e2\u009d\u00a4\u00ef\u00b8\u008f to your message ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1705054010553,
+      "content": "Here\u00e2\u0080\u0099s our location \nhttps://maps.app.goo.gl/qCYPnsLiLAK2uvsa8?g_st=ic",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Priyanka Thaker",
+          "timestamp": 1705054246
+        }
+      ],
+      "share": {
+        "link": "https://maps.app.goo.gl/qCYPnsLiLAK2uvsa8?g_st=ic",
+        "share_text": "Here\u00e2\u0080\u0099s our location \nhttps://maps.app.goo.gl/qCYPnsLiLAK2uvsa8?g_st=ic"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1705054001625,
+      "content": "Absolutely would love to have you!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Priyanka Thaker",
+      "timestamp_ms": 1705051724979,
+      "content": "Would love to drop by at your studio in May.\nLet me know where.\nDoing a Komodo Liveaboard so post the dive trip planning Bali for a bit.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Priyanka Thaker",
+      "timestamp_ms": 1705051631703,
+      "content": "Oh thank you for your kind words.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Priyanka Thaker",
+      "timestamp_ms": 1705051623226,
+      "content": "Reacted \u00e2\u009d\u00a4\u00ef\u00b8\u008f to your message ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1705008896434,
+      "content": "Let us know if there\u00e2\u0080\u0099s anything we can do to help xx",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1705008893006,
+      "content": "We welcome any questions you have or  impressions you wish to share.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1705008890078,
+      "content": "Thank you for your support of Elppin! I really love your artworks, you\u00e2\u0080\u0099re so talented \u00f0\u009f\u008c\u00ba",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Priyanka Thaker",
+          "timestamp": 1705051623
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1705008878650,
+      "content": "houseofberserk wasn't notified about this message because they're in quiet mode.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1705008878143,
+      "content": "Priyanka, hi!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Priyanka Thaker",
+  "is_still_participant": true,
+  "thread_path": "inbox/priyankathaker_1344669820264747",
+  "magic_words": [
+    
+  ]
+}

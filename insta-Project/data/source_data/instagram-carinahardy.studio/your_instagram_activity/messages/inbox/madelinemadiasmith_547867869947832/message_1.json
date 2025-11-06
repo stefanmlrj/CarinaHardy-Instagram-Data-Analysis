@@ -1,0 +1,53 @@
+{
+  "participants": [
+    {
+      "name": "Madeline Madia-Smith"
+    },
+    {
+      "name": "CARINA HARDY"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1731545673147,
+      "content": "When will you come visit Bali?!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1731545664750,
+      "content": "Thank you for reaching out with your warmth",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1731545657562,
+      "content": "It\u00e2\u0080\u0099s been a minute so nice to see your name pop up",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1731545650411,
+      "content": "Madeline hey!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Madeline Madia-Smith",
+      "timestamp_ms": 1731532641047,
+      "content": "Carina! I just had to reach out and tell you how beautiful your pieces of jewelry are. Love seeing all of your creations. Hope you are doing great! \u00f0\u009f\u0098\u0098",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Madeline Madia-Smith",
+  "is_still_participant": true,
+  "thread_path": "inbox/madelinemadiasmith_547867869947832",
+  "magic_words": [
+    
+  ]
+}

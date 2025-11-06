@@ -1,0 +1,66 @@
+{
+  "participants": [
+    {
+      "name": "Mar\u00c3\u00ada Biurrun"
+    },
+    {
+      "name": "CARINA HARDY"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1725513089666,
+      "content": "We're also having a party and ill be sure to invite you both.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1725513071437,
+      "content": "We would love for you to stop by",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Mar\u00c3\u00ada Biurrun",
+      "timestamp_ms": 1725511190273,
+      "content": "Hey Carina! Just saw this!! Marta and I would love to come\u00f0\u009f\u00a7\u00a1",
+      "share": {
+        "link": "https://instagram.com/stories/carinahardy.studio/3449523736951612637"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Mar\u00c3\u00ada Biurrun",
+      "timestamp_ms": 1711962929307,
+      "content": "Sorry for the late reply! Yes! My email is mbiurrun0@gmail.com",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1711691458688,
+      "content": "Thank you so much - we were lucky enough to find a model, but would love to have your email so that we can reach out and keep you in mind for the future. Is that something you'd be open to?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Mar\u00c3\u00ada Biurrun",
+      "timestamp_ms": 1711629099759,
+      "content": "Carina id love to! I\u00e2\u0080\u0099ll see if I can make it. Can you tell me a bit more about it??",
+      "share": {
+        "link": "https://instagram.com/stories/carinahardy.studio/3333536584078688213"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Mar\u00c3\u00ada Biurrun",
+  "is_still_participant": true,
+  "thread_path": "inbox/mariabiurrun_1248574183207645",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "participants": [
+    {
+      "name": "Muse \u00e2\u0080\u00a2 Pins \u00e2\u0080\u00a2 Find inspiration"
+    },
+    {
+      "name": "CARINA HARDY"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Muse \u00e2\u0080\u00a2 Pins \u00e2\u0080\u00a2 Find inspiration",
+      "timestamp_ms": 1713038105227,
+      "share": {
+        "link": "https://instagram.com/stories/muse.pins/3345528521454153707"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Muse \u00e2\u0080\u00a2 Pins \u00e2\u0080\u00a2 Find inspiration",
+  "is_still_participant": true,
+  "thread_path": "inbox/musepinsfindinspiration_1404327714298957",
+  "magic_words": [
+    
+  ]
+}

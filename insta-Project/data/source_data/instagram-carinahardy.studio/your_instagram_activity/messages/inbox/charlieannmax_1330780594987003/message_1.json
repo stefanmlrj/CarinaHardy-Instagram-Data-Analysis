@@ -1,0 +1,97 @@
+{
+  "participants": [
+    {
+      "name": "Charlie Ann Max"
+    },
+    {
+      "name": "CARINA HARDY"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1713259471819,
+      "share": {
+        "link": "https://instagram.com/stories/carinahardy.studio/3347385486997443686"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Charlie Ann Max",
+      "timestamp_ms": 1712781253365,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1712713351553,
+      "content": "BBBBSSSSS",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Charlie Ann Max",
+          "timestamp": 1712781253
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Charlie Ann Max",
+      "timestamp_ms": 1712028827416,
+      "content": "Fav earrings",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Charlie Ann Max",
+      "timestamp_ms": 1712028812775,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1712023633735,
+      "content": "Goddesssss",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Charlie Ann Max",
+          "timestamp": 1712028812
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Charlie Ann Max",
+      "timestamp_ms": 1706245307716,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1706232760808,
+      "content": "Fabu",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Charlie Ann Max",
+          "timestamp": 1706245307
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Charlie Ann Max",
+  "is_still_participant": true,
+  "thread_path": "inbox/charlieannmax_1330780594987003",
+  "magic_words": [
+    
+  ]
+}

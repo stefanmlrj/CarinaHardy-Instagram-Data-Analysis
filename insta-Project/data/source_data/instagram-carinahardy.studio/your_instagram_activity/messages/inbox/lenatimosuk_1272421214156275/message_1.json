@@ -1,0 +1,38 @@
+{
+  "participants": [
+    {
+      "name": "\u00d0\u009b\u00d0\u00b5\u00d0\u00bd\u00d0\u00b0 \u00d0\u00a2\u00d0\u00b8\u00d0\u00bc\u00d0\u00be\u00d1\u0089\u00d1\u0083\u00d0\u00ba"
+    },
+    {
+      "name": "CARINA HARDY"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "\u00d0\u009b\u00d0\u00b5\u00d0\u00bd\u00d0\u00b0 \u00d0\u00a2\u00d0\u00b8\u00d0\u00bc\u00d0\u00be\u00d1\u0089\u00d1\u0083\u00d0\u00ba",
+      "timestamp_ms": 1708841423880,
+      "content": "\u00f0\u009f\u0098\u008d",
+      "share": {
+        "link": "https://instagram.com/stories/carinahardy.studio/3310228801333758905"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00d0\u009b\u00d0\u00b5\u00d0\u00bd\u00d0\u00b0 \u00d0\u00a2\u00d0\u00b8\u00d0\u00bc\u00d0\u00be\u00d1\u0089\u00d1\u0083\u00d0\u00ba",
+      "timestamp_ms": 1708841417776,
+      "content": "\u00f0\u009f\u0098\u008d",
+      "share": {
+        "link": "https://instagram.com/stories/carinahardy.studio/3309820331128390645"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "\u00d0\u009b\u00d0\u00b5\u00d0\u00bd\u00d0\u00b0 \u00d0\u00a2\u00d0\u00b8\u00d0\u00bc\u00d0\u00be\u00d1\u0089\u00d1\u0083\u00d0\u00ba",
+  "is_still_participant": true,
+  "thread_path": "inbox/lenatimosuk_1272421214156275",
+  "magic_words": [
+    
+  ]
+}

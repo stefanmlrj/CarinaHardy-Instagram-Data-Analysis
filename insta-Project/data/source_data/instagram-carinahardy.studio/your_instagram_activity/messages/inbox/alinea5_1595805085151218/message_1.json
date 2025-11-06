@@ -1,0 +1,53 @@
+{
+  "participants": [
+    {
+      "name": "ALINEA 5"
+    },
+    {
+      "name": "CARINA HARDY"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "ALINEA 5",
+      "timestamp_ms": 1732888761195,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1732885706362,
+      "content": "Sent you a message",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "ALINEA 5",
+          "timestamp": 1732888761
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ALINEA 5",
+      "timestamp_ms": 1732883573921,
+      "content": "Hi Carina,\n\nThis is me Dara :)\nnice to meet you\nyes sure,this is my number +6285238583803\n\n\nWarmly,\nDara",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1732881292516,
+      "content": "Hi guys! We'd love to work with you. We've been in touch with your sister Vera and would love to move the conversation forward on our new studio design. Is there a whatsapp number we can reach to discuss? Warmly, Carina",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "ALINEA 5",
+  "is_still_participant": true,
+  "thread_path": "inbox/alinea5_1595805085151218",
+  "magic_words": [
+    
+  ]
+}

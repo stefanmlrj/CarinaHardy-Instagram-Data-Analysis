@@ -1,0 +1,81 @@
+{
+  "participants": [
+    {
+      "name": "katelierstore"
+    },
+    {
+      "name": "CARINA HARDY"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1709097142311,
+      "content": "great",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "katelierstore",
+      "timestamp_ms": 1709096199362,
+      "content": "Hello ! \nDont worry, if we are in Ubud we Will let you know \u00f0\u009f\u008c\u009e \nHave a great day",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "katelierstore",
+      "timestamp_ms": 1709096149651,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1709095437948,
+      "content": "We are gearing up for a big launch and don't have time at the moment. Wishing you the best",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "katelierstore",
+          "timestamp": 1709096149
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "katelierstore",
+      "timestamp_ms": 1709012557301,
+      "content": "Hello Elppin, \n\nAs we are based into Canggu, would it be possible to discuss by call : +33 651966488 \nThank you so much",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1708942264752,
+      "content": "Please come visit out studio in Ubud to discuss more!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1708942256379,
+      "content": "Thanks for reaching out!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "katelierstore",
+      "timestamp_ms": 1708934138235,
+      "content": "Hello elppin Team \u00e2\u009c\u00a8, \n\nI really loved your jewerly design ! \nI am currently Marketing Manager of Katelier store and I think your brand could be the perfect match in our concept store \u00f0\u009f\u008c\u009e \nDo you offer any collaborations? \nHave a lovely day, \n\nColine",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "katelierstore",
+  "is_still_participant": true,
+  "thread_path": "inbox/katelierstore_1374086063989789",
+  "magic_words": [
+    
+  ]
+}

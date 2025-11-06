@@ -1,0 +1,33 @@
+{
+  "participants": [
+    {
+      "name": "Elise Bronzo"
+    },
+    {
+      "name": "CARINA HARDY"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Elise Bronzo",
+      "timestamp_ms": 1705138636715,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1705138140287,
+      "share": {
+        "link": "https://instagram.com/stories/carinahardy.studio/3279258822694411304"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Elise Bronzo",
+  "is_still_participant": true,
+  "thread_path": "inbox/elisebronzo_1341346863930376",
+  "magic_words": [
+    
+  ]
+}

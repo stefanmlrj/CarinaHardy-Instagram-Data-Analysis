@@ -1,0 +1,140 @@
+{
+  "participants": [
+    {
+      "name": "Iselin Amanda"
+    },
+    {
+      "name": "CARINA HARDY"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1706070445701,
+      "content": "Favorite ancient site \nhttps://maps.app.goo.gl/iMxd6pmS9xYX4MgZ7?g_st=ic",
+      "share": {
+        "link": "https://maps.app.goo.gl/iMxd6pmS9xYX4MgZ7?g_st=ic",
+        "share_text": "Favorite ancient site \nhttps://maps.app.goo.gl/iMxd6pmS9xYX4MgZ7?g_st=ic"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1706070422382,
+      "content": "https://www.instagram.com/muka_concepts?igsh=MzRlODBiNWFlZA==\n90 minute signature facial & clothing store",
+      "share": {
+        "link": "https://www.instagram.com/_u/muka_concepts",
+        "profile_share_username": "muka_concepts",
+        "profile_share_name": "Muka Concepts"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1706070395632,
+      "content": "So glad to finally meet you in person",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1705367259871,
+      "content": "Thank you dear !!!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Iselin Amanda",
+      "timestamp_ms": 1705339742754,
+      "content": "This is such a beautiful look!",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "CARINA HARDY",
+          "timestamp": 1705367255
+        }
+      ],
+      "share": {
+        "link": "https://instagram.com/stories/carinahardy.studio/3280704942813711083"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Iselin Amanda",
+      "timestamp_ms": 1704933240889,
+      "content": "Okay, that\u00e2\u0080\u0099s very helpful :-) might see if I can send it with a friend x \nThank you for you help \u00f0\u009f\u008c\u00b7\u00f0\u009f\u008c\u00b7",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "CARINA HARDY",
+          "timestamp": 1704933314
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1704933174558,
+      "content": "We always just mule with humans",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1704933156646,
+      "content": "heheh it doesn\u00e2\u0080\u0099t matter to customs unfortunately!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Iselin Amanda",
+      "timestamp_ms": 1704933109455,
+      "content": "Ah, that\u00e2\u0080\u0099s very good to know, thank you \u00f0\u009f\u008c\u00b7 do you know if it\u00e2\u0080\u0099s the same even for gifts (should be no custom fee?)",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Iselin Amanda",
+      "timestamp_ms": 1704932989590,
+      "content": "Reacted \u00e2\u009d\u00a4\u00ef\u00b8\u008f to your message ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CARINA HARDY",
+      "timestamp_ms": 1704932982256,
+      "content": "Hi dear! \nIs it an international package arriving into bali? Customs and duties is a big pain in the bum. I have never received international packages in Bali because of this - so I can\u00e2\u0080\u0099t reccomend it because it\u00e2\u0080\u0099s a headache!\nIf it\u00e2\u0080\u0099s domestic, happy to share our address !",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Iselin Amanda",
+          "timestamp": 1704932989
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Iselin Amanda",
+      "timestamp_ms": 1704931191429,
+      "audio_files": [
+        {
+          "uri": "your_instagram_activity/messages/inbox/iselinamanda_793832835352828/audio/1083288176245442.aac",
+          "creation_timestamp": 1704931188
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Iselin Amanda",
+  "is_still_participant": true,
+  "thread_path": "inbox/iselinamanda_793832835352828",
+  "magic_words": [
+    
+  ]
+}

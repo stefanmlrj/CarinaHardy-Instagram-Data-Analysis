@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "estherloag"
+    },
+    {
+      "name": "CARINA HARDY"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "estherloag",
+      "timestamp_ms": 1711161711907,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "estherloag",
+      "timestamp_ms": 1711161680001,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "estherloag",
+  "is_still_participant": true,
+  "thread_path": "inbox/estherloag_1082455199819545",
+  "magic_words": [
+    
+  ]
+}
