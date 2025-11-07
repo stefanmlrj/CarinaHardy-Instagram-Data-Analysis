@@ -69,25 +69,20 @@ def flatten_reels_json(reels_file: Path) -> pd.DataFrame:
     Converts nested Instagram Reels JSON export into a flat tabular DataFrame.
     Each reel becomes one row.
     """
-    # Load the JSON file correctly
     data = load_json_any(reels_file)
     
-    # Debugging: Check if data is a dictionary and get the key holding the list
     print(f"Loaded Reels JSON data type: {type(data)}")
     
-    if isinstance(data, dict):  # Check if the loaded data is a dictionary
+    if isinstance(data, dict):
         print(f"Keys in the dictionary: {data.keys()}")
-        # Assuming "ig_reels_media" contains the list of reels, modify if needed
         data = data.get("ig_reels_media", [])
     
-    # Ensure that data is a list
     if not isinstance(data, list):
         raise ValueError("Reels JSON structure is not in the expected format (list of dictionaries).")
     
     flattened_rows = []
 
     for item in data:
-        # Extract relevant fields from the reels JSON
         top_creation = item.get("creation_timestamp", None)
         top_title = item.get("title", "")
         media_list = item.get("media", [])
@@ -101,7 +96,6 @@ def flatten_reels_json(reels_file: Path) -> pd.DataFrame:
 
     df = pd.DataFrame(flattened_rows)
     
-    # Flatten any nested fields (like camera metadata, cross post source, etc.)
     if "media_metadata" in df.columns:
         df["media_metadata.camera_metadata.has_camera_metadata"] = df["media_metadata"].apply(
             lambda x: x.get("camera_metadata", {}).get("has_camera_metadata") if isinstance(x, dict) else None

@@ -9,10 +9,8 @@ def analyze_engagement_by_time(posts_df: pd.DataFrame):
     """
     posts_df['hour'] = posts_df['timestamp'].dt.hour
 
-    # Calculate average engagement per hour
     hourly_engagement = posts_df.groupby('hour')['engagement'].mean().reset_index()
 
-    # Plot the result
     plt.figure(figsize=(10, 6))
     plt.plot(hourly_engagement['hour'], hourly_engagement['engagement'], marker='o')
     plt.title('Average Engagement by Hour of Day')
@@ -25,13 +23,11 @@ def analyze_engagement_by_content_type(posts_df: pd.DataFrame):
     """
     Analyzes engagement based on content type (e.g., post, story, reel).
     """
-    # Assuming there is a 'content_type' column in the data
     if 'content_type' not in posts_df.columns:
         raise ValueError("Missing 'content_type' column in data")
 
     content_engagement = posts_df.groupby('content_type')[['engagement', 'likes', 'comments']].mean().reset_index()
 
-    # Plot content type engagement comparison
     content_engagement.set_index('content_type')[['engagement', 'likes', 'comments']].plot(kind='bar', figsize=(12, 6))
     plt.title('Engagement by Content Type')
     plt.ylabel('Average Engagement')

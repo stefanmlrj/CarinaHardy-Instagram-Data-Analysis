@@ -72,7 +72,6 @@ def load_insights_posts(target: Path) -> pd.DataFrame:
     """
     p = None
     if target.is_dir():
-        # Search recursively for the right file
         cands = list(target.rglob("logged_information/past_instagram_insights/posts.json"))
         if not cands:
             cands = list(target.rglob("**/posts.json"))
@@ -96,13 +95,11 @@ def load_insights_posts(target: Path) -> pd.DataFrame:
     for entry in entries:
         row = {}
 
-        # ---- media info ----
         media = _first_media_dict(entry.get("media_map_data", {}))
         row["uri"] = media.get("uri")
         row["creation_timestamp"] = media.get("creation_timestamp")
         row["title"] = media.get("title")
 
-        # ---- metrics ----
         sdata = entry.get("string_map_data", {})
         if isinstance(sdata, dict):
             for k, v in sdata.items():
@@ -115,7 +112,6 @@ def load_insights_posts(target: Path) -> pd.DataFrame:
 
     df = pd.DataFrame(rows)
 
-    # Rename metrics to consistent lowercase names
     rename_map = {
         "Likes": "likes",
         "Comments": "comments",
@@ -128,7 +124,6 @@ def load_insights_posts(target: Path) -> pd.DataFrame:
     }
     df = df.rename(columns=rename_map)
 
-    # Ensure numeric columns exist
     for col in ["likes","comments","reach","impressions","saves","shares","profile_visits","follows"]:
         if col in df.columns:
             df[col] = pd.to_numeric(df[col], errors="coerce").fillna(0).astype(int)
@@ -231,7 +226,6 @@ def merge_posts_with_insights(posts_df: pd.DataFrame, insights_df: pd.DataFrame)
     if merge_keys:
         out = out.merge(insights_df, how="left", on=merge_keys, suffixes=("", "_insights"))
     else:
-        # fallback: timestamp nearest join
         if "creation_timestamp" in posts_df.columns and "creation_timestamp" in insights_df.columns:
             out = pd.merge_asof(
                 posts_df.sort_values("creation_timestamp"),

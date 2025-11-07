@@ -10,13 +10,10 @@ def add_time_features(df: pd.DataFrame) -> pd.DataFrame:
     """
     df = df.copy()
 
-    # Extract Hour of Day (0-23)
     df['hour'] = df['creation_timestamp'].dt.hour
 
-    # Extract Day of the Week (e.g., Monday, Tuesday, ...)
     df['weekday'] = df['creation_timestamp'].dt.day_name()
 
-    # Extract Month (e.g., January, February, ...)
     df['month'] = df['creation_timestamp'].dt.month_name()
 
     return df
@@ -28,10 +25,8 @@ def analyze_engagement_by_time(df: pd.DataFrame) -> None:
     - Day of the week
     - Month of the year
     """
-    # Add time-based features
     df = add_time_features(df)
 
-    # Engagement by Hour
     hourly_engagement = df.groupby('hour')['engagement'].mean().reset_index()
 
     plt.figure(figsize=(10, 6))
@@ -42,7 +37,6 @@ def analyze_engagement_by_time(df: pd.DataFrame) -> None:
     plt.grid(True)
     plt.show()
 
-    # Engagement by Day of the Week
     weekday_engagement = df.groupby('weekday')['engagement'].mean().reindex([
         'Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday', 'Sunday'
     ]).reset_index()
@@ -56,7 +50,6 @@ def analyze_engagement_by_time(df: pd.DataFrame) -> None:
     plt.tight_layout()
     plt.show()
 
-    # Engagement by Month
     monthly_engagement = df.groupby('month')['engagement'].mean().reindex([
         'January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 
         'September', 'October', 'November', 'December'
