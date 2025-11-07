@@ -5,20 +5,13 @@ def analyze_content_performance_by_type(df: pd.DataFrame):
     """
     Analyzes content performance by content type (e.g., portrait vs landscape, with/without people).
     """
-    # Group by 'aspect_ratio' and calculate the mean engagement
-    performance = df.groupby('aspect_ratio')[['likes', 'comments', 'engagement']].mean()
+    # Group by 'content_type' (image vs. video) and calculate the mean engagement
+    performance = df.groupby('content_type')[['likes', 'comments', 'engagement']].mean()
 
-    # Plot content performance by aspect ratio (portrait vs landscape)
-    performance.plot(kind='bar', figsize=(12, 6), title="Content Performance by Aspect Ratio")
+    # Plot content performance by content type
+    performance.plot(kind='bar', figsize=(12, 6), title="Content Performance by Content Type")
     plt.ylabel("Average Engagement")
-    plt.xlabel("Aspect Ratio (Portrait vs Landscape)")
-    plt.show()
-
-    # Group by 'contains_people' and analyze
-    people_performance = df.groupby('contains_people')[['likes', 'comments', 'engagement']].mean()
-    people_performance.plot(kind='bar', figsize=(12, 6), title="Content Performance With/Without People")
-    plt.ylabel("Average Engagement")
-    plt.xlabel("Contains People (1 = Yes, 0 = No)")
+    plt.xlabel("Content Type (Image vs Video)")
     plt.show()
 
 def segment_by_engagement(df: pd.DataFrame):

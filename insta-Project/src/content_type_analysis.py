@@ -1,18 +1,69 @@
 import pandas as pd
+import matplotlib.pyplot as plt
 
-def categorize_image_content(df: pd.DataFrame) -> pd.DataFrame:
+def add_time_features(df: pd.DataFrame) -> pd.DataFrame:
     """
-    Categorizes image content based on its attributes like file extension and presence of people.
+    Adds time-based features to the DataFrame, such as:
+    - Hour of the day
+    - Day of the week
+    - Month of the year
     """
     df = df.copy()
 
-    # Content type: Image (e.g., .jpg, .png) vs. Video (e.g., .mp4)
-    df['content_type'] = df['uri'].apply(lambda x: 'Image' if x.endswith(('.jpg', '.png')) else ('Video' if x.endswith('.mp4') else 'Other'))
+    # Extract Hour of Day (0-23)
+    df['hour'] = df['creation_timestamp'].dt.hour
 
-    # Presence of people: Simple heuristic if title contains common person names
-    df['contains_people'] = df['title'].apply(lambda x: 1 if 'person' in str(x).lower() else 0)
-    
-    # Presence of Jewelry: Basic heuristic or metadata
-    df['contains_jewelry'] = df['title'].apply(lambda x: 1 if 'jewelry' in str(x).lower() else 0)
+    # Extract Day of the Week (e.g., Monday, Tuesday, ...)
+    df['weekday'] = df['creation_timestamp'].dt.day_name()
+
+    # Extract Month (e.g., January, February, ...)
+    df['month'] = df['creation_timestamp'].dt.month_name()
 
     return df
+
+def analyze_engagement_by_time(df: pd.DataFrame) -> None:
+    """
+    Analyzes engagement based on the time of the post: 
+    - Hour of the day
+    - Day of the week
+    - Month of the year
+    """
+    # Add time-based features
+    df = add_time_features(df)
+
+    # Engagement by Hour
+    hourly_engagement = df.groupby('hour')['engagement'].mean().reset_index()
+
+    plt.figure(figsize=(10, 6))
+    plt.plot(hourly_engagement['hour'], hourly_engagement['engagement'], marker='o')
+    plt.title("Average Engagement by Hour of Day")
+    plt.xlabel("Hour of Day")
+    plt.ylabel("Average Engagement")
+    plt.grid(True)
+    plt.show()
+
+    # Engagement by Day of the Week
+    weekday_engagement = df.groupby('weekday')['engagement'].mean().reindex([
+        'Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday', 'Sunday'
+    ]).reset_index()
+
+    plt.figure(figsize=(10, 6))
+    plt.bar(weekday_engagement['weekday'], weekday_engagement['engagement'])
+    plt.title("Average Engagement by Day of Week")
+    plt.xlabel("Day of Week")
+    plt.ylabel("Average Engagement")
+    plt.xticks(rotation=45)
+    plt.tight_layout()
+    plt.show()
+
+    # Engagement by Month
+    monthly_engagement = df.groupby('month')['engagement'].mean().reindex([
+        'January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 
+        'September', 'October', 'November', 'December'
+    ]).reset_index()
+
+    plt.figure(figsize=(10, 6))
+    plt.plot(monthly_engagement['month'], monthly_engagement['engagement'], marker='o')
+    plt.title("Average Engagement by Month")
+    plt.xlabel("Month")
+    plt.ylabel("Average Enga
