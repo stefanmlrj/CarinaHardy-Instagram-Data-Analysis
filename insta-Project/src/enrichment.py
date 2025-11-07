@@ -139,6 +139,76 @@ def load_insights_posts(target: Path) -> pd.DataFrame:
             "impressions","saves","shares","profile_visits","follows"]
     return df[keep]
 
+def load_reels_insights(target: Path) -> pd.DataFrame:
+    """
+    Load reel-level insights (likes, comments, reach, etc.) from Instagram's reels.json.
+    Works when you pass either the ROOT folder of the export or the file itself.
+
+    Returns tidy columns:
+    ['uri', 'creation_timestamp', 'title', 'likes', 'comments', 'reach', 'impressions', 'saves', 'shares']
+    """
+    p = None
+    if target.is_dir():
+        cands = list(target.rglob("your_instagram_activity/media/reels.json"))
+        p = cands[0] if cands else None
+    else:
+        p = target
+
+    if not p or not p.exists():
+        print("reels.json not found under the provided target.")
+        return pd.DataFrame()
+
+    raw = _load_json_any(p)
+    entries = _coerce_list(raw)
+
+    if not entries:
+        print("Could not coerce reels.json into a list. Top-level keys:",
+              list(raw.keys()) if isinstance(raw, dict) else type(raw).__name__)
+        return pd.DataFrame()
+
+    rows = []
+    for entry in entries:
+        row = {}
+
+        media = _first_media_dict(entry.get("media", {}))
+        row["uri"] = media.get("uri")
+        row["creation_timestamp"] = media.get("creation_timestamp")
+        row["title"] = media.get("title")
+
+        sdata = entry.get("string_map_data", {})
+        if isinstance(sdata, dict):
+            for k, v in sdata.items():
+                if not isinstance(v, dict):
+                    continue
+                val = _parse_intish(v.get("value"))
+                row[k] = val
+
+        rows.append(row)
+
+    df = pd.DataFrame(rows)
+
+    rename_map = {
+        "Likes": "likes",
+        "Comments": "comments",
+        "Saves": "saves",
+        "Shares": "shares",
+        "Accounts reached": "reach",
+        "Impressions": "impressions",
+        "Profile visits": "profile_visits",
+        "Follows": "follows",
+    }
+    df = df.rename(columns=rename_map)
+
+    for col in ["likes", "comments", "reach", "impressions", "saves", "shares", "profile_visits", "follows"]:
+        if col in df.columns:
+            df[col] = pd.to_numeric(df[col], errors="coerce").fillna(0).astype(int)
+        else:
+            df[col] = 0
+
+    keep = ["uri", "creation_timestamp", "title", "likes", "comments", "reach",
+            "impressions", "saves", "shares", "profile_visits", "follows"]
+    return df[keep]
+
 # --------------------------------------------------
 # Merge helper
 # --------------------------------------------------

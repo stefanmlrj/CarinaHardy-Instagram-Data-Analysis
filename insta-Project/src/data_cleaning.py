@@ -16,13 +16,16 @@ def load_json_any(p: Path):
             raw = f.read().decode("utf-8", "ignore")
     else:
         raw = p.read_text(encoding="utf-8", errors="ignore")
+        
     try:
         data = json.loads(raw)
     except json.JSONDecodeError:
         raw_fixed = re.sub(r",\s*([}\]])", r"\1", raw)
         data = json.loads(raw_fixed)
+    
+    print(f"Loaded data type: {type(data)}")
+    
     return data
-
 
 def flatten_instagram_json(posts_file: Path) -> pd.DataFrame:
     """
@@ -61,7 +64,58 @@ def flatten_instagram_json(posts_file: Path) -> pd.DataFrame:
 
     return df
 
-# Timezone: Asia/Jakarta (UTC+7)
+def flatten_reels_json(reels_file: Path) -> pd.DataFrame:
+    """
+    Converts nested Instagram Reels JSON export into a flat tabular DataFrame.
+    Each reel becomes one row.
+    """
+    # Load the JSON file correctly
+    data = load_json_any(reels_file)
+    
+    # Debugging: Check if data is a dictionary and get the key holding the list
+    print(f"Loaded Reels JSON data type: {type(data)}")
+    
+    if isinstance(data, dict):  # Check if the loaded data is a dictionary
+        print(f"Keys in the dictionary: {data.keys()}")
+        # Assuming "ig_reels_media" contains the list of reels, modify if needed
+        data = data.get("ig_reels_media", [])
+    
+    # Ensure that data is a list
+    if not isinstance(data, list):
+        raise ValueError("Reels JSON structure is not in the expected format (list of dictionaries).")
+    
+    flattened_rows = []
+
+    for item in data:
+        # Extract relevant fields from the reels JSON
+        top_creation = item.get("creation_timestamp", None)
+        top_title = item.get("title", "")
+        media_list = item.get("media", [])
+
+        for media in media_list:
+            row = {}
+            row.update(media)
+            row["top_creation_timestamp"] = top_creation
+            row["top_title"] = top_title
+            flattened_rows.append(row)
+
+    df = pd.DataFrame(flattened_rows)
+    
+    # Flatten any nested fields (like camera metadata, cross post source, etc.)
+    if "media_metadata" in df.columns:
+        df["media_metadata.camera_metadata.has_camera_metadata"] = df["media_metadata"].apply(
+            lambda x: x.get("camera_metadata", {}).get("has_camera_metadata") if isinstance(x, dict) else None
+        )
+        df = df.drop(columns=["media_metadata"])
+
+    if "cross_post_source" in df.columns:
+        df["cross_post_source.source_app"] = df["cross_post_source"].apply(
+            lambda x: x.get("source_app") if isinstance(x, dict) else None
+        )
+        df = df.drop(columns=["cross_post_source"])
+
+    return df
+
 TZ_OFFSET_HOURS = 7
 LOCAL_TZ = timezone(timedelta(hours=TZ_OFFSET_HOURS))
 
@@ -90,19 +144,16 @@ def clean_data(df: pd.DataFrame) -> pd.DataFrame:
     """
     df = df.copy()
 
-    # Identify timestamp columns (contains 'timestamp')
     ts_cols = [c for c in df.columns if "timestamp" in c.lower()]
     for col in ts_cols:
         df[col] = df[col].apply(to_dt_safe)
 
-    # Fill missing string and numeric values
     df = df.fillna({
         "title": "",
         "top_title": "",
         "uri": ""
     })
 
-    # Optional: add derived columns
     if "creation_timestamp" in df.columns:
         df["creation_date"] = df["creation_timestamp"].dt.date
         df["creation_month"] = df["creation_timestamp"].dt.to_period("M")
