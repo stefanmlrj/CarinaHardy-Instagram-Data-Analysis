@@ -61,38 +61,12 @@ pip install -r requirements.txt
 
    * Posts are segmented into **high**, **medium**, and **low** performance categories based on **log-transformed engagement rates** to account for the skew in engagement data.
 
-   ![Performance Categories](insta-Project/data/source_data/processed/performance_categories.png)
 
-   ## High Performing Posts
-   ![High Performance 1](insta-Project/data/source_data/processed/HPP_1.png)
-   ![High Performance 2](insta-Project/data/source_data/processed/HPP_2.png)
-   
-   ## Medium Performing Posts
-   ![Medium Performance 1](insta-Project/data/source_data/processed/MPP_1.png)
-   ![Medium Performance 2](insta-Project/data/source_data/processed/MPP_2.png)
-   
-   ## Low Performing Posts
-   ![Low Performance 1](insta-Project/data/source_data/processed/LPP_1.png)
-   ![Low Performance 2](insta-Project/data/source_data/processed/LPP_2.png)
 
 
 3. **Exploratory Data Analysis**:
 
    * The analysis includes visualizations of engagement by **hour of day**, **day of week**, and **month**, as well as relationships between **profile visits**, **follows**, **saves**, and engagement.
-
-   ![Engagement Rate Log Transformed](insta-Project/data/source_data/processed/engagement_rate_log_transformed.png)
-   ![Profile Visits vs Engagement Rate](insta-Project/data/source_data/processed/profile_visits_vs_engagement_rate.png)
-   ![Follow vs Engagement Rate](insta-Project/data/source_data/processed/follow_vs_engagement_rate.png)
-   ![Saves vs Engagement Rate](insta-Project/data/source_data/processed/saves_vs_engagement_rate.png)
-   ![Monthly Total Engagement](insta-Project/data/source_data/processed/monthly_total_engagement.png)
-   ![Average Engagement by Hour of Day](insta-Project/data/source_data/processed/average_engagement_by_hour_of_day.png)
-   ![Average Engagement by Day of Week](insta-Project/data/source_data/processed/avg_engagement_by_day_of_week.png)
-   ![Comparison High, Mid, Low Performing Posts](insta-Project/data/source_data/processed/Comparison_high_mid_low_performing_posts.png)
-
-   ## FOR HIGH PERFORMING POSTS
-   ![HPP Engagement by Day](insta-Project/data/source_data/processed/HPP_engagement_by_day.png)
-   ![HPP Engagement by Hour](insta-Project/data/source_data/processed/HPP_engagement_by_hour.png)
-   ![HPP Monthly Total Engagement](insta-Project/data/source_data/processed/HPP_monthly_total_engagement.png)
 
 
 4. **Insights & Recommendations**:
@@ -108,24 +82,57 @@ pip install -r requirements.txt
 * **Engagement by Day of the Week: When to Post for Maximum Impact**:
 
   * When analyzing the day of the week, I found that Fridays generally saw the highest average engagement across all posts. This suggests that users tend to be more active on Instagram towards the end of the workweek—likely as they relax and browse social media after a busy week. However, when I focused specifically on high-performing posts, Saturdays stood out as the top day for engagement.
-    It makes sense—on weekends, especially Saturdays, people have more free time to engage with content. With fewer obligations, users have the chance to interact more deeply with posts. This makes Saturdays the optimal day for posting content that you want to perform well.
-    Interestingly, Monday and Friday also showed strong engagement, indicating that the beginning and end of the week are key moments when users are active on Instagram. Even though Saturdays lead the pack, there’s still good engagement on these other weekdays.
+  * It makes sense—on weekends, especially Saturdays, people have more free time to engage with content. With fewer obligations, users have the chance to interact more deeply with posts. This makes Saturdays the optimal day for posting content that you want to perform well.
+  * Interestingly, Monday and Friday also showed strong engagement, indicating that the beginning and end of the week are key moments when users are active on Instagram. Even though Saturdays lead the pack, there’s still good engagement on these other weekdays.
+  
+  ![Average Engagement by Day of Week](insta-Project/data/source_data/processed/avg_engagement_by_day_of_week.png)
+  ![HPP Engagement by Day](insta-Project/data/source_data/processed/HPP_engagement_by_day.png)
 
 * **Engagement by Hour of the Day: Timing Is Everything**:
 
   * Timing your posts also plays a huge role in how well they perform. When I looked at engagement by hour of the day, I found that posts published in the morning—specifically between 8 AM and 10 AM—tended to get the most interaction. After that, engagement gradually dropped off throughout the day.
     This suggests that people are most active early in the morning before they get busy with the rest of their day. If you want to maximize your post’s visibility and engagement, morning posts are your best bet.
+    
+    ![Average Engagement by Hour of Day](insta-Project/data/source_data/processed/average_engagement_by_hour_of_day.png)
+    ![HPP Engagement by Hour](insta-Project/data/source_data/processed/HPP_engagement_by_hour.png)
+
+* **Engagement rate by Month and seeing the distribution of it**:
+   * Monthly distribution are shown below, indicating a continuous drop from march to end of year. Could this be because posts are not responded well?
+   
+   ![Engagement Rate Log Transformed](insta-Project/data/source_data/processed/engagement_rate_log_transformed.png)
+
+   ![Monthly Total Engagement](insta-Project/data/source_data/processed/monthly_total_engagement.png)
+   ![HPP Monthly Total Engagement](insta-Project/data/source_data/processed/HPP_monthly_total_engagement.png)
 
 * **Saves: An Indicator of Content Value**:
 
-  * One of the most interesting findings was how saves correlate with engagement. Posts that were saved by users tended to see higher overall engagement. This suggests that saves are a great indicator of content value—if people are saving your posts, they’re finding them useful or interesting enough to come back to later.
-    Encouraging users to save your posts could help boost long-term engagement. Creating content that’s informative, shareable, or particularly valuable to your audience is key to getting those saves and increasing interactions in the future.
+  * One of the most interesting findings was how saves correlate with engagement. Posts that were saved by users tended to see higher overall engagement. This suggests that saves are a great indicator of content value—if people are saving your posts, they’re finding them useful or interesting enough to come back to later.Encouraging users to save your posts could help boost long-term engagement. Creating content that’s informative, shareable, or particularly valuable to your audience is key to getting those saves and increasing interactions in the future.
+  
+  ![Saves vs Engagement Rate](insta-Project/data/source_data/processed/saves_vs_engagement_rate.png)
+
+  ### Compare to other metrics, saves are the leading indicator for engagement rate
+  ![Profile Visits vs Engagement Rate](insta-Project/data/source_data/processed/profile_visits_vs_engagement_rate.png)
+  ![Follow vs Engagement Rate](insta-Project/data/source_data/processed/follow_vs_engagement_rate.png)
 
 * **Medium-Performing Posts: An Opportunity for Growth**:
 
   * Most of the posts I analyzed fell into the medium-performing category. These posts performed decently, but there’s definitely room for improvement. The good news is that there’s a big opportunity to turn medium-performing posts into high-performing ones.
-    By analyzing what makes high-performing posts successful—such as their timing, content quality, and engagement strategies—I can identify ways to improve medium posts. Small tweaks like better visuals, more relevant hashtags, and engaging captions can help push these posts into the high-performing category.
-
+  By analyzing what makes high-performing posts successful—such as their timing, content quality, and engagement strategies—I can identify ways to improve medium posts. Small tweaks like better visuals, more relevant hashtags, and engaging captions can help push these posts into the high-performing category.
+  
+  ![Comparison High, Mid, Low Performing Posts](insta-Project/data/source_data/processed/Comparison_high_mid_low_performing_posts.png)
+  ![Performance Categories](insta-Project/data/source_data/processed/performance_categories.png)
+  
+  ## High Performing Posts
+  ![High Performance 1](insta-Project/data/source_data/processed/HPP_1.png)
+  ![High Performance 2](insta-Project/data/source_data/processed/HPP_2.png)
+  
+  ## Medium Performing Posts
+  ![Medium Performance 1](insta-Project/data/source_data/processed/MPP_1.png)
+  ![Medium Performance 2](insta-Project/data/source_data/processed/MPP_2.png)
+   
+  ## Low Performing Posts
+  ![Low Performance 1](insta-Project/data/source_data/processed/LPP_1.png)
+  ![Low Performance 2](insta-Project/data/source_data/processed/LPP_2.png)
 ---
 
 ## Suggestions & Recommendations
