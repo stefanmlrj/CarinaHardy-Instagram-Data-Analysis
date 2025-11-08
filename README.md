@@ -167,7 +167,7 @@ While this analysis provides valuable insights, there are several avenues for fu
 
 1. **Content Type Analysis**:
 
-   * Investigate which content types (e.g., images, videos, carousels) are most effective at driving engagement. Understanding which type of media resonates with users can help optimize future content.
+   * Investigate which content types (e.g., images, videos, carousels) are most effective at driving engagement. Understanding which type of media resonates with users can help optimize future content. Furthermore, pushing **saves** are very important, understanding what kind of posts are saved, could be a game changer. 
 
 2. **Granular Time Optimization**:
 
@@ -188,12 +188,6 @@ While this analysis provides valuable insights, there are several avenues for fu
 6. **A/B Testing**:
 
    * Use A/B testing for different **post formats**, **captions**, and **imagery** to understand what works best with the audience and refine content strategies.
-
----
-
-## Contributing
-
-If you'd like to contribute to this project, feel free to fork the repository, create a new branch, and submit a pull request. Suggestions for improvements and additional features are welcome!
 
 ---
 
