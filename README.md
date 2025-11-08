@@ -119,8 +119,8 @@ pip install -r requirements.txt
   * Most of the posts I analyzed fell into the medium-performing category. These posts performed decently, but there’s definitely room for improvement. The good news is that there’s a big opportunity to turn medium-performing posts into high-performing ones.
   By analyzing what makes high-performing posts successful—such as their timing, content quality, and engagement strategies—I can identify ways to improve medium posts. Small tweaks like better visuals, more relevant hashtags, and engaging captions can help push these posts into the high-performing category.
   
-  ![Comparison High, Mid, Low Performing Posts](insta-Project/data/source_data/processed/Comparison_high_mid_low_performing_posts.png)
   ![Performance Categories](insta-Project/data/source_data/processed/performance_categories.png)
+  ![Comparison High, Mid, Low Performing Posts](insta-Project/data/source_data/processed/Comparison_high_mid_low_performing_posts.png)
   
   ## High Performing Posts
   ![High Performance 1](insta-Project/data/source_data/processed/HPP_1.png)
