@@ -61,15 +61,47 @@ pip install -r requirements.txt
 
    * Posts are segmented into **high**, **medium**, and **low** performance categories based on **log-transformed engagement rates** to account for the skew in engagement data.
 
+   ![Performance Categories](insta-Project/data/source_data/processed/performance_categories.png)
+
+   ## High Performing Posts
+   ![High Performance 1](insta-Project/data/source_data/processed/HPP_1.png)
+   ![High Performance 2](insta-Project/data/source_data/processed/HPP_2.png)
+   
+   ## Medium Performing Posts
+   ![Medium Performance 1](insta-Project/data/source_data/processed/MPP_1.png)
+   ![Medium Performance 2](insta-Project/data/source_data/processed/MPP_2.png)
+   
+   ## Low Performing Posts
+   ![Low Performance 1](insta-Project/data/source_data/processed/LPP_1.png)
+   ![Low Performance 2](insta-Project/data/source_data/processed/LPP_2.png)
+
+
 3. **Exploratory Data Analysis**:
 
    * The analysis includes visualizations of engagement by **hour of day**, **day of week**, and **month**, as well as relationships between **profile visits**, **follows**, **saves**, and engagement.
+
+   ![Engagement Rate Log Transformed](insta-Project/data/source_data/processed/engagement_rate_log_transformed.png)
+   ![Profile Visits vs Engagement Rate](insta-Project/data/source_data/processed/profile_visits_vs_engagement_rate.png)
+   ![Follow vs Engagement Rate](insta-Project/data/source_data/processed/follow_vs_engagement_rate.png)
+   ![Saves vs Engagement Rate](insta-Project/data/source_data/processed/saves_vs_engagement_rate.png)
+   ![Monthly Total Engagement](insta-Project/data/source_data/processed/monthly_total_engagement.png)
+   ![Average Engagement by Hour of Day](insta-Project/data/source_data/processed/average_engagement_by_hour_of_day.png)
+   ![Average Engagement by Day of Week](insta-Project/data/source_data/processed/avg_engagement_by_day_of_week.png)
+   ![Comparison High, Mid, Low Performing Posts](insta-Project/data/source_data/processed/Comparison_high_mid_low_performing_posts.png)
+
+   ## FOR HIGH PERFORMING POSTS
+   ![HPP Engagement by Day](insta-Project/data/source_data/processed/HPP_engagement_by_day.png)
+   ![HPP Engagement by Hour](insta-Project/data/source_data/processed/HPP_engagement_by_hour.png)
+   ![HPP Monthly Total Engagement](insta-Project/data/source_data/processed/HPP_monthly_total_engagement.png)
+
 
 4. **Insights & Recommendations**:
 
    * The analysis identifies key trends such as peak engagement times, the correlation between profile visits and engagement, and the importance of saves in determining content success.
 
 ---
+
+**GRAPH AND ANALYSIS ARE LOCATED IN : insta-Project\data\source_data\processed**
 
 ## Findings & Insights
 
