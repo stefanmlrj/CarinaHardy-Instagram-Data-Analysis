@@ -97,7 +97,7 @@ pip install -r requirements.txt
     ![HPP Engagement by Hour](insta-Project/data/source_data/processed/HPP_engagement_by_hour.png)
 
 * **Engagement rate by Month and seeing the distribution of it**:
-   * Monthly distribution are shown below, indicating a continuous drop from march to end of year. Could this be because posts are not responded well?
+   * The monthly trend shows a clear decline in engagement from March through the end of the year. The early months, particularly March, captured strong audience interest, but engagement steadily weakened afterward, suggesting that the content might not have maintained the same level of resonance or consistency as the year progressed.
    
    ![Engagement Rate Log Transformed](insta-Project/data/source_data/processed/engagement_rate_log_transformed.png)
 
