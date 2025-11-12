@@ -1,4 +1,3 @@
-# HI TAVISH!!
 # Instagram Engagement Analysis
 
 This repository contains an in-depth analysis of Instagram post performance data. The primary goal of this project is to uncover insights about **user engagement**—including **likes**, **comments**, **saves**, and overall **engagement rates**—and to identify factors that influence high-performing content. By leveraging data-driven strategies, this analysis aims to help optimize posting schedules and content strategies to maximize engagement.
