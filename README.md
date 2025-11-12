@@ -207,29 +207,54 @@ pip install -r requirements.txt
 
 ## Suggestions & Recommendations
 
-Based on the analysis, here are some actionable recommendations to improve engagement on Instagram:
+Based on both engagement behavior and visual aesthetic analysis, here are several actionable recommendations to improve future content performance:
 
-1. **Post during peak times**:
+### **1. Optimize Posting Time and Frequency**
+   * Continue prioritizing **morning posts (8–10 AM)** when engagement peaks.
+   * **Saturdays** remain the top-performing day for overall reach and interaction.  
+   Supplement with **Monday or Friday** posts for consistent weekly visibility.
 
-   * Focus on posting during **early mornings** (8 AM to 10 AM) and on **Saturdays** for optimal engagement.
+### **2. Strengthen Visual Composition**
+   * **Increase contrast** slightly in future photos — bold light–dark separation makes visuals pop on crowded feeds.
+   * Maintain **moderate saturation** levels.  
+   Overly muted tones underperform, while oversaturated colors risk looking artificial.
+   * **Favor warmer tones** (soft yellows, golds, or sunlit highlights).  
+   These tend to elicit more emotional and aesthetic engagement.
+   * Keep brightness balanced — avoid both overexposed whites and dim, underlit visuals.
 
-2. **Increase Profile Visits and Follows**:
+### **3. Develop a Consistent Visual Identity**
+   * Posts in **Cluster 0 and 2** (high contrast or balanced tones) outperformed cooler, flatter clusters.  
+   Prioritize those visual styles for main feed aesthetics.
+   * Use consistent color palettes and tone ratios to reinforce brand recognition.  
+   This helps users instantly identify your posts within their feed.
 
-   * Create content that encourages people to visit your profile and follow your account, increasing exposure and engagement.
+### **4. Leverage “Saveable” Content**
+   * Since **saves** are the strongest engagement predictor, focus on creating content people want to reference later:
+      * Educational or informative graphics  
+      * Inspirational or emotionally resonant imagery  
+      * Tutorials, product context, or behind-the-scenes posts
+   * Encourage saving behavior with subtle CTAs (e.g., “Save this for later”)
 
-3. **Encourage Saves**:
+### **5. Elevate Medium-Performing Posts**
+   * Identify visual or caption differences between **Medium** and **High** performers.  
+   Usually, it’s a mix of weaker lighting, low contrast, or less engaging composition.
+   * Rework older posts using the aesthetic insights:
+      * Crop for focus or symmetry  
+      * Adjust contrast and warmth slightly  
+      * Refresh captions with context or story elements
 
-   * Since **saves** are a strong indicator of engagement, make sure your content is valuable enough for people to save it. Think about creating posts that users can refer back to later, such as **how-tos**, **lists**, or **inspirational content**.
+### **6. Test and Monitor Continuously**
+   * Implement **A/B testing** for:
+      * Visual treatments (lighting, tone, framing)
+      * Caption tone (informational vs. emotional)
+      * Timing adjustments (morning vs. midday)
+   * Track engagement movement per cluster group to validate visual trends over time.
 
-4. **Refine Medium-Performing Posts**:
-
-   * Take a closer look at your medium-performing posts and figure out what’s missing. Are the visuals engaging enough? Are the captions optimized to encourage interaction? Small adjustments here could push your content into the high-performing range.
-
-5. **Monitor and Test Continuously**:
-
-   * Regularly test different strategies, such as adjusting post times, trying new formats, or tweaking content, to continuously improve engagement.
-
----
+### **7. Combine Visual and Behavioral Insights**
+   * Engagement doesn’t depend on aesthetics alone—**timing, saves, and visual warmth together** create the strongest outcome.  
+   * Build your future content calendar using both:
+      * **Behavioral signals** (when and how users engage)
+      * **Aesthetic signals** (what kinds of visuals they respond to)
 
 ## Future Development
 
