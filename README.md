@@ -146,6 +146,7 @@ pip install -r requirements.txt
    
    ![Aesthetic Feature Importances](insta-Project/data/source_data/processed/aesthetic_feature_importances.png)
    ![Aesthetic Cluster Visualization](insta-Project/data/source_data/processed/aesthetic_cluster_visualization.png)
+   ![Aesthetic Cluster Visualization](insta-Project/data/source_data/processed/performance_by_aesthetic_cluster.png)
    
    ### **Summary of Model Insights**
    
@@ -160,9 +161,46 @@ pip install -r requirements.txt
    * These findings suggest that subtle visual cues—contrast, color warmth, and saturation—help shape engagement patterns, even if they don’t single-handedly predict them. Combining these insights with posting time and content strategy could improve visual consistency and audience resonance.
    
    ### **Example Visuals by Aesthetic Group**
-   ![High Contrast Warm Tones](insta-Project/data/source_data/processed/aesthetic_high_contrast_warm.png)
-   ![Low Contrast Cool Tones](insta-Project/data/source_data/processed/aesthetic_low_contrast_cool.png)
-   ![Moderate Saturation Balanced Lighting](insta-Project/data/source_data/processed/aesthetic_moderate_saturation.png)
+   
+   To better understand how image aesthetics relate to performance, I visualized representative samples from each cluster.
+   Each group highlights distinct tonal and stylistic tendencies captured during the aesthetic clustering process.
+   
+   | Cluster | Aesthetic Traits | README Label | Expected File Name(s) |
+   |----------|------------------|---------------|------------------------|
+   | **Cluster 0** | Bright, high contrast, warm tones — lively and visually engaging. | `High Contrast Warm Tones` | `Cluster0_Sample_1.png`, `Cluster0_Sample_2.png`, `Cluster0_Sample_3.png` |
+   | **Cluster 1** | Low brightness and warmth — muted, cooler palette with softer contrast. | `Low Contrast Cool Tones` | `Cluster1_Sample_1.png`, `Cluster1_Sample_2.png`, `Cluster1_Sample_3.png` |
+   | **Cluster 2** | Balanced lighting, moderate saturation, neutral warmth — natural feel. | `Moderate Saturation Balanced Lighting` | `Cluster2_Sample_1.png`, `Cluster2_Sample_2.png`, `Cluster2_Sample_3.png` |
+   | **Cluster 3** | Slightly higher brightness, warmer tone mix — soft, warm aesthetic. | *(optional additional group, can be skipped if redundant)* | `Cluster3_Sample_1.png`, `Cluster3_Sample_2.png`, `Cluster3_Sample_3.png` |
+   
+   #### **Cluster 0 — High Contrast Warm Tones**   
+   Images in this cluster feature bold lighting, deep shadows, and warm highlights.  
+   They stand out visually, often creating a sense of richness and texture that attracts attention.
+   ![Cluster 0 - Example 1](insta-Project/data/source_data/processed/Cluster0_Sample_1.png)
+   ![Cluster 0 - Example 2](insta-Project/data/source_data/processed/Cluster0_Sample_2.png)
+   ![Cluster 0 - Example 3](insta-Project/data/source_data/processed/Cluster0_Sample_3.png)
+
+   #### **Cluster 1 — Low Contrast Cool Tones**
+   This group leans toward cooler, softer hues with less contrast and brightness variation.  
+   It often represents a minimalist, calm aesthetic that performs steadily but not spectacularly.
+   
+   ![Cluster 1 - Example 1](insta-Project/data/source_data/processed/Cluster1_Sample_1.png)
+   ![Cluster 1 - Example 2](insta-Project/data/source_data/processed/Cluster1_Sample_2.png)
+   ![Cluster 1 - Example 3](insta-Project/data/source_data/processed/Cluster1_Sample_3.png)
+   
+   #### **Cluster 2 — Moderate Saturation, Balanced Lighting**
+   Images here balance light and shadow well, with natural tones and moderate color intensity.  
+   These visuals tend to feel realistic and approachable, aligning with mid- to high-engagement posts.
+   ![Cluster 2 - Example 1](insta-Project/data/source_data/processed/Cluster2_Sample_1.png)
+   ![Cluster 2 - Example 2](insta-Project/data/source_data/processed/Cluster2_Sample_2.png)
+   ![Cluster 2 - Example 3](insta-Project/data/source_data/processed/Cluster2_Sample_3.png)
+   
+   #### **Cluster 3 — Soft Warm Mix (Optional)**
+   This cluster blends slightly warm hues with gentle lighting.  
+   It creates a cozy, polished look that often complements lifestyle or jewelry product shots.
+   
+   ![Cluster 3 - Example 1](insta-Project/data/source_data/processed/Cluster3_Sample_1.png)
+   ![Cluster 3 - Example 2](insta-Project/data/source_data/processed/Cluster3_Sample_2.png)
+   ![Cluster 3 - Example 3](insta-Project/data/source_data/processed/Cluster3_Sample_3.png)
 
 ---
 
