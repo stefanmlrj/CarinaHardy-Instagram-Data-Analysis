@@ -75,8 +75,6 @@ pip install -r requirements.txt
 
 ---
 
-**GRAPH AND ANALYSIS ARE LOCATED IN : insta-Project\data\source_data\processed**
-
 ## Findings & Insights
 
 * **Engagement by Day of the Week: When to Post for Maximum Impact**:
@@ -133,7 +131,42 @@ pip install -r requirements.txt
   ## Low Performing Posts
   ![Low Performance 1](insta-Project/data/source_data/processed/LPP_1.png)
   ![Low Performance 2](insta-Project/data/source_data/processed/LPP_2.png)
+
+* **Image Aesthetics Analytics**:
+   * Beyond captions and posting time, I explored how **visual design characteristics**—like brightness, color warmth, contrast, and saturation—relate to engagement. Each image was analyzed for its color composition and tonal qualities, then clustered into aesthetic groups.
+   
+   * The analysis revealed that **contrast (`std_value`)** was the most influential visual feature, meaning posts with stronger light–dark variation tended to draw more attention and interaction. This could be because such images stand out more in users’ feeds and convey depth or texture that feels visually engaging.
+   
+   * **Warmth (`warm_ratio`)** followed closely, suggesting that images with warmer tones—such as those featuring sunlight, warm lighting, or earthy colors—generally perform better. Warm colors often create a sense of comfort and liveliness, which may resonate more with viewers compared to colder or muted tones.
+   
+   * **Color intensity (`avg_saturation`)** also played a moderate role. Vibrant, saturated images seem to perform slightly better than dull ones, indicating that dynamic and vivid visuals capture user attention more effectively. However, extreme saturation may reduce authenticity, so balance matters.
+   
+   * **Brightness (`avg_value`)** was less predictive overall, though posts with moderate brightness tended to perform best. Overly dark or overly washed-out visuals both correlated with slightly lower engagement.
+   
+   * Overall, while the model’s R² score was low—indicating that aesthetics alone can’t fully explain engagement—it still highlights meaningful trends: high-performing visuals are typically **warm, contrast-rich, and moderately saturated**. This aligns with what audiences intuitively respond to in lifestyle and creative content.
+   
+   ![Aesthetic Feature Importances](insta-Project/data/source_data/processed/aesthetic_feature_importances.png)
+   ![Aesthetic Cluster Visualization](insta-Project/data/source_data/processed/aesthetic_cluster_visualization.png)
+   
+   ### **Summary of Model Insights**
+   
+   | Feature | Description | Importance |
+   |----------|--------------|------------|
+   | **std_value** | Brightness contrast (visual depth and variation) | 0.31 |
+   | **warm_ratio** | Proportion of warm to cool tones (color temperature) | 0.24 |
+   | **avg_saturation** | Color vividness or intensity | 0.21 |
+   | **avg_value** | Overall brightness level | 0.19 |
+   | **cluster_0–3** | Aesthetic style clusters (visual combinations) | < 0.02 |
+   
+   * These findings suggest that subtle visual cues—contrast, color warmth, and saturation—help shape engagement patterns, even if they don’t single-handedly predict them. Combining these insights with posting time and content strategy could improve visual consistency and audience resonance.
+   
+   ### **Example Visuals by Aesthetic Group**
+   ![High Contrast Warm Tones](insta-Project/data/source_data/processed/aesthetic_high_contrast_warm.png)
+   ![Low Contrast Cool Tones](insta-Project/data/source_data/processed/aesthetic_low_contrast_cool.png)
+   ![Moderate Saturation Balanced Lighting](insta-Project/data/source_data/processed/aesthetic_moderate_saturation.png)
+
 ---
+
 
 ## Suggestions & Recommendations
 
