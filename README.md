@@ -145,6 +145,7 @@ pip install -r requirements.txt
    * Overall, while the model’s R² score was low—indicating that aesthetics alone can’t fully explain engagement—it still highlights meaningful trends: high-performing visuals are typically **warm, contrast-rich, and moderately saturated**. This aligns with what audiences intuitively respond to in lifestyle and creative content.
    
    ![Aesthetic Feature Importances](insta-Project/data/source_data/processed/aesthetic_feature_importances.png)
+   ![Random Forest - Feature Importances](insta-Project/data/source_data/processed/feature_importances.png)
    ![Aesthetic Cluster Visualization](insta-Project/data/source_data/processed/aesthetic_cluster_visualization.png)
    ![Aesthetic Cluster Visualization](insta-Project/data/source_data/processed/performance_by_aesthetic_cluster.png)
    
